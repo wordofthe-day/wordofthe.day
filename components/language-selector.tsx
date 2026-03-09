@@ -1,11 +1,12 @@
 "use client";
 
-import { Languages } from "lucide-react";
+import { Languages, Plus } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
+  DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { SUPPORTED_LANGUAGES, type Language } from "@/lib/data";
@@ -38,7 +39,7 @@ export function LanguageSelector({ value, onChange }: LanguageSelectorProps) {
         </span>
         <span className="sm:hidden uppercase">{value}</span>
       </DropdownMenuTrigger>
-      <DropdownMenuContent align="end" className="min-w-[140px]">
+      <DropdownMenuContent align="end" className="min-w-[180px]">
         {SUPPORTED_LANGUAGES.map((lang) => (
           <DropdownMenuItem
             key={lang.code}
@@ -48,6 +49,18 @@ export function LanguageSelector({ value, onChange }: LanguageSelectorProps) {
             {lang.label}
           </DropdownMenuItem>
         ))}
+        <DropdownMenuSeparator />
+        <DropdownMenuItem className="p-0">
+          <a
+            href="https://github.com/wordofthe-day/wordofthe.day/issues"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex w-full items-center px-1.5 py-1 text-muted-foreground"
+          >
+            <Plus className="size-3.5 mr-1.5" />
+            Request a language
+          </a>
+        </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>
   );

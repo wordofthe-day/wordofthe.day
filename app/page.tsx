@@ -5,7 +5,7 @@ import { Header } from "@/components/header";
 import { HeroSection } from "@/components/hero-section";
 
 export default function Home() {
-  const [language, setLanguage] = useState("en");
+  const [language, setLanguage] = useState("eng");
 
   return (
     <div className="flex min-h-svh flex-col bg-background">
