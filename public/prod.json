@@ -1,10 +1,14 @@
 {
     "eng": {
-        "word": "garrulous",
-        "pronunciation": "/ˈɡarʊləs/",
-        "partOfSpeech": "adjective",
-        "definition": "excessively talkative, especially on trivial matters",
-        "example": "He was a garrulous old man with many stories to tell.",
-        "dateUsed": 1773013061
+        "word": "wane",
+        "pronunciation": "/weɪn/",
+        "partOfSpeech": "verb",
+        "definition": "Decrease in vigor, power, or extent; become weaker.",
+        "examples": [
+            "As the moon wanes, we will see less of it at night.",
+            "His influence in the company is starting to wane.",
+            "The popularity of the product has begun to wane."
+        ],
+        "dateUsed": 1773018842
     }
 }
