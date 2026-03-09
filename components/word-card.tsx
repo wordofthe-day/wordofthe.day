@@ -49,15 +49,24 @@ export function WordCard({ data }: WordCardProps) {
             {data.definition}
           </p>
 
-          {/* Example sentence */}
-          <div className="mt-5 rounded-lg bg-muted/50 px-4 py-3.5">
-            <p className="text-xs font-medium uppercase tracking-wider text-muted-foreground mb-1.5">
-              Example
-            </p>
-            <p className="text-sm leading-relaxed text-foreground/80 italic break-words">
-              &ldquo;{data.example}&rdquo;
-            </p>
-          </div>
+          {/* Examples */}
+          {data.examples.length > 0 && (
+            <div className="mt-5 rounded-lg bg-muted/50 px-4 py-3.5">
+              <p className="text-xs font-medium uppercase tracking-wider text-muted-foreground mb-2">
+                {data.examples.length === 1 ? "Example" : "Examples"}
+              </p>
+              <ul className="space-y-2">
+                {data.examples.map((ex, i) => (
+                  <li
+                    key={i}
+                    className="text-sm leading-relaxed text-foreground/80 italic break-words"
+                  >
+                    &ldquo;{ex}&rdquo;
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
 
           {/* Date — bottom right */}
           <div className="mt-5 flex justify-end">

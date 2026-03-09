@@ -11,7 +11,7 @@ export interface WordOfTheDay {
   pronunciation: string;
   partOfSpeech: string;
   definition: string;
-  example: string;
+  examples: string[];
   audioUrl?: string;
   date: string;
 }
@@ -46,7 +46,7 @@ interface ProdWordEntry {
   pronunciation: string;
   partOfSpeech: string;
   definition: string;
-  example: string;
+  examples: string[];
   dateUsed: number; // epoch seconds
   audioUrl?: string;
 }
@@ -77,7 +77,7 @@ export async function getWordOfTheDay(
     pronunciation: entry.pronunciation,
     partOfSpeech: entry.partOfSpeech,
     definition: entry.definition,
-    example: entry.example,
+    examples: entry.examples,
     audioUrl: entry.audioUrl,
     date,
   };
