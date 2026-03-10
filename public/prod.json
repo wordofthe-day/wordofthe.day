@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "wane",
-        "pronunciation": "/weɪn/",
-        "partOfSpeech": "verb",
-        "definition": "Decrease in vigor, power, or extent; become weaker.",
+        "word": "xenophobia",
+        "pronunciation": "/ˌzɛnəˈfəʊbɪə/",
+        "partOfSpeech": "noun",
+        "definition": "dislike of or prejudice against people from other countries",
         "examples": [
-            "As the moon wanes, we will see less of it at night.",
-            "His influence in the company is starting to wane.",
-            "The popularity of the product has begun to wane."
+            "The politician was criticized for his xenophobic remarks.",
+            "The rise of xenophobia in the country was a cause for concern.",
+            "Campaigns against xenophobia are important to promote unity and understanding."
         ],
-        "dateUsed": 1773018842
+        "dateUsed": 1773104908
     }
 }
