@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "xenophobia",
-        "pronunciation": "/ˌzɛnəˈfəʊbɪə/",
-        "partOfSpeech": "noun",
-        "definition": "dislike of or prejudice against people from other countries",
+        "word": "Ebullient",
+        "pronunciation": "/ɪˈbʌljənt/",
+        "partOfSpeech": "adjective",
+        "definition": "cheerful and full of energy.",
         "examples": [
-            "The politician was criticized for his xenophobic remarks.",
-            "The rise of xenophobia in the country was a cause for concern.",
-            "Campaigns against xenophobia are important to promote unity and understanding."
+            "He was ebullient after his team won the championship.",
+            "The ebullient crowd cheered for their hero.",
+            "Her ebullient personality always lights up the room."
         ],
-        "dateUsed": 1773104908
+        "dateUsed": 1773191321
     }
 }
