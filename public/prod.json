@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Ebullient",
-        "pronunciation": "/ɪˈbʌljənt/",
-        "partOfSpeech": "adjective",
-        "definition": "cheerful and full of energy.",
+        "word": "Nemesis",
+        "pronunciation": "/ˈnɛmɪsɪs/",
+        "partOfSpeech": "noun",
+        "definition": "the inescapable agent of someone's or something's downfall.",
         "examples": [
-            "He was ebullient after his team won the championship.",
-            "The ebullient crowd cheered for their hero.",
-            "Her ebullient personality always lights up the room."
+            "The villain in the movie turned out to be the hero's nemesis.",
+            "His arrogance may turn out to be his nemesis.",
+            "She considered the other tennis player her biggest nemesis."
         ],
-        "dateUsed": 1773191321
+        "dateUsed": 1773277573
     }
 }
