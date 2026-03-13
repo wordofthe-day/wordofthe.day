@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Nemesis",
-        "pronunciation": "/ˈnɛmɪsɪs/",
+        "word": "yesteryear",
+        "pronunciation": "/ˈjɛstərjɪər/",
         "partOfSpeech": "noun",
-        "definition": "the inescapable agent of someone's or something's downfall.",
+        "definition": "Last year or the recent past, especially as nostalgically recalled.",
         "examples": [
-            "The villain in the movie turned out to be the hero's nemesis.",
-            "His arrogance may turn out to be his nemesis.",
-            "She considered the other tennis player her biggest nemesis."
+            "The movies of yesteryear had a certain charm.",
+            "The fashion of yesteryear is making a comeback.",
+            "He reminisced about the music of yesteryear."
         ],
-        "dateUsed": 1773277573
+        "dateUsed": 1773364315
     }
 }
