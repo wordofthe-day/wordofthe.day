@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "yesteryear",
-        "pronunciation": "/ˈjɛstərjɪər/",
-        "partOfSpeech": "noun",
-        "definition": "Last year or the recent past, especially as nostalgically recalled.",
+        "word": "yawn",
+        "pronunciation": "/jɔːn/",
+        "partOfSpeech": "verb",
+        "definition": "involuntarily open one's mouth wide and inhale deeply due to tiredness or boredom",
         "examples": [
-            "The movies of yesteryear had a certain charm.",
-            "The fashion of yesteryear is making a comeback.",
-            "He reminisced about the music of yesteryear."
+            "She yawned during the boring lecture.",
+            "The long day at work made him yawn.",
+            "Seeing others yawn often makes us yawn as well."
         ],
-        "dateUsed": 1773364315
+        "dateUsed": 1773450641
     }
 }
