@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "yawn",
-        "pronunciation": "/jɔːn/",
-        "partOfSpeech": "verb",
-        "definition": "involuntarily open one's mouth wide and inhale deeply due to tiredness or boredom",
+        "word": "Decadent",
+        "pronunciation": "/ˈdeɪkədənt/",
+        "partOfSpeech": "adjective",
+        "definition": "characterized by or reflecting a state of moral or cultural decline.",
         "examples": [
-            "She yawned during the boring lecture.",
-            "The long day at work made him yawn.",
-            "Seeing others yawn often makes us yawn as well."
+            "The decadent lifestyles of the rich and famous are often criticized.",
+            "The decadent dessert was a sinful indulgence.",
+            "His decadent behavior led to his downfall."
         ],
-        "dateUsed": 1773450641
+        "dateUsed": 1773537760
     }
 }
