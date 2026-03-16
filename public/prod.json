@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Decadent",
-        "pronunciation": "/ˈdeɪkədənt/",
+        "word": "wistful",
+        "pronunciation": "/ˈwɪstfʊl/",
         "partOfSpeech": "adjective",
-        "definition": "characterized by or reflecting a state of moral or cultural decline.",
+        "definition": "Having or showing a feeling of vague or regretful longing.",
         "examples": [
-            "The decadent lifestyles of the rich and famous are often criticized.",
-            "The decadent dessert was a sinful indulgence.",
-            "His decadent behavior led to his downfall."
+            "She had a wistful look in her eye.",
+            "He gave a wistful smile, thinking about his childhood.",
+            "The book ends on a wistful note."
         ],
-        "dateUsed": 1773537760
+        "dateUsed": 1773624152
     }
 }
