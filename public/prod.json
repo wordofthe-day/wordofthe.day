@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "meticulous",
-        "pronunciation": "/mɪˈtɪkjʊləs, mɪˈtɪkjələs/",
-        "partOfSpeech": "adjective",
-        "definition": "showing great attention to detail; very careful and precise",
+        "word": "harmony",
+        "pronunciation": "/ˈhɑːrməni/",
+        "partOfSpeech": "noun",
+        "definition": "the combination of simultaneously sounded musical notes to produce a pleasing effect",
         "examples": [
-            "He had always been so meticulous about his appearance.",
-            "Meticulous research",
-            "A meticulous craftsman."
+            "The piece owes its effect to the harmony and the quality of the vocal line.",
+            "The sound of harmony filled the room.",
+            "The girls sang in harmony."
         ],
-        "dateUsed": 1773796677
+        "dateUsed": 1773883076
     }
 }
