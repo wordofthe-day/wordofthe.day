@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "harmony",
-        "pronunciation": "/ˈhɑːrməni/",
-        "partOfSpeech": "noun",
-        "definition": "the combination of simultaneously sounded musical notes to produce a pleasing effect",
+        "word": "Xenophobic",
+        "pronunciation": "/ˌzɛnəˈfoʊbɪk/",
+        "partOfSpeech": "adjective",
+        "definition": "Having or showing a dislike of or prejudice against people from other countries.",
         "examples": [
-            "The piece owes its effect to the harmony and the quality of the vocal line.",
-            "The sound of harmony filled the room.",
-            "The girls sang in harmony."
+            "His xenophobic remarks were not appreciated.",
+            "The policy was criticized for being xenophobic.",
+            "Despite being a cosmopolitan city, some xenophobic attitudes still existed."
         ],
-        "dateUsed": 1773883076
+        "dateUsed": 1773969216
     }
 }
