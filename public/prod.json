@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Xenophobic",
-        "pronunciation": "/ˌzɛnəˈfoʊbɪk/",
-        "partOfSpeech": "adjective",
-        "definition": "Having or showing a dislike of or prejudice against people from other countries.",
+        "word": "hubris",
+        "pronunciation": "/ˈhjuːbrɪs/",
+        "partOfSpeech": "noun",
+        "definition": "excessive pride or self-confidence",
         "examples": [
-            "His xenophobic remarks were not appreciated.",
-            "The policy was criticized for being xenophobic.",
-            "Despite being a cosmopolitan city, some xenophobic attitudes still existed."
+            "His hubris led to his downfall.",
+            "The project failed because of the manager's hubris, not because of the team's skills.",
+            "It's pure hubris to think you can outwit Mother Nature."
         ],
-        "dateUsed": 1773969216
+        "dateUsed": 1774055331
     }
 }
