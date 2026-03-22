@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "hubris",
-        "pronunciation": "/ˈhjuːbrɪs/",
-        "partOfSpeech": "noun",
-        "definition": "excessive pride or self-confidence",
+        "word": "brobdingnagian",
+        "pronunciation": "/brɒbˈdɪŋnæɡiən/",
+        "partOfSpeech": "adjective",
+        "definition": "enormous or gigantic",
         "examples": [
-            "His hubris led to his downfall.",
-            "The project failed because of the manager's hubris, not because of the team's skills.",
-            "It's pure hubris to think you can outwit Mother Nature."
+            "The brobdingnagian mountain dominates the landscape.",
+            "He had a brobdingnagian appetite, eating twice as much as his friends.",
+            "The project was brobdingnagian in scope and took several years to complete."
         ],
-        "dateUsed": 1774055331
+        "dateUsed": 1774142265
     }
 }
