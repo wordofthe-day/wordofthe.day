@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "brobdingnagian",
-        "pronunciation": "/brɒbˈdɪŋnæɡiən/",
-        "partOfSpeech": "adjective",
-        "definition": "enormous or gigantic",
+        "word": "zephyr",
+        "pronunciation": "/ˈzɛfər/",
+        "partOfSpeech": "noun",
+        "definition": "a soft gentle breeze",
         "examples": [
-            "The brobdingnagian mountain dominates the landscape.",
-            "He had a brobdingnagian appetite, eating twice as much as his friends.",
-            "The project was brobdingnagian in scope and took several years to complete."
+            "The zephyr rustled the leaves in the trees.",
+            "A warm zephyr blew through the open window.",
+            "The zephyr cooled them as they sat on the beach."
         ],
-        "dateUsed": 1774142265
+        "dateUsed": 1774228687
     }
 }
