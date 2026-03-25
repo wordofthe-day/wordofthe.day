@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Soporific",
-        "pronunciation": "/ˌsɒpəˈrɪfɪk/",
+        "word": "Jocular",
+        "pronunciation": "/ˈdʒɒkjʊlər/",
         "partOfSpeech": "adjective",
-        "definition": "tending to induce drowsiness or sleep.",
+        "definition": "Fond of or characterized by joking; humorous or playful.",
         "examples": [
-            "The soporific effect of the medication made him drowsy.",
-            "The movie's soporific pace made it hard to stay awake.",
-            "The lecture was so soporific that many students were sleeping."
+            "His jocular personality made him the life of the party.",
+            "Despite the tension, he maintained a jocular demeanor.",
+            "He is known for his jocular comments during serious discussions."
         ],
-        "dateUsed": 1774314679
+        "dateUsed": 1774401400
     }
 }
