@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Jocular",
-        "pronunciation": "/ˈdʒɒkjʊlər/",
+        "word": "Deleterious",
+        "pronunciation": "/ˌdɛlɪˈtɪəriəs/",
         "partOfSpeech": "adjective",
-        "definition": "Fond of or characterized by joking; humorous or playful.",
+        "definition": "Causing harm or damage.",
         "examples": [
-            "His jocular personality made him the life of the party.",
-            "Despite the tension, he maintained a jocular demeanor.",
-            "He is known for his jocular comments during serious discussions."
+            "Smoking has deleterious effects on health.",
+            "The policy had a deleterious effect on the economy.",
+            "The lack of sleep can have deleterious effects on productivity."
         ],
-        "dateUsed": 1774401400
+        "dateUsed": 1774488121
     }
 }
