@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Prosaic",
-        "pronunciation": "/proʊˈzeɪɪk/",
+        "word": "garrulous",
+        "pronunciation": "/ˈɡær.ə.ləs/",
         "partOfSpeech": "adjective",
-        "definition": "Having the style or diction of prose; lacking poetic beauty.",
+        "definition": "Excessively talkative, especially on trivial matters.",
         "examples": [
-            "The prosaic language did not capture the beauty of the scene.",
-            "His account of the journey was disappointingly prosaic.",
-            "Despite his imaginative ideas, his writing was prosaic."
+            "She was a garrulous old woman who seemed to have a story for every occasion.",
+            "His garrulous nature often led to long, winding conversations.",
+            "The garrulous man dominated the dinner conversation."
         ],
-        "dateUsed": 1774574490
+        "dateUsed": 1774660568
     }
 }
