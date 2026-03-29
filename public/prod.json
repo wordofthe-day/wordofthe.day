@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "garrulous",
-        "pronunciation": "/ˈɡær.ə.ləs/",
+        "word": "abstruse",
+        "pronunciation": "/əbˈstruːs/",
         "partOfSpeech": "adjective",
-        "definition": "Excessively talkative, especially on trivial matters.",
+        "definition": "difficult to understand",
         "examples": [
-            "She was a garrulous old woman who seemed to have a story for every occasion.",
-            "His garrulous nature often led to long, winding conversations.",
-            "The garrulous man dominated the dinner conversation."
+            "The professor's abstruse lecture left the class clueless.",
+            "Quantum physics is an abstruse subject for many people.",
+            "Her abstruse poetry is often misunderstood."
         ],
-        "dateUsed": 1774660568
+        "dateUsed": 1774747498
     }
 }
