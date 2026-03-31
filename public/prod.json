@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Winsome",
-        "pronunciation": "/ˈwɪnsəm/",
-        "partOfSpeech": "adjective",
-        "definition": "attractive or appealing in appearance or character.",
+        "word": "ruminate",
+        "pronunciation": "/ˈruːmɪneɪt/",
+        "partOfSpeech": "verb",
+        "definition": "think deeply about something",
         "examples": [
-            "She had a winsome smile.",
-            "His winsome personality made him popular.",
-            "Her winsome manner was charming."
+            "She ruminated on the day's events.",
+            "He was ruminating over his past mistakes.",
+            "They ruminated on the nature of existence."
         ],
-        "dateUsed": 1774833941
+        "dateUsed": 1774920193
     }
 }
