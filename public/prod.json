@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "ruminate",
-        "pronunciation": "/ˈruːmɪneɪt/",
-        "partOfSpeech": "verb",
-        "definition": "think deeply about something",
+        "word": "abnegation",
+        "pronunciation": "/ˌæb.nɪˈɡeɪ.ʃən/",
+        "partOfSpeech": "noun",
+        "definition": "The act of renouncing or rejecting something.",
         "examples": [
-            "She ruminated on the day's events.",
-            "He was ruminating over his past mistakes.",
-            "They ruminated on the nature of existence."
+            "The monk's life was one of abnegation and self-sacrifice.",
+            "The politician's abnegation of his party's values shocked everyone.",
+            "Her abnegation of sweets showed her commitment to health."
         ],
-        "dateUsed": 1774920193
+        "dateUsed": 1775006992
     }
 }
