@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "abnegation",
-        "pronunciation": "/ˌæb.nɪˈɡeɪ.ʃən/",
-        "partOfSpeech": "noun",
-        "definition": "The act of renouncing or rejecting something.",
+        "word": "Jejune",
+        "pronunciation": "/dʒɪˈdʒuːn/",
+        "partOfSpeech": "adjective",
+        "definition": "naive, simplistic, and superficial.",
         "examples": [
-            "The monk's life was one of abnegation and self-sacrifice.",
-            "The politician's abnegation of his party's values shocked everyone.",
-            "Her abnegation of sweets showed her commitment to health."
+            "His jejune responses to the interview questions didn't impress the panel.",
+            "The movie's jejune plot failed to captivate the audience.",
+            "Despite being an expert, she has a jejune understanding of the subject."
         ],
-        "dateUsed": 1775006992
+        "dateUsed": 1775092810
     }
 }
