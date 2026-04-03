@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Jejune",
-        "pronunciation": "/dʒɪˈdʒuːn/",
-        "partOfSpeech": "adjective",
-        "definition": "naive, simplistic, and superficial.",
+        "word": "panache",
+        "pronunciation": "/pəˈnaʃ/",
+        "partOfSpeech": "noun",
+        "definition": "flamboyant confidence of style or manner",
         "examples": [
-            "His jejune responses to the interview questions didn't impress the panel.",
-            "The movie's jejune plot failed to captivate the audience.",
-            "Despite being an expert, she has a jejune understanding of the subject."
+            "The designer's creations are known for their panache.",
+            "He performed the challenging piece with panache.",
+            "She wore the oversized hat with panache."
         ],
-        "dateUsed": 1775092810
+        "dateUsed": 1775179347
     }
 }
