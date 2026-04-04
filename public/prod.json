@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "panache",
-        "pronunciation": "/pəˈnaʃ/",
-        "partOfSpeech": "noun",
-        "definition": "flamboyant confidence of style or manner",
+        "word": "incongruous",
+        "pronunciation": "/ɪnˈkɒŋɡrʊəs/",
+        "partOfSpeech": "adjective",
+        "definition": "Not in harmony or keeping with the surroundings or other aspects of something.",
         "examples": [
-            "The designer's creations are known for their panache.",
-            "He performed the challenging piece with panache.",
-            "She wore the oversized hat with panache."
+            "The modern furniture was incongruous with the old English architecture.",
+            "His decision to leave was incongruous with his previous statements.",
+            "Her sunny demeanor was incongruous in the gloomy hospital."
         ],
-        "dateUsed": 1775179347
+        "dateUsed": 1775265396
     }
 }
