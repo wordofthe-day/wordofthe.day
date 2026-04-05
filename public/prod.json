@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "incongruous",
-        "pronunciation": "/ɪnˈkɒŋɡrʊəs/",
-        "partOfSpeech": "adjective",
-        "definition": "Not in harmony or keeping with the surroundings or other aspects of something.",
+        "word": "yokel",
+        "pronunciation": "/ˈjəʊkəl/",
+        "partOfSpeech": "noun",
+        "definition": "an uneducated and unsophisticated person from the countryside",
         "examples": [
-            "The modern furniture was incongruous with the old English architecture.",
-            "His decision to leave was incongruous with his previous statements.",
-            "Her sunny demeanor was incongruous in the gloomy hospital."
+            "The city dwellers considered him a yokel because he had never been to a big city before.",
+            "Despite being treated as a yokel, he showed them that he was smart and capable.",
+            "The movie portrayed the character as a yokel, but he was wiser than he appeared."
         ],
-        "dateUsed": 1775265396
+        "dateUsed": 1775352373
     }
 }
