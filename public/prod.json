@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "yokel",
-        "pronunciation": "/ˈjəʊkəl/",
+        "word": "quandary",
+        "pronunciation": "/ˈkwɒnd(ə)ri/",
         "partOfSpeech": "noun",
-        "definition": "an uneducated and unsophisticated person from the countryside",
+        "definition": "a state of perplexity or uncertainty over what to do in a difficult situation",
         "examples": [
-            "The city dwellers considered him a yokel because he had never been to a big city before.",
-            "Despite being treated as a yokel, he showed them that he was smart and capable.",
-            "The movie portrayed the character as a yokel, but he was wiser than he appeared."
+            "She was in a quandary about whether to accept the job offer or not.",
+            "The sudden turn of events left the detective in a quandary.",
+            "He found himself in a moral quandary over his discovery."
         ],
-        "dateUsed": 1775352373
+        "dateUsed": 1775438770
     }
 }
