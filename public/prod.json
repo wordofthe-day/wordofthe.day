@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "quandary",
-        "pronunciation": "/ˈkwɒnd(ə)ri/",
-        "partOfSpeech": "noun",
-        "definition": "a state of perplexity or uncertainty over what to do in a difficult situation",
+        "word": "quixotic",
+        "pronunciation": "/kwɪkˈsɒtɪk/",
+        "partOfSpeech": "adjective",
+        "definition": "exceedingly idealistic, unrealistic, and impractical",
         "examples": [
-            "She was in a quandary about whether to accept the job offer or not.",
-            "The sudden turn of events left the detective in a quandary.",
-            "He found himself in a moral quandary over his discovery."
+            "His quixotic plan to build a city in the desert was met with skepticism.",
+            "The quixotic knight set out to rescue the princess from the dragon.",
+            "The project was seen as quixotic by most people in the industry."
         ],
-        "dateUsed": 1775438770
+        "dateUsed": 1775525015
     }
 }
