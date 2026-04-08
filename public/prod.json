@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "quixotic",
-        "pronunciation": "/kwɪkˈsɒtɪk/",
+        "word": "haughty",
+        "pronunciation": "/ˈhɔːti/",
         "partOfSpeech": "adjective",
-        "definition": "exceedingly idealistic, unrealistic, and impractical",
+        "definition": "arrogantly superior and disdainful",
         "examples": [
-            "His quixotic plan to build a city in the desert was met with skepticism.",
-            "The quixotic knight set out to rescue the princess from the dragon.",
-            "The project was seen as quixotic by most people in the industry."
+            "Her haughty demeanor made it difficult for her to make friends.",
+            "His haughty attitude was off-putting to many people.",
+            "Despite her success, she was never haughty or arrogant."
         ],
-        "dateUsed": 1775525015
+        "dateUsed": 1775625242
     }
 }
