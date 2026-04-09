@@ -1,14 +1,26 @@
 {
     "eng": {
-        "word": "haughty",
-        "pronunciation": "/ˈhɔːti/",
-        "partOfSpeech": "adjective",
-        "definition": "arrogantly superior and disdainful",
+        "word": "Harbinger",
+        "pronunciation": "/ˈhɑːbɪndʒər/",
+        "partOfSpeech": "noun",
+        "definition": "a person or thing that announces or signals the approach of another.",
         "examples": [
-            "Her haughty demeanor made it difficult for her to make friends.",
-            "His haughty attitude was off-putting to many people.",
-            "Despite her success, she was never haughty or arrogant."
+            "Witch hazels are the harbingers of spring.",
+            "His sudden cough was the unfortunate harbinger of a full-blown flu.",
+            "The bell is a harbinger of the end of class."
         ],
-        "dateUsed": 1775625242
+        "dateUsed": 1775697335
+    },
+    "hin": {
+        "word": "प्रगति",
+        "pronunciation": "/pɾəgəti:/",
+        "partOfSpeech": "noun",
+        "definition": "progress or advance",
+        "examples": [
+            "उसकी प्रगति में बहुत सुधार हुआ है।",
+            "प्रगति के बिना जीवन स्थिर हो जाता है।",
+            "हमें हमेशा प्रगति की दिशा में आगे बढ़ना चाहिए।"
+        ],
+        "dateUsed": 1775697335
     }
 }
