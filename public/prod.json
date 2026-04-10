@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Harbinger",
-        "pronunciation": "/ˈhɑːbɪndʒər/",
+        "word": "Kleptomania",
+        "pronunciation": "/ˌklɛptəˈmeɪniə/",
         "partOfSpeech": "noun",
-        "definition": "a person or thing that announces or signals the approach of another.",
+        "definition": "A recurrent urge to steal, typically without regard for need or profit.",
         "examples": [
-            "Witch hazels are the harbingers of spring.",
-            "His sudden cough was the unfortunate harbinger of a full-blown flu.",
-            "The bell is a harbinger of the end of class."
+            "He was diagnosed with kleptomania after several instances of stealing.",
+            "Kleptomania is considered a mental disorder and requires treatment.",
+            "Despite being wealthy, she had an uncontrolled kleptomania."
         ],
-        "dateUsed": 1775697335
+        "dateUsed": 1775784363
     },
     "hin": {
-        "word": "प्रगति",
-        "pronunciation": "/pɾəgəti:/",
-        "partOfSpeech": "noun",
-        "definition": "progress or advance",
+        "word": "खुश",
+        "pronunciation": "/khʊʃ/",
+        "partOfSpeech": "adjective",
+        "definition": "happy or pleased",
         "examples": [
-            "उसकी प्रगति में बहुत सुधार हुआ है।",
-            "प्रगति के बिना जीवन स्थिर हो जाता है।",
-            "हमें हमेशा प्रगति की दिशा में आगे बढ़ना चाहिए।"
+            "मैं खुश हूं कि तुम यहां हो।",
+            "वह खुश नहीं था क्योंकि उसने परीक्षा में अच्छे अंक नहीं प्राप्त किए थे।",
+            "उसकी खुशी का कोई ठिकाना नहीं था।"
         ],
-        "dateUsed": 1775697335
+        "dateUsed": 1775784363
     }
 }
