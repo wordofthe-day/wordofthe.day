@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Kleptomania",
-        "pronunciation": "/ˌklɛptəˈmeɪniə/",
-        "partOfSpeech": "noun",
-        "definition": "A recurrent urge to steal, typically without regard for need or profit.",
+        "word": "Malleable",
+        "pronunciation": "/ˈmalɪəbəl/",
+        "partOfSpeech": "adjective",
+        "definition": "capable of being shaped or formed, as by hammering or pressure.",
         "examples": [
-            "He was diagnosed with kleptomania after several instances of stealing.",
-            "Kleptomania is considered a mental disorder and requires treatment.",
-            "Despite being wealthy, she had an uncontrolled kleptomania."
+            "The metal was malleable and could be hammered into thin plates.",
+            "Children's minds are malleable and they quickly absorb new information.",
+            "The sculptor chose a malleable material that could be easily manipulated."
         ],
-        "dateUsed": 1775784363
+        "dateUsed": 1775870399
     },
     "hin": {
-        "word": "खुश",
-        "pronunciation": "/khʊʃ/",
-        "partOfSpeech": "adjective",
-        "definition": "happy or pleased",
+        "word": "विश्वास",
+        "pronunciation": "/vɪʃva:s/",
+        "partOfSpeech": "noun",
+        "definition": "trust or belief",
         "examples": [
-            "मैं खुश हूं कि तुम यहां हो।",
-            "वह खुश नहीं था क्योंकि उसने परीक्षा में अच्छे अंक नहीं प्राप्त किए थे।",
-            "उसकी खुशी का कोई ठिकाना नहीं था।"
+            "मुझे तुम पर पूरा विश्वास है।",
+            "विश्वास ही व्यक्ति के द्वारा किए जाने वाले कार्य की नींव होता है।",
+            "उसने मेरे विश्वास को तोड़ दिया।"
         ],
-        "dateUsed": 1775784363
+        "dateUsed": 1775870399
     }
 }
