@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Malleable",
-        "pronunciation": "/ˈmalɪəbəl/",
+        "word": "Ostentatious",
+        "pronunciation": "/ˌɒstɛnˈteɪʃəs/",
         "partOfSpeech": "adjective",
-        "definition": "capable of being shaped or formed, as by hammering or pressure.",
+        "definition": "Characterized by vulgar or pretentious display; designed to impress or attract notice.",
         "examples": [
-            "The metal was malleable and could be hammered into thin plates.",
-            "Children's minds are malleable and they quickly absorb new information.",
-            "The sculptor chose a malleable material that could be easily manipulated."
+            "Her ostentatious lifestyle was the talk of the town.",
+            "The ostentatious display of wealth did not impress everyone.",
+            "Despite his success, he was never ostentatious."
         ],
-        "dateUsed": 1775870399
+        "dateUsed": 1775957381
     },
     "hin": {
-        "word": "विश्वास",
-        "pronunciation": "/vɪʃva:s/",
+        "word": "स्वतंत्रता",
+        "pronunciation": "/svətəntɹəta:/",
         "partOfSpeech": "noun",
-        "definition": "trust or belief",
+        "definition": "freedom or liberty",
         "examples": [
-            "मुझे तुम पर पूरा विश्वास है।",
-            "विश्वास ही व्यक्ति के द्वारा किए जाने वाले कार्य की नींव होता है।",
-            "उसने मेरे विश्वास को तोड़ दिया।"
+            "हमें अपनी स्वतंत्रता का सम्मान करना चाहिए।",
+            "उसने अपनी स्वतंत्रता के लिए संघर्ष किया।",
+            "स्वतंत्रता हमारा जन्मसिद्ध अधिकार है।"
         ],
-        "dateUsed": 1775870399
+        "dateUsed": 1775957381
     }
 }
