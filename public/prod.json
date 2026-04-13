@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Ostentatious",
-        "pronunciation": "/ˌɒstɛnˈteɪʃəs/",
-        "partOfSpeech": "adjective",
-        "definition": "Characterized by vulgar or pretentious display; designed to impress or attract notice.",
+        "word": "Gluttony",
+        "pronunciation": "/ˈɡlʌtəni/",
+        "partOfSpeech": "noun",
+        "definition": "Habitual greed or excess in eating.",
         "examples": [
-            "Her ostentatious lifestyle was the talk of the town.",
-            "The ostentatious display of wealth did not impress everyone.",
-            "Despite his success, he was never ostentatious."
+            "Gluttony is considered one of the seven deadly sins.",
+            "His gluttony led to serious health issues.",
+            "The festival was a display of culinary gluttony."
         ],
-        "dateUsed": 1775957381
+        "dateUsed": 1776044825
     },
     "hin": {
-        "word": "स्वतंत्रता",
-        "pronunciation": "/svətəntɹəta:/",
+        "word": "उत्साह",
+        "pronunciation": "/ʊtsa:h/",
         "partOfSpeech": "noun",
-        "definition": "freedom or liberty",
+        "definition": "enthusiasm or zeal",
         "examples": [
-            "हमें अपनी स्वतंत्रता का सम्मान करना चाहिए।",
-            "उसने अपनी स्वतंत्रता के लिए संघर्ष किया।",
-            "स्वतंत्रता हमारा जन्मसिद्ध अधिकार है।"
+            "उसके उत्साह ने हमें सबको प्रेरित किया।",
+            "हमें उत्साह के साथ कार्य करना चाहिए।",
+            "उत्साह ही हमें आगे बढ़ने की प्रेरणा देता है।"
         ],
-        "dateUsed": 1775957381
+        "dateUsed": 1776044825
     }
 }
