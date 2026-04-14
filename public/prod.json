@@ -1,26 +1,14 @@
 {
     "eng": {
-        "word": "Gluttony",
-        "pronunciation": "/ˈɡlʌtəni/",
-        "partOfSpeech": "noun",
-        "definition": "Habitual greed or excess in eating.",
+        "word": "Stentorian",
+        "pronunciation": "/stɛnˈtɔːrɪən/",
+        "partOfSpeech": "adjective",
+        "definition": "loud and powerful (as in a voice).",
         "examples": [
-            "Gluttony is considered one of the seven deadly sins.",
-            "His gluttony led to serious health issues.",
-            "The festival was a display of culinary gluttony."
+            "The teacher's stentorian voice echoed in the large classroom.",
+            "The politician's stentorian speech rallied the crowd.",
+            "The actor's stentorian voice was perfect for the stage performance."
         ],
-        "dateUsed": 1776044825
-    },
-    "hin": {
-        "word": "उत्साह",
-        "pronunciation": "/ʊtsa:h/",
-        "partOfSpeech": "noun",
-        "definition": "enthusiasm or zeal",
-        "examples": [
-            "उसके उत्साह ने हमें सबको प्रेरित किया।",
-            "हमें उत्साह के साथ कार्य करना चाहिए।",
-            "उत्साह ही हमें आगे बढ़ने की प्रेरणा देता है।"
-        ],
-        "dateUsed": 1776044825
+        "dateUsed": 1776130164
     }
 }
