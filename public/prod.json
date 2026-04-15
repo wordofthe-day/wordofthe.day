@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Stentorian",
-        "pronunciation": "/stɛnˈtɔːrɪən/",
-        "partOfSpeech": "adjective",
-        "definition": "loud and powerful (as in a voice).",
+        "word": "chiaroscuro",
+        "pronunciation": "/kɪˌɑːrəˈskjʊərəʊ/",
+        "partOfSpeech": "noun",
+        "definition": "The treatment of light and shade in drawing and painting.",
         "examples": [
-            "The teacher's stentorian voice echoed in the large classroom.",
-            "The politician's stentorian speech rallied the crowd.",
-            "The actor's stentorian voice was perfect for the stage performance."
+            "The artist used chiaroscuro to create a stark contrast in the painting.",
+            "Caravaggio's use of chiaroscuro had a profound impact on European art.",
+            "The chiaroscuro technique gives the painting a dramatic effect."
         ],
-        "dateUsed": 1776130164
+        "dateUsed": 1776216334
     }
 }
