@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "chiaroscuro",
-        "pronunciation": "/kɪˌɑːrəˈskjʊərəʊ/",
-        "partOfSpeech": "noun",
-        "definition": "The treatment of light and shade in drawing and painting.",
+        "word": "xenophobic",
+        "pronunciation": "/ˌzɛnəˈfəʊbɪk/",
+        "partOfSpeech": "adjective",
+        "definition": "Having or showing a dislike of or prejudice against people from other countries.",
         "examples": [
-            "The artist used chiaroscuro to create a stark contrast in the painting.",
-            "Caravaggio's use of chiaroscuro had a profound impact on European art.",
-            "The chiaroscuro technique gives the painting a dramatic effect."
+            "His xenophobic remarks were met with widespread criticism.",
+            "The politician's xenophobic policies were a cause for concern.",
+            "The novel explores themes of xenophobic fear and paranoia."
         ],
-        "dateUsed": 1776216334
+        "dateUsed": 1776303977
     }
 }
