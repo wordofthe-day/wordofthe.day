@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "xenophobic",
-        "pronunciation": "/ˌzɛnəˈfəʊbɪk/",
-        "partOfSpeech": "adjective",
-        "definition": "Having or showing a dislike of or prejudice against people from other countries.",
+        "word": "Aegis",
+        "pronunciation": "/ˈiːdʒɪs/",
+        "partOfSpeech": "noun",
+        "definition": "The protection, backing, or support of a particular person or organization.",
         "examples": [
-            "His xenophobic remarks were met with widespread criticism.",
-            "The politician's xenophobic policies were a cause for concern.",
-            "The novel explores themes of xenophobic fear and paranoia."
+            "The project was completed under the aegis of the UNESCO.",
+            "Many refugees were under the aegis of the international community.",
+            "The prisoners' rights were protected under the aegis of the law."
         ],
-        "dateUsed": 1776303977
+        "dateUsed": 1776389353
     }
 }
