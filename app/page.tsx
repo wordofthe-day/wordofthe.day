@@ -8,7 +8,7 @@ export default function Home() {
   const [language, setLanguage] = useState("eng");
 
   return (
-    <div className="flex min-h-svh flex-col bg-background">
+    <div className="flex min-h-screen flex-col bg-background">
       <Header language={language} onLanguageChange={setLanguage} />
       <HeroSection language={language} />
       <footer className="py-6 text-center text-xs text-muted-foreground">

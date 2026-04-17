@@ -27,6 +27,7 @@ export interface Language {
 
 export const SUPPORTED_LANGUAGES: Language[] = [
   { code: "eng", label: "English" },
+  { code: "hin", label: "Hindi" },
 ];
 
 // ---------------------------------------------------------------------------
