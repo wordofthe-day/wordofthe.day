@@ -1,38 +1,14 @@
 {
     "eng": {
-        "word": "Aegis",
-        "pronunciation": "/ˈiːdʒɪs/",
+        "word": "Aberration",
+        "pronunciation": "/ˌæbəˈreɪʃən/",
         "partOfSpeech": "noun",
-        "definition": "The protection, backing, or support of a particular person or organization.",
+        "definition": "A departure from what is normal, usual, or expected, typically one that is unwelcome.",
         "examples": [
-            "The project was completed under the aegis of the UNESCO.",
-            "Many refugees were under the aegis of the international community.",
-            "The prisoners' rights were protected under the aegis of the law."
+            "The spike in crime was an aberration in the otherwise peaceful town.",
+            "His outburst was an aberration; he's usually very calm.",
+            "The economic downturn was an aberration in the decade of growth."
         ],
-        "dateUsed": 1776389353
-    },
-    "hin": {
-        "word": "आश्रय",
-        "pronunciation": "/aːʃrɛ/",
-        "partOfSpeech": "संज्ञा",
-        "definition": "किसी विशेष व्यक्ति या संगठन का संरक्षण, समर्थन या सहायता।",
-        "examples": [
-            "यह परियोजना यूनेस्को के आश्रय में पूरी की गई थी।",
-            "कई शरणार्थी अंतरराष्ट्रीय समुदाय के आश्रय में थे।",
-            "कैदियों के अधिकार कानून के आश्रय में सुरक्षित थे।"
-        ],
-        "dateUsed": 1776389353
-    },
-    "spa": {
-        "word": "Refugio",
-        "pronunciation": "/reˈfu.xjo/",
-        "partOfSpeech": "sustantivo",
-        "definition": "Protección o amparo de alguien o algo.",
-        "examples": [
-            "El proyecto se completó bajo el refugio de la UNESCO.",
-            "Muchos refugiados estaban bajo el refugio de la comunidad internacional.",
-            "Los derechos de los prisioneros estaban protegidos bajo el refugio de la ley."
-        ],
-        "dateUsed": 1776389353
+        "dateUsed": 1776475369
     }
 }
