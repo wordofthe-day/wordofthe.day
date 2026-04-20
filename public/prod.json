@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Winsome",
-        "pronunciation": "/ˈwɪnsəm/",
-        "partOfSpeech": "adjective",
-        "definition": "Attractive or appealing in appearance or character.",
+        "word": "sycophant",
+        "pronunciation": "/ˈsɪkəfant/",
+        "partOfSpeech": "noun",
+        "definition": "a person who acts obsequiously towards someone important in order to gain advantage",
         "examples": [
-            "She had a winsome smile that was very engaging.",
-            "His winsome personality made him popular.",
-            "The puppy's winsome antics endeared him to everyone."
+            "The sycophant was always complimenting the boss in hopes of getting a promotion.",
+            "He disliked the sycophantic behavior of his colleagues.",
+            "The politician was surrounded by sycophants who agreed with everything he said."
         ],
-        "dateUsed": 1776563140
+        "dateUsed": 1776649667
     }
 }
