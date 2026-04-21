@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "sycophant",
-        "pronunciation": "/ˈsɪkəfant/",
-        "partOfSpeech": "noun",
-        "definition": "a person who acts obsequiously towards someone important in order to gain advantage",
+        "word": "Sardonic",
+        "pronunciation": "/sɑːrˈdɒnɪk/",
+        "partOfSpeech": "adjective",
+        "definition": "Grimly mocking or cynical.",
         "examples": [
-            "The sycophant was always complimenting the boss in hopes of getting a promotion.",
-            "He disliked the sycophantic behavior of his colleagues.",
-            "The politician was surrounded by sycophants who agreed with everything he said."
+            "He had a sardonic sense of humor.",
+            "His sardonic comments often upset people.",
+            "She gave a sardonic smile as she heard the news."
         ],
-        "dateUsed": 1776649667
+        "dateUsed": 1776734949
     }
 }
