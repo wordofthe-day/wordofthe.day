@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Sardonic",
-        "pronunciation": "/sɑːrˈdɒnɪk/",
+        "word": "ubiquitous",
+        "pronunciation": "/juːˈbɪkwɪtəs/",
         "partOfSpeech": "adjective",
-        "definition": "Grimly mocking or cynical.",
+        "definition": "present, appearing, or found everywhere",
         "examples": [
-            "He had a sardonic sense of humor.",
-            "His sardonic comments often upset people.",
-            "She gave a sardonic smile as she heard the news."
+            "Smartphones have become ubiquitous in today's society.",
+            "The ubiquitous advertisements were impossible to avoid.",
+            "His ubiquitous presence in the media made him a household name."
         ],
-        "dateUsed": 1776734949
+        "dateUsed": 1776821271
     }
 }
