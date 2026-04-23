@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "ubiquitous",
-        "pronunciation": "/juːˈbɪkwɪtəs/",
-        "partOfSpeech": "adjective",
-        "definition": "present, appearing, or found everywhere",
+        "word": "serendipity",
+        "pronunciation": "/ˌsɛrənˈdɪpɪti/",
+        "partOfSpeech": "noun",
+        "definition": "the occurrence and development of events by chance in a happy or beneficial way",
         "examples": [
-            "Smartphones have become ubiquitous in today's society.",
-            "The ubiquitous advertisements were impossible to avoid.",
-            "His ubiquitous presence in the media made him a household name."
+            "A fortunate stroke of serendipity.",
+            "A series of small serendipities.",
+            "They found each other by pure serendipity."
         ],
-        "dateUsed": 1776821271
+        "dateUsed": 1776908795
     }
 }
