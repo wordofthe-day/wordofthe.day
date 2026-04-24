@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "serendipity",
-        "pronunciation": "/ˌsɛrənˈdɪpɪti/",
-        "partOfSpeech": "noun",
-        "definition": "the occurrence and development of events by chance in a happy or beneficial way",
+        "word": "Banal",
+        "pronunciation": "/bəˈnɑːl/",
+        "partOfSpeech": "adjective",
+        "definition": "so lacking in originality as to be obvious and boring.",
         "examples": [
-            "A fortunate stroke of serendipity.",
-            "A series of small serendipities.",
-            "They found each other by pure serendipity."
+            "He made some banal remarks about the weather.",
+            "Her speech was filled with banal clichés.",
+            "The song's lyrics were banal and repetitive."
         ],
-        "dateUsed": 1776908795
+        "dateUsed": 1776995154
     }
 }
