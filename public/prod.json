@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Banal",
-        "pronunciation": "/bəˈnɑːl/",
+        "word": "Hapless",
+        "pronunciation": "/ˈhapləs/",
         "partOfSpeech": "adjective",
-        "definition": "so lacking in originality as to be obvious and boring.",
+        "definition": "(especially of a person) unfortunate.",
         "examples": [
-            "He made some banal remarks about the weather.",
-            "Her speech was filled with banal clichés.",
-            "The song's lyrics were banal and repetitive."
+            "The hapless tourists got lost in the city.",
+            "Despite his best efforts, he remained a hapless romantic.",
+            "The hapless kitten was stuck in the tree."
         ],
-        "dateUsed": 1776995154
+        "dateUsed": 1777080331
     }
 }
