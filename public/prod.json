@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Hapless",
-        "pronunciation": "/ˈhapləs/",
+        "word": "Reticent",
+        "pronunciation": "/ˈrɛtɪsənt/",
         "partOfSpeech": "adjective",
-        "definition": "(especially of a person) unfortunate.",
+        "definition": "not revealing one's thoughts or feelings readily.",
         "examples": [
-            "The hapless tourists got lost in the city.",
-            "Despite his best efforts, he remained a hapless romantic.",
-            "The hapless kitten was stuck in the tree."
+            "She was reticent about her past.",
+            "He was reticent to express his true feelings.",
+            "Despite being a public figure, she is reticent about her private life."
         ],
-        "dateUsed": 1777080331
+        "dateUsed": 1777168093
     }
 }
