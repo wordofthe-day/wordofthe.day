@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Reticent",
-        "pronunciation": "/ˈrɛtɪsənt/",
+        "word": "Querulous",
+        "pronunciation": "/ˈkwɛrʊləs/",
         "partOfSpeech": "adjective",
-        "definition": "not revealing one's thoughts or feelings readily.",
+        "definition": "complaining in a petulant or whining manner.",
         "examples": [
-            "She was reticent about her past.",
-            "He was reticent to express his true feelings.",
-            "Despite being a public figure, she is reticent about her private life."
+            "His querulous attitude was causing problems at work.",
+            "She had a querulous tone in her voice.",
+            "The querulous child was making his mother's job difficult."
         ],
-        "dateUsed": 1777168093
+        "dateUsed": 1777254695
     }
 }
