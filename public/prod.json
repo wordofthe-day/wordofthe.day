@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Querulous",
-        "pronunciation": "/ˈkwɛrʊləs/",
-        "partOfSpeech": "adjective",
-        "definition": "complaining in a petulant or whining manner.",
+        "word": "Cacophony",
+        "pronunciation": "/kəˈkɒfəni/",
+        "partOfSpeech": "noun",
+        "definition": "a harsh, discordant mixture of sounds.",
         "examples": [
-            "His querulous attitude was causing problems at work.",
-            "She had a querulous tone in her voice.",
-            "The querulous child was making his mother's job difficult."
+            "The cacophony of the city was overwhelming.",
+            "A cacophony of alarm bells rang out.",
+            "He was awoken by the cacophony of birds outside his window."
         ],
-        "dateUsed": 1777254695
+        "dateUsed": 1777341559
     }
 }
