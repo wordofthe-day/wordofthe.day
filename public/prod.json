@@ -1,14 +1,26 @@
 {
     "eng": {
-        "word": "Cacophony",
-        "pronunciation": "/kəˈkɒfəni/",
-        "partOfSpeech": "noun",
-        "definition": "a harsh, discordant mixture of sounds.",
+        "word": "cavil",
+        "pronunciation": "/ˈkævɪl/",
+        "partOfSpeech": "verb",
+        "definition": "to make petty or unnecessary objections",
         "examples": [
-            "The cacophony of the city was overwhelming.",
-            "A cacophony of alarm bells rang out.",
-            "He was awoken by the cacophony of birds outside his window."
+            "They cavil about the price, forgetting the quality of the product.",
+            "It's not helpful to cavil at minor errors in the proposal.",
+            "She had no time to cavil at the arrangement."
         ],
-        "dateUsed": 1777341559
+        "dateUsed": 1777428065
+    },
+    "hin": {
+        "word": "स्वप्न",
+        "pronunciation": "/svæpn/",
+        "partOfSpeech": "noun",
+        "definition": "Dream",
+        "examples": [
+            "मैंने आज रात स्वप्न देखा।",
+            "स्वप्न देखना स्वाभाविक होता है।",
+            "मेरा स्वप्न है कि मैं एक डॉक्टर बनूं।"
+        ],
+        "dateUsed": 1777428065
     }
 }
