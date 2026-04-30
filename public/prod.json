@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "cavil",
-        "pronunciation": "/ˈkævɪl/",
-        "partOfSpeech": "verb",
-        "definition": "to make petty or unnecessary objections",
+        "word": "pariah",
+        "pronunciation": "/pəˈrʌɪə/",
+        "partOfSpeech": "noun",
+        "definition": "an outcast",
         "examples": [
-            "They cavil about the price, forgetting the quality of the product.",
-            "It's not helpful to cavil at minor errors in the proposal.",
-            "She had no time to cavil at the arrangement."
+            "In the 19th century, lepers were treated as pariahs.",
+            "After the scandal, he became a pariah in the community.",
+            "As an atheist in a deeply religious community, she felt like a pariah."
         ],
-        "dateUsed": 1777428065
+        "dateUsed": 1777514449
     },
     "hin": {
-        "word": "स्वप्न",
-        "pronunciation": "/svæpn/",
+        "word": "आश्वासन",
+        "pronunciation": "/a:ʃʋɑ:sən/",
         "partOfSpeech": "noun",
-        "definition": "Dream",
+        "definition": "reassurance or consolation",
         "examples": [
-            "मैंने आज रात स्वप्न देखा।",
-            "स्वप्न देखना स्वाभाविक होता है।",
-            "मेरा स्वप्न है कि मैं एक डॉक्टर बनूं।"
+            "उसने मुझे मेरी कठिनाई के समय आश्वासन दिया।",
+            "वह अपने दोस्त को आश्वासन देता है कि सब कुछ ठीक हो जाएगा।",
+            "आश्वासन देने की क्षमता एक महान गुण होती है।"
         ],
-        "dateUsed": 1777428065
+        "dateUsed": 1777514449
     }
 }
