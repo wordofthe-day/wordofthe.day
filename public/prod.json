@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "pariah",
-        "pronunciation": "/pəˈrʌɪə/",
+        "word": "hyperbole",
+        "pronunciation": "/hʌɪˈpɜːbəli/",
         "partOfSpeech": "noun",
-        "definition": "an outcast",
+        "definition": "Exaggerated statements or claims not meant to be taken literally.",
         "examples": [
-            "In the 19th century, lepers were treated as pariahs.",
-            "After the scandal, he became a pariah in the community.",
-            "As an atheist in a deeply religious community, she felt like a pariah."
+            "His claim of being the smartest person in the room was clearly a hyperbole.",
+            "Her story was filled with hyperbole to make it more entertaining.",
+            "The politician's promise of eradicating crime was a hyperbole."
         ],
-        "dateUsed": 1777514449
+        "dateUsed": 1777601038
     },
     "hin": {
-        "word": "आश्वासन",
-        "pronunciation": "/a:ʃʋɑ:sən/",
+        "word": "संगठन",
+        "pronunciation": "/sʌŋɡɑːtʰʌn/",
         "partOfSpeech": "noun",
-        "definition": "reassurance or consolation",
+        "definition": "an organization or arrangement",
         "examples": [
-            "उसने मुझे मेरी कठिनाई के समय आश्वासन दिया।",
-            "वह अपने दोस्त को आश्वासन देता है कि सब कुछ ठीक हो जाएगा।",
-            "आश्वासन देने की क्षमता एक महान गुण होती है।"
+            "हमारे संगठन में 500 से अधिक कर्मचारी हैं।",
+            "हमें इस परियोजना के लिए एक संगठन तैयार करना होगा।",
+            "न्यायिक संगठन की आवश्यकता है।"
         ],
-        "dateUsed": 1777514449
+        "dateUsed": 1777601038
     }
 }
