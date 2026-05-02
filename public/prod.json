@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "hyperbole",
-        "pronunciation": "/hʌɪˈpɜːbəli/",
-        "partOfSpeech": "noun",
-        "definition": "Exaggerated statements or claims not meant to be taken literally.",
+        "word": "Unctuous",
+        "pronunciation": "/ˈʌŋ(k)ʃəs/",
+        "partOfSpeech": "adjective",
+        "definition": "excessively flattering or ingratiating; oily.",
         "examples": [
-            "His claim of being the smartest person in the room was clearly a hyperbole.",
-            "Her story was filled with hyperbole to make it more entertaining.",
-            "The politician's promise of eradicating crime was a hyperbole."
+            "His unctuous manner was annoying to his colleagues.",
+            "The salesman's unctuous personality was off-putting.",
+            "She didn't like the way he was unctuous towards the boss."
         ],
-        "dateUsed": 1777601038
+        "dateUsed": 1777686675
     },
     "hin": {
-        "word": "संगठन",
-        "pronunciation": "/sʌŋɡɑːtʰʌn/",
+        "word": "पथिक",
+        "pronunciation": "/pəthɪk/",
         "partOfSpeech": "noun",
-        "definition": "an organization or arrangement",
+        "definition": "traveler or wanderer",
         "examples": [
-            "हमारे संगठन में 500 से अधिक कर्मचारी हैं।",
-            "हमें इस परियोजना के लिए एक संगठन तैयार करना होगा।",
-            "न्यायिक संगठन की आवश्यकता है।"
+            "वह एक पथिक है, जो नए देशों की खोज में है।",
+            "हमे पथिक की भावना से दुनिया का अन्वेषण करना चाहिए।",
+            "वह पथिक अपनी यात्रा में अनेक अनुभवों से गुजरा।"
         ],
-        "dateUsed": 1777601038
+        "dateUsed": 1777686675
     }
 }
