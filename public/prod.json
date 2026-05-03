@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Unctuous",
-        "pronunciation": "/ˈʌŋ(k)ʃəs/",
+        "word": "Oblique",
+        "pronunciation": "/oʊˈbliːk/",
         "partOfSpeech": "adjective",
-        "definition": "excessively flattering or ingratiating; oily.",
+        "definition": "neither parallel nor at a right angle to a specified or implied line; slanting.",
         "examples": [
-            "His unctuous manner was annoying to his colleagues.",
-            "The salesman's unctuous personality was off-putting.",
-            "She didn't like the way he was unctuous towards the boss."
+            "He gave me an oblique look.",
+            "The sun rays were coming in at an oblique angle.",
+            "She made an oblique reference to the incident."
         ],
-        "dateUsed": 1777686675
+        "dateUsed": 1777773245
     },
     "hin": {
-        "word": "पथिक",
-        "pronunciation": "/pəthɪk/",
+        "word": "प्रेरणा",
+        "pronunciation": "/ˈprerənɑː/",
         "partOfSpeech": "noun",
-        "definition": "traveler or wanderer",
+        "definition": "inspiration or motivation",
         "examples": [
-            "वह एक पथिक है, जो नए देशों की खोज में है।",
-            "हमे पथिक की भावना से दुनिया का अन्वेषण करना चाहिए।",
-            "वह पथिक अपनी यात्रा में अनेक अनुभवों से गुजरा।"
+            "मेरे लिए मेरी माँ मेरी प्रेरणा है।",
+            "हमें अपने आप को प्रेरित करने के लिए सकारात्मक सोच की आवश्यकता होती है।",
+            "उसने मुझे अपनी पढ़ाई के लिए प्रेरित किया।"
         ],
-        "dateUsed": 1777686675
+        "dateUsed": 1777773245
     }
 }
