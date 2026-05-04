@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Oblique",
-        "pronunciation": "/oʊˈbliːk/",
+        "word": "taciturn",
+        "pronunciation": "/ˈtasɪtəːn/",
         "partOfSpeech": "adjective",
-        "definition": "neither parallel nor at a right angle to a specified or implied line; slanting.",
+        "definition": "(of a person) reserved or uncommunicative in speech; saying little",
         "examples": [
-            "He gave me an oblique look.",
-            "The sun rays were coming in at an oblique angle.",
-            "She made an oblique reference to the incident."
+            "The taciturn man rarely spoke at meetings.",
+            "Despite being taciturn, he was a good listener.",
+            "Her taciturn nature made her seem mysterious."
         ],
-        "dateUsed": 1777773245
+        "dateUsed": 1777859743
     },
     "hin": {
-        "word": "प्रेरणा",
-        "pronunciation": "/ˈprerənɑː/",
+        "word": "अनुशासन",
+        "pronunciation": "/ənuːʃɑːsən/",
         "partOfSpeech": "noun",
-        "definition": "inspiration or motivation",
+        "definition": "The practice of training people to obey rules or a code of behavior",
         "examples": [
-            "मेरे लिए मेरी माँ मेरी प्रेरणा है।",
-            "हमें अपने आप को प्रेरित करने के लिए सकारात्मक सोच की आवश्यकता होती है।",
-            "उसने मुझे अपनी पढ़ाई के लिए प्रेरित किया।"
+            "मैंने उसे अनुशासन में रखने के लिए कहा.",
+            "अनुशासन हमारे जीवन का एक महत्वपूर्ण हिस्सा है.",
+            "हमें अपने आपको अनुशासित करना चाहिए."
         ],
-        "dateUsed": 1777773245
+        "dateUsed": 1777859743
     }
 }
