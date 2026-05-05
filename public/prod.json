@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "taciturn",
-        "pronunciation": "/ˈtasɪtəːn/",
+        "word": "blithe",
+        "pronunciation": "/blaɪð/",
         "partOfSpeech": "adjective",
-        "definition": "(of a person) reserved or uncommunicative in speech; saying little",
+        "definition": "showing a casual and cheerful indifference considered to be callous or improper",
         "examples": [
-            "The taciturn man rarely spoke at meetings.",
-            "Despite being taciturn, he was a good listener.",
-            "Her taciturn nature made her seem mysterious."
+            "They were blithe to the struggles of their less fortunate neighbors.",
+            "His blithe attitude towards his homework concerned his parents.",
+            "Despite the hardships, she maintained a blithe spirit."
         ],
-        "dateUsed": 1777859743
+        "dateUsed": 1777946151
     },
     "hin": {
-        "word": "अनुशासन",
-        "pronunciation": "/ənuːʃɑːsən/",
+        "word": "प्रयास",
+        "pronunciation": "/prjɑːs/",
         "partOfSpeech": "noun",
-        "definition": "The practice of training people to obey rules or a code of behavior",
+        "definition": "An attempt or effort to do something",
         "examples": [
-            "मैंने उसे अनुशासन में रखने के लिए कहा.",
-            "अनुशासन हमारे जीवन का एक महत्वपूर्ण हिस्सा है.",
-            "हमें अपने आपको अनुशासित करना चाहिए."
+            "मैंने उसे समझाने का प्रयास किया.",
+            "तुम्हें अपने लक्ष्यों को प्राप्त करने का प्रयास करना होगा.",
+            "यह एक प्रयास है विश्वास और स्वाभिमान को बढ़ाने का."
         ],
-        "dateUsed": 1777859743
+        "dateUsed": 1777946151
     }
 }
