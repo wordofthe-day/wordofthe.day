@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "blithe",
-        "pronunciation": "/blaɪð/",
+        "word": "Nascent",
+        "pronunciation": "/ˈnæsnt/",
         "partOfSpeech": "adjective",
-        "definition": "showing a casual and cheerful indifference considered to be callous or improper",
+        "definition": "just coming into existence and beginning to display signs of future potential.",
         "examples": [
-            "They were blithe to the struggles of their less fortunate neighbors.",
-            "His blithe attitude towards his homework concerned his parents.",
-            "Despite the hardships, she maintained a blithe spirit."
+            "The nascent technology has the potential to revolutionize the industry.",
+            "His nascent writing career started to take off.",
+            "The nascent movement was gaining momentum."
         ],
-        "dateUsed": 1777946151
+        "dateUsed": 1778032473
     },
     "hin": {
-        "word": "प्रयास",
-        "pronunciation": "/prjɑːs/",
-        "partOfSpeech": "noun",
-        "definition": "An attempt or effort to do something",
+        "word": "सचेत",
+        "pronunciation": "/səčeːt/",
+        "partOfSpeech": "adjective",
+        "definition": "Aware, conscious or alert",
         "examples": [
-            "मैंने उसे समझाने का प्रयास किया.",
-            "तुम्हें अपने लक्ष्यों को प्राप्त करने का प्रयास करना होगा.",
-            "यह एक प्रयास है विश्वास और स्वाभिमान को बढ़ाने का."
+            "हमें सदा सचेत रहना चाहिए.",
+            "वह सबसे अधिक सचेत और सतर्क रहता है.",
+            "उसने सचेत रहने की सलाह दी."
         ],
-        "dateUsed": 1777946151
+        "dateUsed": 1778032473
     }
 }
