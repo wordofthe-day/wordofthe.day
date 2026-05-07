@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Nascent",
-        "pronunciation": "/ˈnæsnt/",
+        "word": "truculent",
+        "pronunciation": "/ˈtrʌkjʊlənt/",
         "partOfSpeech": "adjective",
-        "definition": "just coming into existence and beginning to display signs of future potential.",
+        "definition": "eager or quick to argue or fight; aggressively defiant",
         "examples": [
-            "The nascent technology has the potential to revolutionize the industry.",
-            "His nascent writing career started to take off.",
-            "The nascent movement was gaining momentum."
+            "His truculent attitude made it difficult for others to work with him.",
+            "She had a truculent reputation, always ready for a fight.",
+            "Despite his truculent exterior, he was a gentle soul."
         ],
-        "dateUsed": 1778032473
+        "dateUsed": 1778119109
     },
     "hin": {
-        "word": "सचेत",
-        "pronunciation": "/səčeːt/",
-        "partOfSpeech": "adjective",
-        "definition": "Aware, conscious or alert",
+        "word": "आनंद",
+        "pronunciation": "/ʌnʌnd/",
+        "partOfSpeech": "noun",
+        "definition": "Joy, Pleasure",
         "examples": [
-            "हमें सदा सचेत रहना चाहिए.",
-            "वह सबसे अधिक सचेत और सतर्क रहता है.",
-            "उसने सचेत रहने की सलाह दी."
+            "मुझे उसकी सफलता का आनंद हुआ।",
+            "वह अपनी जीत का आनंद ले रहा है।",
+            "खेलना मुझे आनंद देता है।"
         ],
-        "dateUsed": 1778032473
+        "dateUsed": 1778119109
     }
 }
