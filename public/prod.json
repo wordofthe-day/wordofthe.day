@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "truculent",
-        "pronunciation": "/ˈtrʌkjʊlənt/",
-        "partOfSpeech": "adjective",
-        "definition": "eager or quick to argue or fight; aggressively defiant",
+        "word": "wane",
+        "pronunciation": "/weɪn/",
+        "partOfSpeech": "verb",
+        "definition": "decrease in vigor, power, or extent; become weaker",
         "examples": [
-            "His truculent attitude made it difficult for others to work with him.",
-            "She had a truculent reputation, always ready for a fight.",
-            "Despite his truculent exterior, he was a gentle soul."
+            "As the night progressed, the party began to wane.",
+            "With the advancements in technology, the use of traditional mail has waned.",
+            "The moon wanes after the full moon phase."
         ],
-        "dateUsed": 1778119109
+        "dateUsed": 1778205878
     },
     "hin": {
-        "word": "आनंद",
-        "pronunciation": "/ʌnʌnd/",
+        "word": "आश्चर्य",
+        "pronunciation": "/ʌʃchərjə/",
         "partOfSpeech": "noun",
-        "definition": "Joy, Pleasure",
+        "definition": "A feeling of surprise or amazement",
         "examples": [
-            "मुझे उसकी सफलता का आनंद हुआ।",
-            "वह अपनी जीत का आनंद ले रहा है।",
-            "खेलना मुझे आनंद देता है।"
+            "मुझे उसके चित्रण की कुशलता पर आश्चर्य हुआ.",
+            "वह आश्चर्य से बगल में बैठे अपने भाई की तरफ देखी.",
+            "आश्चर्य की बात है, कि वह बिना किसी सहायता के खुद ही सिख गया."
         ],
-        "dateUsed": 1778119109
+        "dateUsed": 1778205878
     }
 }
