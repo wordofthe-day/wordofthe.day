@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "wane",
-        "pronunciation": "/weɪn/",
-        "partOfSpeech": "verb",
-        "definition": "decrease in vigor, power, or extent; become weaker",
+        "word": "pariah",
+        "pronunciation": "/pəˈrʌɪə/",
+        "partOfSpeech": "noun",
+        "definition": "An outcast.",
         "examples": [
-            "As the night progressed, the party began to wane.",
-            "With the advancements in technology, the use of traditional mail has waned.",
-            "The moon wanes after the full moon phase."
+            "He became a pariah after his friends found out about his lies.",
+            "The corrupt politician was treated as a pariah.",
+            "In the world of art, he was considered a pariah due to his unconventional methods."
         ],
-        "dateUsed": 1778205878
+        "dateUsed": 1778291931
     },
     "hin": {
-        "word": "आश्चर्य",
-        "pronunciation": "/ʌʃchərjə/",
+        "word": "मुकाम",
+        "pronunciation": "/mʊkɑːm/",
         "partOfSpeech": "noun",
-        "definition": "A feeling of surprise or amazement",
+        "definition": "destination or station",
         "examples": [
-            "मुझे उसके चित्रण की कुशलता पर आश्चर्य हुआ.",
-            "वह आश्चर्य से बगल में बैठे अपने भाई की तरफ देखी.",
-            "आश्चर्य की बात है, कि वह बिना किसी सहायता के खुद ही सिख गया."
+            "हमारा अगला मुकाम दिल्ली है।",
+            "आपका लक्ष्य आपका मुकाम निर्धारित करता है।",
+            "मेरे पास अपने मुकाम तक पहुंचने का कोई शॉर्टकट नहीं था।"
         ],
-        "dateUsed": 1778205878
+        "dateUsed": 1778291931
     }
 }
