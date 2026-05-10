@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "pariah",
-        "pronunciation": "/pəˈrʌɪə/",
+        "word": "Yen",
+        "pronunciation": "/jɛn/",
         "partOfSpeech": "noun",
-        "definition": "An outcast.",
+        "definition": "a longing or yearning.",
         "examples": [
-            "He became a pariah after his friends found out about his lies.",
-            "The corrupt politician was treated as a pariah.",
-            "In the world of art, he was considered a pariah due to his unconventional methods."
+            "She had a yen to travel around the world.",
+            "His yen for knowledge made him a lifelong learner.",
+            "Despite her yen to see him, she knew it was best to keep her distance."
         ],
-        "dateUsed": 1778291931
+        "dateUsed": 1778378217
     },
     "hin": {
-        "word": "मुकाम",
-        "pronunciation": "/mʊkɑːm/",
+        "word": "आत्मविश्वास",
+        "pronunciation": "/ɑːtməvɪʂwɑːs/",
         "partOfSpeech": "noun",
-        "definition": "destination or station",
+        "definition": "Confidence in oneself and one's abilities",
         "examples": [
-            "हमारा अगला मुकाम दिल्ली है।",
-            "आपका लक्ष्य आपका मुकाम निर्धारित करता है।",
-            "मेरे पास अपने मुकाम तक पहुंचने का कोई शॉर्टकट नहीं था।"
+            "सफलता के लिए, आत्मविश्वास आवश्यक है.",
+            "वह अपने आत्मविश्वास के बारे में बात करती है.",
+            "मेरे पिता ने मुझे हमेशा आत्मविश्वास से काम करने की सलाह दी."
         ],
-        "dateUsed": 1778291931
+        "dateUsed": 1778378217
     }
 }
