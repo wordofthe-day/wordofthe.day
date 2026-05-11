@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Yen",
-        "pronunciation": "/jɛn/",
-        "partOfSpeech": "noun",
-        "definition": "a longing or yearning.",
+        "word": "Clandestine",
+        "pronunciation": "/klanˈdɛstɪn/",
+        "partOfSpeech": "adjective",
+        "definition": "kept secret or done secretively, especially because illicit.",
         "examples": [
-            "She had a yen to travel around the world.",
-            "His yen for knowledge made him a lifelong learner.",
-            "Despite her yen to see him, she knew it was best to keep her distance."
+            "The spies held a clandestine meeting in the dead of night.",
+            "The clandestine operation was carried out without anyone's knowledge.",
+            "The government was accused of conducting clandestine surveillance on its citizens."
         ],
-        "dateUsed": 1778378217
+        "dateUsed": 1778465270
     },
     "hin": {
-        "word": "आत्मविश्वास",
-        "pronunciation": "/ɑːtməvɪʂwɑːs/",
+        "word": "अधिकार",
+        "pronunciation": "/ʌdhikaːr/",
         "partOfSpeech": "noun",
-        "definition": "Confidence in oneself and one's abilities",
+        "definition": "Right, Authority",
         "examples": [
-            "सफलता के लिए, आत्मविश्वास आवश्यक है.",
-            "वह अपने आत्मविश्वास के बारे में बात करती है.",
-            "मेरे पिता ने मुझे हमेशा आत्मविश्वास से काम करने की सलाह दी."
+            "हमें अपने अधिकारों के बारे में पता होना चाहिए।",
+            "उसके पास यह करने का कोई अधिकार नहीं है।",
+            "प्रशासन ने उसे अधिकार दे दिया।"
         ],
-        "dateUsed": 1778378217
+        "dateUsed": 1778465270
     }
 }
