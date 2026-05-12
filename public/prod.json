@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Clandestine",
-        "pronunciation": "/klanˈdɛstɪn/",
+        "word": "quixotic",
+        "pronunciation": "/kwɪkˈsɒtɪk/",
         "partOfSpeech": "adjective",
-        "definition": "kept secret or done secretively, especially because illicit.",
+        "definition": "Exceedingly idealistic, unrealistic and impractical.",
         "examples": [
-            "The spies held a clandestine meeting in the dead of night.",
-            "The clandestine operation was carried out without anyone's knowledge.",
-            "The government was accused of conducting clandestine surveillance on its citizens."
+            "His quixotic plan to build a new city was met with ridicule.",
+            "She had a quixotic desire to live in a world without war.",
+            "While the idea is commendable, I believe it to be quixotic."
         ],
-        "dateUsed": 1778465270
+        "dateUsed": 1778551397
     },
     "hin": {
-        "word": "अधिकार",
-        "pronunciation": "/ʌdhikaːr/",
+        "word": "उद्देश्य",
+        "pronunciation": "/ʊdːeːʃjə/",
         "partOfSpeech": "noun",
-        "definition": "Right, Authority",
+        "definition": "The purpose or goal for which something is intended",
         "examples": [
-            "हमें अपने अधिकारों के बारे में पता होना चाहिए।",
-            "उसके पास यह करने का कोई अधिकार नहीं है।",
-            "प्रशासन ने उसे अधिकार दे दिया।"
+            "मेरा उद्देश्य यह सुनिश्चित करना है कि सभी बच्चे स्कूल जा सकें.",
+            "विज्ञान का मुख्य उद्देश्य सत्य की खोज है.",
+            "उसके प्रस्ताव का उद्देश्य क्या है?"
         ],
-        "dateUsed": 1778465270
+        "dateUsed": 1778551397
     }
 }
