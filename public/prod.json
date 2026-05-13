@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "quixotic",
-        "pronunciation": "/kwɪkˈsɒtɪk/",
+        "word": "ludicrous",
+        "pronunciation": "/ˈluːdɪkrəs/",
         "partOfSpeech": "adjective",
-        "definition": "Exceedingly idealistic, unrealistic and impractical.",
+        "definition": "so foolish, unreasonable, or out of place as to be amusing; ridiculous",
         "examples": [
-            "His quixotic plan to build a new city was met with ridicule.",
-            "She had a quixotic desire to live in a world without war.",
-            "While the idea is commendable, I believe it to be quixotic."
+            "It's ludicrous that I have been fined.",
+            "Her ludicrous attempt to run in heels.",
+            "The whole idea was ludicrous."
         ],
-        "dateUsed": 1778551397
+        "dateUsed": 1778638143
     },
     "hin": {
-        "word": "उद्देश्य",
-        "pronunciation": "/ʊdːeːʃjə/",
+        "word": "संवाद",
+        "pronunciation": "/sənvaːd/",
         "partOfSpeech": "noun",
-        "definition": "The purpose or goal for which something is intended",
+        "definition": "A conversation or dialogue between two or more people",
         "examples": [
-            "मेरा उद्देश्य यह सुनिश्चित करना है कि सभी बच्चे स्कूल जा सकें.",
-            "विज्ञान का मुख्य उद्देश्य सत्य की खोज है.",
-            "उसके प्रस्ताव का उद्देश्य क्या है?"
+            "संवाद के माध्यम से हम अपनी भावनाओं को व्यक्त कर सकते हैं.",
+            "वे यह निर्णय लेने के लिए एक संवाद शुरू करने वाले थे.",
+            "मेरे और मेरे मित्र के बीच एक गहरा संवाद हुआ."
         ],
-        "dateUsed": 1778551397
+        "dateUsed": 1778638143
     }
 }
