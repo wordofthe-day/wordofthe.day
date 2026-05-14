@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "ludicrous",
-        "pronunciation": "/ˈluːdɪkrəs/",
+        "word": "incipient",
+        "pronunciation": "/ɪnˈsɪpiənt/",
         "partOfSpeech": "adjective",
-        "definition": "so foolish, unreasonable, or out of place as to be amusing; ridiculous",
+        "definition": "in an initial stage; beginning to happen or develop",
         "examples": [
-            "It's ludicrous that I have been fined.",
-            "Her ludicrous attempt to run in heels.",
-            "The whole idea was ludicrous."
+            "He could feel the incipient anger building within him.",
+            "They've raised incipient concerns about the new project.",
+            "I have an incipient interest in photography."
         ],
-        "dateUsed": 1778638143
+        "dateUsed": 1778724695
     },
     "hin": {
-        "word": "संवाद",
-        "pronunciation": "/sənvaːd/",
+        "word": "साहस",
+        "pronunciation": "/sɑːhəs/",
         "partOfSpeech": "noun",
-        "definition": "A conversation or dialogue between two or more people",
+        "definition": "Courage or bravery",
         "examples": [
-            "संवाद के माध्यम से हम अपनी भावनाओं को व्यक्त कर सकते हैं.",
-            "वे यह निर्णय लेने के लिए एक संवाद शुरू करने वाले थे.",
-            "मेरे और मेरे मित्र के बीच एक गहरा संवाद हुआ."
+            "तुम्हें इसे करने के लिए साहस दिखाना होगा.",
+            "वह बहुत साहसी है.",
+            "मैंने उसे अपना साहस दिखाया."
         ],
-        "dateUsed": 1778638143
+        "dateUsed": 1778724695
     }
 }
