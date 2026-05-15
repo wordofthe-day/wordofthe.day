@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "incipient",
-        "pronunciation": "/ɪnˈsɪpiənt/",
+        "word": "Brusque",
+        "pronunciation": "/brʌsk/",
         "partOfSpeech": "adjective",
-        "definition": "in an initial stage; beginning to happen or develop",
+        "definition": "abrupt or offhand in speech or manner.",
         "examples": [
-            "He could feel the incipient anger building within him.",
-            "They've raised incipient concerns about the new project.",
-            "I have an incipient interest in photography."
+            "His brusque manner was off-putting to some people.",
+            "The receptionist's brusque reply made me feel unwelcome.",
+            "Despite his brusque exterior, he was a kind person."
         ],
-        "dateUsed": 1778724695
+        "dateUsed": 1778810957
     },
     "hin": {
-        "word": "साहस",
-        "pronunciation": "/sɑːhəs/",
+        "word": "परिवर्तन",
+        "pronunciation": "/pərivərtən/",
         "partOfSpeech": "noun",
-        "definition": "Courage or bravery",
+        "definition": "The action or process of changing or being changed",
         "examples": [
-            "तुम्हें इसे करने के लिए साहस दिखाना होगा.",
-            "वह बहुत साहसी है.",
-            "मैंने उसे अपना साहस दिखाया."
+            "हमें परिवर्तन का स्वागत करना चाहिए.",
+            "यह एक सकारात्मक परिवर्तन है.",
+            "मैं अपने जीवन में कुछ परिवर्तन करना चाहता हूँ."
         ],
-        "dateUsed": 1778724695
+        "dateUsed": 1778810957
     }
 }
