@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Brusque",
-        "pronunciation": "/brʌsk/",
+        "word": "Nefarious",
+        "pronunciation": "/nəˈfeəriəs/",
         "partOfSpeech": "adjective",
-        "definition": "abrupt or offhand in speech or manner.",
+        "definition": "(Typically of an action or activity) wicked or criminal.",
         "examples": [
-            "His brusque manner was off-putting to some people.",
-            "The receptionist's brusque reply made me feel unwelcome.",
-            "Despite his brusque exterior, he was a kind person."
+            "The villain's nefarious plans were foiled by the hero.",
+            "He was known for his nefarious deeds.",
+            "The nefarious activities of the gang were exposed by the police."
         ],
-        "dateUsed": 1778810957
+        "dateUsed": 1778896893
     },
     "hin": {
-        "word": "परिवर्तन",
-        "pronunciation": "/pərivərtən/",
+        "word": "चिंता",
+        "pronunciation": "/ʧɪnta:/",
         "partOfSpeech": "noun",
-        "definition": "The action or process of changing or being changed",
+        "definition": "a feeling of worry or unease",
         "examples": [
-            "हमें परिवर्तन का स्वागत करना चाहिए.",
-            "यह एक सकारात्मक परिवर्तन है.",
-            "मैं अपने जीवन में कुछ परिवर्तन करना चाहता हूँ."
+            "उसको अपनी तबीयत की चिंता हो रही थी।",
+            "मुझे मेरे परीक्षा की चिंता है।",
+            "तुम्हें अपने खोए हुए सामान की चिंता नहीं होनी चाहिए।"
         ],
-        "dateUsed": 1778810957
+        "dateUsed": 1778896893
     }
 }
