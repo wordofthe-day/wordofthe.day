@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Nefarious",
-        "pronunciation": "/nəˈfeəriəs/",
-        "partOfSpeech": "adjective",
-        "definition": "(Typically of an action or activity) wicked or criminal.",
+        "word": "Juxtaposition",
+        "pronunciation": "/ˌdʒʌkstəpəˈzɪʃn/",
+        "partOfSpeech": "noun",
+        "definition": "the fact of two things being seen or placed close together with contrasting effect.",
         "examples": [
-            "The villain's nefarious plans were foiled by the hero.",
-            "He was known for his nefarious deeds.",
-            "The nefarious activities of the gang were exposed by the police."
+            "The juxtaposition of these two images creates an interesting contrast.",
+            "The film's end was a bleak juxtaposition to its cheery beginning.",
+            "The juxtaposition of their differing opinions led to a great debate."
         ],
-        "dateUsed": 1778896893
+        "dateUsed": 1778983473
     },
     "hin": {
-        "word": "चिंता",
-        "pronunciation": "/ʧɪnta:/",
+        "word": "यात्रा",
+        "pronunciation": "/jɑːtrɑː/",
         "partOfSpeech": "noun",
-        "definition": "a feeling of worry or unease",
+        "definition": "journey or travel",
         "examples": [
-            "उसको अपनी तबीयत की चिंता हो रही थी।",
-            "मुझे मेरे परीक्षा की चिंता है।",
-            "तुम्हें अपने खोए हुए सामान की चिंता नहीं होनी चाहिए।"
+            "मेरी दिल्ली की यात्रा बहुत ही मनोरंजक थी।",
+            "मैं अपनी जीवन यात्रा को स्वर्णिम अक्षरों में लिखना चाहता हूँ।",
+            "उन्होंने अपनी यात्रा का विवरण दिया।"
         ],
-        "dateUsed": 1778896893
+        "dateUsed": 1778983473
     }
 }
