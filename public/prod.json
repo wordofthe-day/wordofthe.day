@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Juxtaposition",
-        "pronunciation": "/ˌdʒʌkstəpəˈzɪʃn/",
-        "partOfSpeech": "noun",
-        "definition": "the fact of two things being seen or placed close together with contrasting effect.",
+        "word": "Wistful",
+        "pronunciation": "/ˈwɪstfʊl/",
+        "partOfSpeech": "adjective",
+        "definition": "having or showing a feeling of vague or regretful longing.",
         "examples": [
-            "The juxtaposition of these two images creates an interesting contrast.",
-            "The film's end was a bleak juxtaposition to its cheery beginning.",
-            "The juxtaposition of their differing opinions led to a great debate."
+            "She had a wistful look on her face as she recalled her childhood.",
+            "His wistful gaze at the sunset made me think he was in love.",
+            "The music created a wistful mood at the party."
         ],
-        "dateUsed": 1778983473
+        "dateUsed": 1779071220
     },
     "hin": {
-        "word": "यात्रा",
-        "pronunciation": "/jɑːtrɑː/",
+        "word": "ज्ञान",
+        "pronunciation": "/ɡjɑːn/",
         "partOfSpeech": "noun",
-        "definition": "journey or travel",
+        "definition": "Information, skills, and understanding that you have gained through learning or experience",
         "examples": [
-            "मेरी दिल्ली की यात्रा बहुत ही मनोरंजक थी।",
-            "मैं अपनी जीवन यात्रा को स्वर्णिम अक्षरों में लिखना चाहता हूँ।",
-            "उन्होंने अपनी यात्रा का विवरण दिया।"
+            "मैंने उस वर्ग में बहुत ज्ञान प्राप्त किया.",
+            "ज्ञान शक्ति होता है.",
+            "वह अपने विषय में अद्वितीय ज्ञान रखता है."
         ],
-        "dateUsed": 1778983473
+        "dateUsed": 1779071220
     }
 }
