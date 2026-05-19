@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Wistful",
-        "pronunciation": "/ˈwɪstfʊl/",
+        "word": "Rapacious",
+        "pronunciation": "/rəˈpeɪʃəs/",
         "partOfSpeech": "adjective",
-        "definition": "having or showing a feeling of vague or regretful longing.",
+        "definition": "aggressively greedy or grasping.",
         "examples": [
-            "She had a wistful look on her face as she recalled her childhood.",
-            "His wistful gaze at the sunset made me think he was in love.",
-            "The music created a wistful mood at the party."
+            "The rapacious developers were ruining the natural landscape.",
+            "His rapacious appetite for success led him to unethical actions.",
+            "The rapacious bird swooped down on its prey."
         ],
-        "dateUsed": 1779071220
+        "dateUsed": 1779156896
     },
     "hin": {
-        "word": "ज्ञान",
-        "pronunciation": "/ɡjɑːn/",
+        "word": "अवसर",
+        "pronunciation": "/ʌvʌsʌr/",
         "partOfSpeech": "noun",
-        "definition": "Information, skills, and understanding that you have gained through learning or experience",
+        "definition": "opportunity or occasion",
         "examples": [
-            "मैंने उस वर्ग में बहुत ज्ञान प्राप्त किया.",
-            "ज्ञान शक्ति होता है.",
-            "वह अपने विषय में अद्वितीय ज्ञान रखता है."
+            "मुझे यह अवसर मिला है कि मैं अपने विचारों को व्यक्त कर सकूं।",
+            "हमें इस अवसर का लाभ उठाना चाहिए।",
+            "यह एक अनूठा अवसर है।"
         ],
-        "dateUsed": 1779071220
+        "dateUsed": 1779156896
     }
 }
