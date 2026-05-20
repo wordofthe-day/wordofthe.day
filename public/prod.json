@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Rapacious",
-        "pronunciation": "/rəˈpeɪʃəs/",
+        "word": "Quiescent",
+        "pronunciation": "/kwɪˈɛs(ə)nt/",
         "partOfSpeech": "adjective",
-        "definition": "aggressively greedy or grasping.",
+        "definition": "in a state or period of inactivity or dormancy.",
         "examples": [
-            "The rapacious developers were ruining the natural landscape.",
-            "His rapacious appetite for success led him to unethical actions.",
-            "The rapacious bird swooped down on its prey."
+            "The volcano has been quiescent for decades.",
+            "The city streets were quiescent in the early morning hours.",
+            "The disease is quiescent, but it is not completely gone."
         ],
-        "dateUsed": 1779156896
+        "dateUsed": 1779243281
     },
     "hin": {
-        "word": "अवसर",
-        "pronunciation": "/ʌvʌsʌr/",
+        "word": "सम्मान",
+        "pronunciation": "/səmmɑːn/",
         "partOfSpeech": "noun",
-        "definition": "opportunity or occasion",
+        "definition": "Respect or admiration for someone or something",
         "examples": [
-            "मुझे यह अवसर मिला है कि मैं अपने विचारों को व्यक्त कर सकूं।",
-            "हमें इस अवसर का लाभ उठाना चाहिए।",
-            "यह एक अनूठा अवसर है।"
+            "मुझे उसके प्रति बहुत सम्मान है.",
+            "हमें सभी का सम्मान करना चाहिए.",
+            "यह मेरे लिए बड़ा सम्मान है."
         ],
-        "dateUsed": 1779156896
+        "dateUsed": 1779243281
     }
 }
