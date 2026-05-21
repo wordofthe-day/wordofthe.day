@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Quiescent",
-        "pronunciation": "/kwɪˈɛs(ə)nt/",
-        "partOfSpeech": "adjective",
-        "definition": "in a state or period of inactivity or dormancy.",
+        "word": "oblivion",
+        "pronunciation": "/əˈblɪviən/",
+        "partOfSpeech": "noun",
+        "definition": "The state of being unaware or unconscious of what is happening.",
         "examples": [
-            "The volcano has been quiescent for decades.",
-            "The city streets were quiescent in the early morning hours.",
-            "The disease is quiescent, but it is not completely gone."
+            "He drank himself into oblivion.",
+            "She was staring into oblivion, deep in thought.",
+            "The once-popular actor faded into oblivion."
         ],
-        "dateUsed": 1779243281
+        "dateUsed": 1779329643
     },
     "hin": {
-        "word": "सम्मान",
-        "pronunciation": "/səmmɑːn/",
-        "partOfSpeech": "noun",
-        "definition": "Respect or admiration for someone or something",
+        "word": "बुद्धिमान",
+        "pronunciation": "/bʊdhːɪmɑːn/",
+        "partOfSpeech": "adjective",
+        "definition": "Having or showing intelligence or knowledge",
         "examples": [
-            "मुझे उसके प्रति बहुत सम्मान है.",
-            "हमें सभी का सम्मान करना चाहिए.",
-            "यह मेरे लिए बड़ा सम्मान है."
+            "कमल बहुत बुद्धिमान बच्ची है.",
+            "बुद्धिमान लोग हमेशा नई चीजों को सीखने के लिए उत्साही होते हैं.",
+            "मेरी मां मुझे हमेशा कहती हैं कि बुद्धिमान बनने के लिए पर्याप्त अध्ययन करना चाहिए."
         ],
-        "dateUsed": 1779243281
+        "dateUsed": 1779329643
     }
 }
