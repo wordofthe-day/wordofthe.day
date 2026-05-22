@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "oblivion",
-        "pronunciation": "/əˈblɪviən/",
-        "partOfSpeech": "noun",
-        "definition": "The state of being unaware or unconscious of what is happening.",
+        "word": "Vituperative",
+        "pronunciation": "/vɪˈtjuːpərətɪv/",
+        "partOfSpeech": "adjective",
+        "definition": "bitter and abusive.",
         "examples": [
-            "He drank himself into oblivion.",
-            "She was staring into oblivion, deep in thought.",
-            "The once-popular actor faded into oblivion."
+            "The vituperative argument left everyone feeling upset.",
+            "His vituperative comments were targeted at his opponent.",
+            "The critic's review was vituperative and harsh."
         ],
-        "dateUsed": 1779329643
+        "dateUsed": 1779416868
     },
     "hin": {
-        "word": "बुद्धिमान",
-        "pronunciation": "/bʊdhːɪmɑːn/",
-        "partOfSpeech": "adjective",
-        "definition": "Having or showing intelligence or knowledge",
+        "word": "आदान-प्रदान",
+        "pronunciation": "/ɑːdɑːn prədɑːn/",
+        "partOfSpeech": "noun",
+        "definition": "The action or process of giving and receiving",
         "examples": [
-            "कमल बहुत बुद्धिमान बच्ची है.",
-            "बुद्धिमान लोग हमेशा नई चीजों को सीखने के लिए उत्साही होते हैं.",
-            "मेरी मां मुझे हमेशा कहती हैं कि बुद्धिमान बनने के लिए पर्याप्त अध्ययन करना चाहिए."
+            "सौदे का आदान-प्रदान हुआ.",
+            "ज्ञान का आदान-प्रदान हमें विकसित करता है.",
+            "आदान-प्रदान से हमें बहुत कुछ सीखने को मिलता है."
         ],
-        "dateUsed": 1779329643
+        "dateUsed": 1779416868
     }
 }
