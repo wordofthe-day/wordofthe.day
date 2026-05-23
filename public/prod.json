@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Vituperative",
-        "pronunciation": "/vɪˈtjuːpərətɪv/",
+        "word": "Untoward",
+        "pronunciation": "/ʌnˈtəʊəd/",
         "partOfSpeech": "adjective",
-        "definition": "bitter and abusive.",
+        "definition": "unexpected and inappropriate or inconvenient.",
         "examples": [
-            "The vituperative argument left everyone feeling upset.",
-            "His vituperative comments were targeted at his opponent.",
-            "The critic's review was vituperative and harsh."
+            "An untoward incident disrupted the event.",
+            "She felt uncomfortable because of his untoward remarks.",
+            "The untoward weather conditions delayed our trip."
         ],
-        "dateUsed": 1779416868
+        "dateUsed": 1779501846
     },
     "hin": {
-        "word": "आदान-प्रदान",
-        "pronunciation": "/ɑːdɑːn prədɑːn/",
-        "partOfSpeech": "noun",
-        "definition": "The action or process of giving and receiving",
+        "word": "स्पष्ट",
+        "pronunciation": "/spʌʃʈ/",
+        "partOfSpeech": "adjective",
+        "definition": "Easy to perceive, understand, or interpret",
         "examples": [
-            "सौदे का आदान-प्रदान हुआ.",
-            "ज्ञान का आदान-प्रदान हमें विकसित करता है.",
-            "आदान-प्रदान से हमें बहुत कुछ सीखने को मिलता है."
+            "स्पष्ट होना महत्वपूर्ण है.",
+            "उसने अपने विचार स्पष्ट किए.",
+            "मुझे अब यह स्पष्ट हो गया कि मैं क्या करना चाहता हूँ."
         ],
-        "dateUsed": 1779416868
+        "dateUsed": 1779501846
     }
 }
