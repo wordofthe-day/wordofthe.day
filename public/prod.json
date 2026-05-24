@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Untoward",
-        "pronunciation": "/ʌnˈtəʊəd/",
-        "partOfSpeech": "adjective",
-        "definition": "unexpected and inappropriate or inconvenient.",
+        "word": "zest",
+        "pronunciation": "/zɛst/",
+        "partOfSpeech": "noun",
+        "definition": "Great enthusiasm and energy.",
         "examples": [
-            "An untoward incident disrupted the event.",
-            "She felt uncomfortable because of his untoward remarks.",
-            "The untoward weather conditions delayed our trip."
+            "She added a zest of lemon to the recipe.",
+            "His zest for life was contagious.",
+            "She approached the project with a zest that was admirable."
         ],
-        "dateUsed": 1779501846
+        "dateUsed": 1779588773
     },
     "hin": {
-        "word": "स्पष्ट",
-        "pronunciation": "/spʌʃʈ/",
-        "partOfSpeech": "adjective",
-        "definition": "Easy to perceive, understand, or interpret",
+        "word": "पुस्तक",
+        "pronunciation": "/pʊstək/",
+        "partOfSpeech": "noun",
+        "definition": "Book",
         "examples": [
-            "स्पष्ट होना महत्वपूर्ण है.",
-            "उसने अपने विचार स्पष्ट किए.",
-            "मुझे अब यह स्पष्ट हो गया कि मैं क्या करना चाहता हूँ."
+            "मैंने एक पुस्तक पढ़ी।",
+            "पुस्तकें हमारी सबसे अच्छी दोस्त होती हैं।",
+            "वह पुस्तकालय में पुस्तकें ढूंढ़ रहा है।"
         ],
-        "dateUsed": 1779501846
+        "dateUsed": 1779588773
     }
 }
