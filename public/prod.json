@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "zest",
-        "pronunciation": "/zɛst/",
+        "word": "Misanthrope",
+        "pronunciation": "/ˈmɪs(ə)nθrəʊp/",
         "partOfSpeech": "noun",
-        "definition": "Great enthusiasm and energy.",
+        "definition": "a person who dislikes humankind and avoids human society.",
         "examples": [
-            "She added a zest of lemon to the recipe.",
-            "His zest for life was contagious.",
-            "She approached the project with a zest that was admirable."
+            "The old man was a notorious misanthrope who avoided social gatherings.",
+            "Despite being a misanthrope, he was respected for his scholarly work.",
+            "His misanthropic attitudes have isolated him from others."
         ],
-        "dateUsed": 1779588773
+        "dateUsed": 1779676296
     },
     "hin": {
-        "word": "पुस्तक",
-        "pronunciation": "/pʊstək/",
+        "word": "बाल्य",
+        "pronunciation": "/bɑːlj/",
         "partOfSpeech": "noun",
-        "definition": "Book",
+        "definition": "childhood",
         "examples": [
-            "मैंने एक पुस्तक पढ़ी।",
-            "पुस्तकें हमारी सबसे अच्छी दोस्त होती हैं।",
-            "वह पुस्तकालय में पुस्तकें ढूंढ़ रहा है।"
+            "मेरे बाल्य के दिन बहुत ही आनंददायक थे।",
+            "बाल्य जीवन का सबसे महत्वपूर्ण हिस्सा होता है।",
+            "उन्होंने अपने बाल्य के बारे में बताया।"
         ],
-        "dateUsed": 1779588773
+        "dateUsed": 1779676296
     }
 }
