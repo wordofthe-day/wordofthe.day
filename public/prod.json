@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Misanthrope",
-        "pronunciation": "/ˈmɪs(ə)nθrəʊp/",
-        "partOfSpeech": "noun",
-        "definition": "a person who dislikes humankind and avoids human society.",
+        "word": "nocturnal",
+        "pronunciation": "/nɒkˈtɜːrnl/",
+        "partOfSpeech": "adjective",
+        "definition": "done, occurring, or active at night",
         "examples": [
-            "The old man was a notorious misanthrope who avoided social gatherings.",
-            "Despite being a misanthrope, he was respected for his scholarly work.",
-            "His misanthropic attitudes have isolated him from others."
+            "The museum had a special exhibit on nocturnal animals.",
+            "He had a nocturnal lifestyle, working late into the night.",
+            "The city takes on a different character during its nocturnal hours."
         ],
-        "dateUsed": 1779676296
+        "dateUsed": 1779761507
     },
     "hin": {
-        "word": "बाल्य",
-        "pronunciation": "/bɑːlj/",
+        "word": "मित्रता",
+        "pronunciation": "/mɪtrət̪a:/",
         "partOfSpeech": "noun",
-        "definition": "childhood",
+        "definition": "friendship",
         "examples": [
-            "मेरे बाल्य के दिन बहुत ही आनंददायक थे।",
-            "बाल्य जीवन का सबसे महत्वपूर्ण हिस्सा होता है।",
-            "उन्होंने अपने बाल्य के बारे में बताया।"
+            "हमारी मित्रता कई वर्षों से चल रही है।",
+            "मित्रता समर्पण और समझौते की आवश्यकता होती है।",
+            "एक सच्ची मित्रता का मूल्य संपत्ति से अधिक होता है।"
         ],
-        "dateUsed": 1779676296
+        "dateUsed": 1779761507
     }
 }
