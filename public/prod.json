@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "nocturnal",
-        "pronunciation": "/nɒkˈtɜːrnl/",
-        "partOfSpeech": "adjective",
-        "definition": "done, occurring, or active at night",
+        "word": "vex",
+        "pronunciation": "/vɛks/",
+        "partOfSpeech": "verb",
+        "definition": "make (someone) feel annoyed, frustrated, or worried, especially with trivial matters",
         "examples": [
-            "The museum had a special exhibit on nocturnal animals.",
-            "He had a nocturnal lifestyle, working late into the night.",
-            "The city takes on a different character during its nocturnal hours."
+            "The memory of the conversation still vexed him.",
+            "The causes of this problem continue to vex analysts.",
+            "He was vexed by the children's disobedience."
         ],
-        "dateUsed": 1779761507
+        "dateUsed": 1779849065
     },
     "hin": {
-        "word": "मित्रता",
-        "pronunciation": "/mɪtrət̪a:/",
+        "word": "आविष्कार",
+        "pronunciation": "/ɑːvɪʂkɑːr/",
         "partOfSpeech": "noun",
-        "definition": "friendship",
+        "definition": "The creation of something in the mind or the act of creating something new",
         "examples": [
-            "हमारी मित्रता कई वर्षों से चल रही है।",
-            "मित्रता समर्पण और समझौते की आवश्यकता होती है।",
-            "एक सच्ची मित्रता का मूल्य संपत्ति से अधिक होता है।"
+            "उसने एक नया आविष्कार किया.",
+            "यह आविष्कार मेरे लिए बहुत उपयोगी है.",
+            "विज्ञान के क्षेत्र में नए आविष्कार हमारे जीवन को बेहतर बना रहे हैं."
         ],
-        "dateUsed": 1779761507
+        "dateUsed": 1779849065
     }
 }
