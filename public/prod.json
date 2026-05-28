@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "vex",
-        "pronunciation": "/vɛks/",
-        "partOfSpeech": "verb",
-        "definition": "make (someone) feel annoyed, frustrated, or worried, especially with trivial matters",
+        "word": "Onerous",
+        "pronunciation": "/ˈəʊnərəs/",
+        "partOfSpeech": "adjective",
+        "definition": "(of a task or responsibility) involving a great deal of effort, trouble, or difficulty.",
         "examples": [
-            "The memory of the conversation still vexed him.",
-            "The causes of this problem continue to vex analysts.",
-            "He was vexed by the children's disobedience."
+            "The onerous task of cleaning the garage fell to me.",
+            "The responsibilities of his new job are very onerous.",
+            "Fulfilling the contract's terms became an onerous obligation."
         ],
-        "dateUsed": 1779849065
+        "dateUsed": 1779933979
     },
     "hin": {
-        "word": "आविष्कार",
-        "pronunciation": "/ɑːvɪʂkɑːr/",
+        "word": "सहयोग",
+        "pronunciation": "/səhəjəɡ/",
         "partOfSpeech": "noun",
-        "definition": "The creation of something in the mind or the act of creating something new",
+        "definition": "The process of working together to the same end",
         "examples": [
-            "उसने एक नया आविष्कार किया.",
-            "यह आविष्कार मेरे लिए बहुत उपयोगी है.",
-            "विज्ञान के क्षेत्र में नए आविष्कार हमारे जीवन को बेहतर बना रहे हैं."
+            "हमें सहयोग करने की आवश्यकता है.",
+            "मैं उसके संगठन के साथ सहयोग कर रहा हूं.",
+            "सहयोग सभी समस्याओं का समाधान है."
         ],
-        "dateUsed": 1779849065
+        "dateUsed": 1779933979
     }
 }
