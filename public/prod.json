@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Onerous",
-        "pronunciation": "/ˈəʊnərəs/",
-        "partOfSpeech": "adjective",
-        "definition": "(of a task or responsibility) involving a great deal of effort, trouble, or difficulty.",
+        "word": "veracity",
+        "pronunciation": "/vəˈræsɪti/",
+        "partOfSpeech": "noun",
+        "definition": "conformity to facts; accuracy",
         "examples": [
-            "The onerous task of cleaning the garage fell to me.",
-            "The responsibilities of his new job are very onerous.",
-            "Fulfilling the contract's terms became an onerous obligation."
+            "The veracity of his account was called into question.",
+            "She was known for her veracity and integrity.",
+            "The veracity of the data is of utmost importance in scientific research."
         ],
-        "dateUsed": 1779933979
+        "dateUsed": 1780020589
     },
     "hin": {
-        "word": "सहयोग",
-        "pronunciation": "/səhəjəɡ/",
+        "word": "विज्ञान",
+        "pronunciation": "/vɪdʒɲɑːn/",
         "partOfSpeech": "noun",
-        "definition": "The process of working together to the same end",
+        "definition": "science",
         "examples": [
-            "हमें सहयोग करने की आवश्यकता है.",
-            "मैं उसके संगठन के साथ सहयोग कर रहा हूं.",
-            "सहयोग सभी समस्याओं का समाधान है."
+            "विज्ञान ने हमारी जीवन शैली को बदल दिया है।",
+            "मैं भौतिक विज्ञान में रुचि रखता हूँ।",
+            "विज्ञान का प्रयोग हमारे समाज को सुधारने में किया जा सकता है।"
         ],
-        "dateUsed": 1779933979
+        "dateUsed": 1780020589
     }
 }
