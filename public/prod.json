@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Omniscient",
-        "pronunciation": "/ɑːmˈnɪʃənt/",
-        "partOfSpeech": "adjective",
-        "definition": "Knowing everything.",
+        "word": "xenophobia",
+        "pronunciation": "/zɛnəˈfoʊbiə/",
+        "partOfSpeech": "noun",
+        "definition": "dislike of or prejudice against people from other countries",
         "examples": [
-            "In the novel, the narrator is an omniscient character.",
-            "The idea of an omniscient being is common in many religions.",
-            "Despite his claims, he was far from omniscient."
+            "His xenophobia was evident in his hateful comments.",
+            "The rise of xenophobia in some parts of the world is alarming.",
+            "The campaign was aimed at combating xenophobia and promoting tolerance."
         ],
-        "dateUsed": 1780194732
+        "dateUsed": 1780281697
     },
     "hin": {
-        "word": "सन्देश",
-        "pronunciation": "/səndeːʃ/",
+        "word": "विश्राम",
+        "pronunciation": "/viʃrɑ:m/",
         "partOfSpeech": "noun",
-        "definition": "A piece of information or news that is sent or given to someone",
+        "definition": "rest or relaxation",
         "examples": [
-            "मैंने उसे एक सन्देश भेजा.",
-            "उसका सन्देश मेरे लिए बहुत महत्वपूर्ण था.",
-            "तुमने मेरा सन्देश पढ़ा क्या?"
+            "मैंने छुट्टियों में विश्राम किया।",
+            "योग से शरीर और मन को विश्राम मिलता है।",
+            "विश्राम के बिना, हम अपनी पूरी क्षमता से काम नहीं कर सकते।"
         ],
-        "dateUsed": 1780194732
+        "dateUsed": 1780281697
     }
 }
