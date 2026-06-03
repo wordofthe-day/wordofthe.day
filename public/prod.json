@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Knack",
-        "pronunciation": "/næk/",
-        "partOfSpeech": "noun",
-        "definition": "an acquired or natural skill at performing a task.",
+        "word": "Bellicose",
+        "pronunciation": "/ˈbɛlɪkoʊs/",
+        "partOfSpeech": "adjective",
+        "definition": "Demonstrating aggression and willingness to fight.",
         "examples": [
-            "He has a knack for making friends easily.",
-            "She has the knack of making people feel comfortable.",
-            "He's got a knack for playing the piano."
+            "His bellicose behavior worried his parents.",
+            "Despite the bellicose rhetoric, a direct conflict was avoided.",
+            "The nation has a bellicose history, often initiating wars."
         ],
-        "dateUsed": 1780368004
+        "dateUsed": 1780454885
     },
     "hin": {
-        "word": "विचारवान",
-        "pronunciation": "/vɪchaːrvaːn/",
-        "partOfSpeech": "adjective",
-        "definition": "Engaged in, involving, or reflecting deep or serious thought",
+        "word": "निर्णय",
+        "pronunciation": "/nɪrnəj/",
+        "partOfSpeech": "noun",
+        "definition": "A firm decision about something",
         "examples": [
-            "वह बहुत विचारवान और अनुभवी व्यक्ति है.",
-            "मैंने उसे विचारवान तरीके से अपने काम करते हुए देखा.",
-            "मेरी मां हमेशा कहती है कि मैं विचारवान बनने की कोशिश करूं."
+            "मैंने निर्णय लिया कि मैं अपने जीवन को बेहतर बनाऊंगा.",
+            "सरकार ने नवीनीकरण पर निर्णय किया है.",
+            "उसके पास इस प्रकरण पर एक निर्णय लेने की बहुत कम समय थी."
         ],
-        "dateUsed": 1780368004
+        "dateUsed": 1780454885
     }
 }
