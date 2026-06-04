@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Bellicose",
-        "pronunciation": "/ˈbɛlɪkoʊs/",
-        "partOfSpeech": "adjective",
-        "definition": "Demonstrating aggression and willingness to fight.",
+        "word": "Yokel",
+        "pronunciation": "/ˈjoʊkəl/",
+        "partOfSpeech": "noun",
+        "definition": "an uneducated and unsophisticated person from the countryside.",
         "examples": [
-            "His bellicose behavior worried his parents.",
-            "Despite the bellicose rhetoric, a direct conflict was avoided.",
-            "The nation has a bellicose history, often initiating wars."
+            "He was tired of being treated like a yokel just because he lived in the country.",
+            "The movie portrayed the character as a simple yokel who finds success in the city.",
+            "The city slickers made fun of the yokel's naive ways."
         ],
-        "dateUsed": 1780454885
+        "dateUsed": 1780540982
     },
     "hin": {
-        "word": "निर्णय",
-        "pronunciation": "/nɪrnəj/",
+        "word": "कठिनाई",
+        "pronunciation": "/kʌtʰɪnɑːi/",
         "partOfSpeech": "noun",
-        "definition": "A firm decision about something",
+        "definition": "difficulty or hardship",
         "examples": [
-            "मैंने निर्णय लिया कि मैं अपने जीवन को बेहतर बनाऊंगा.",
-            "सरकार ने नवीनीकरण पर निर्णय किया है.",
-            "उसके पास इस प्रकरण पर एक निर्णय लेने की बहुत कम समय थी."
+            "हमने कठिनाईयों का सामना किया, लेकिन हमने हार नहीं मानी।",
+            "मैं कठिनाई के बीना सीखने के लिए प्रयास करता हूँ।",
+            "उन्होंने कठिनाईयों के बावजूद अपने लक्ष्य को प्राप्त किया।"
         ],
-        "dateUsed": 1780454885
+        "dateUsed": 1780540982
     }
 }
