@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Yokel",
-        "pronunciation": "/ˈjoʊkəl/",
+        "word": "Apex",
+        "pronunciation": "/ˈeɪpɛks/",
         "partOfSpeech": "noun",
-        "definition": "an uneducated and unsophisticated person from the countryside.",
+        "definition": "the top or highest part of something, especially one forming a point.",
         "examples": [
-            "He was tired of being treated like a yokel just because he lived in the country.",
-            "The movie portrayed the character as a simple yokel who finds success in the city.",
-            "The city slickers made fun of the yokel's naive ways."
+            "The climber reached the apex of the mountain.",
+            "The apex of his career was when he became the CEO.",
+            "The apex predator in the ecosystem is the lion."
         ],
-        "dateUsed": 1780540982
+        "dateUsed": 1780626585
     },
     "hin": {
-        "word": "कठिनाई",
-        "pronunciation": "/kʌtʰɪnɑːi/",
+        "word": "विश्लेषण",
+        "pronunciation": "/vɪʃleːʃən/",
         "partOfSpeech": "noun",
-        "definition": "difficulty or hardship",
+        "definition": "A detailed examination of the elements or structure of something",
         "examples": [
-            "हमने कठिनाईयों का सामना किया, लेकिन हमने हार नहीं मानी।",
-            "मैं कठिनाई के बीना सीखने के लिए प्रयास करता हूँ।",
-            "उन्होंने कठिनाईयों के बावजूद अपने लक्ष्य को प्राप्त किया।"
+            "मैंने उस किताब का विश्लेषण किया.",
+            "विश्लेषण से हमें महत्वपूर्ण जानकारी मिल सकती है.",
+            "उन्होंने डेटा का विश्लेषण किया."
         ],
-        "dateUsed": 1780540982
+        "dateUsed": 1780626585
     }
 }
