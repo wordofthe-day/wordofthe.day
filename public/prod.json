@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Apex",
-        "pronunciation": "/ˈeɪpɛks/",
+        "word": "virtuoso",
+        "pronunciation": "/ˌvɜːtʃʊˈəʊzəʊ/",
         "partOfSpeech": "noun",
-        "definition": "the top or highest part of something, especially one forming a point.",
+        "definition": "A person highly skilled in music or another artistic pursuit.",
         "examples": [
-            "The climber reached the apex of the mountain.",
-            "The apex of his career was when he became the CEO.",
-            "The apex predator in the ecosystem is the lion."
+            "He is a virtuoso on the piano.",
+            "The performance was a virtuoso display of skill.",
+            "She is a virtuoso of the violin, having played since she was five."
         ],
-        "dateUsed": 1780626585
+        "dateUsed": 1780711741
     },
     "hin": {
-        "word": "विश्लेषण",
-        "pronunciation": "/vɪʃleːʃən/",
+        "word": "संगीत",
+        "pronunciation": "/sʌŋiːt/",
         "partOfSpeech": "noun",
-        "definition": "A detailed examination of the elements or structure of something",
+        "definition": "Music",
         "examples": [
-            "मैंने उस किताब का विश्लेषण किया.",
-            "विश्लेषण से हमें महत्वपूर्ण जानकारी मिल सकती है.",
-            "उन्होंने डेटा का विश्लेषण किया."
+            "मैं संगीत सुनना पसंद करता हूँ।",
+            "उसके पास संगीत का बहुत अच्छा संग्रह है।",
+            "संगीत का असर हमारे मन पर होता है।"
         ],
-        "dateUsed": 1780626585
+        "dateUsed": 1780711741
     }
 }
