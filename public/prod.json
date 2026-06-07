@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "virtuoso",
-        "pronunciation": "/ˌvɜːtʃʊˈəʊzəʊ/",
-        "partOfSpeech": "noun",
-        "definition": "A person highly skilled in music or another artistic pursuit.",
+        "word": "droll",
+        "pronunciation": "/drəʊl/",
+        "partOfSpeech": "adjective",
+        "definition": "curious or unusual in a way that provokes dry amusement",
         "examples": [
-            "He is a virtuoso on the piano.",
-            "The performance was a virtuoso display of skill.",
-            "She is a virtuoso of the violin, having played since she was five."
+            "His droll sense of humor was appreciated by his friends.",
+            "The movie was filled with droll characters, making it a delightful comedy.",
+            "The speaker shared a droll anecdote during his speech."
         ],
-        "dateUsed": 1780711741
+        "dateUsed": 1780799746
     },
     "hin": {
-        "word": "संगीत",
-        "pronunciation": "/sʌŋiːt/",
+        "word": "आवाज़",
+        "pronunciation": "/ɑːvɑːz/",
         "partOfSpeech": "noun",
-        "definition": "Music",
+        "definition": "sound or voice",
         "examples": [
-            "मैं संगीत सुनना पसंद करता हूँ।",
-            "उसके पास संगीत का बहुत अच्छा संग्रह है।",
-            "संगीत का असर हमारे मन पर होता है।"
+            "मुझे उनकी आवाज़ बहुत पसंद है।",
+            "संगीत में आवाज़ का महत्वपूर्ण योगदान होता है।",
+            "हमें हमारी आवाज़ उठानी चाहिए।"
         ],
-        "dateUsed": 1780711741
+        "dateUsed": 1780799746
     }
 }
