@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "droll",
-        "pronunciation": "/drəʊl/",
-        "partOfSpeech": "adjective",
-        "definition": "curious or unusual in a way that provokes dry amusement",
+        "word": "zephyr",
+        "pronunciation": "/ˈzɛfər/",
+        "partOfSpeech": "noun",
+        "definition": "a soft gentle breeze",
         "examples": [
-            "His droll sense of humor was appreciated by his friends.",
-            "The movie was filled with droll characters, making it a delightful comedy.",
-            "The speaker shared a droll anecdote during his speech."
+            "The zephyr rustled the leaves of the trees.",
+            "She enjoyed the zephyr on the beach during sunset.",
+            "The zephyr cooled the warm summer afternoon."
         ],
-        "dateUsed": 1780799746
+        "dateUsed": 1780886384
     },
     "hin": {
-        "word": "आवाज़",
-        "pronunciation": "/ɑːvɑːz/",
+        "word": "समर्पण",
+        "pronunciation": "/sʌmʌrpʌn/",
         "partOfSpeech": "noun",
-        "definition": "sound or voice",
+        "definition": "dedication or devotion",
         "examples": [
-            "मुझे उनकी आवाज़ बहुत पसंद है।",
-            "संगीत में आवाज़ का महत्वपूर्ण योगदान होता है।",
-            "हमें हमारी आवाज़ उठानी चाहिए।"
+            "उन्होंने अपने जीवन को समाज सेवा में समर्पित कर दिया।",
+            "मैंने अपनी पूजा का समर्पण किया।",
+            "उनका समर्पण उन्हें सफलता दिलाता है।"
         ],
-        "dateUsed": 1780799746
+        "dateUsed": 1780886384
     }
 }
