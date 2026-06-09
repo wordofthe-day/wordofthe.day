@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "zephyr",
-        "pronunciation": "/ˈzɛfər/",
+        "word": "Debacle",
+        "pronunciation": "/dɪˈbɑːkəl/",
         "partOfSpeech": "noun",
-        "definition": "a soft gentle breeze",
+        "definition": "a sudden and ignominious failure; a fiasco.",
         "examples": [
-            "The zephyr rustled the leaves of the trees.",
-            "She enjoyed the zephyr on the beach during sunset.",
-            "The zephyr cooled the warm summer afternoon."
+            "The company's failed project turned into a debacle.",
+            "The party was a complete debacle, with guests leaving early.",
+            "The military operation ended in a disastrous debacle."
         ],
-        "dateUsed": 1780886384
+        "dateUsed": 1780970763
     },
     "hin": {
-        "word": "समर्पण",
-        "pronunciation": "/sʌmʌrpʌn/",
+        "word": "स्मरण",
+        "pronunciation": "/smʌrən/",
         "partOfSpeech": "noun",
-        "definition": "dedication or devotion",
+        "definition": "the act of remembering or commemorating",
         "examples": [
-            "उन्होंने अपने जीवन को समाज सेवा में समर्पित कर दिया।",
-            "मैंने अपनी पूजा का समर्पण किया।",
-            "उनका समर्पण उन्हें सफलता दिलाता है।"
+            "उसका जन्मदिन हमेशा हमारे स्मरण में रहेगा।",
+            "वीर सैनिकों के स्मरण में एक समारोह आयोजित किया गया।",
+            "स्मरण शक्ति का अभ्यास करना महत्वपूर्ण होता है।"
         ],
-        "dateUsed": 1780886384
+        "dateUsed": 1780970763
     }
 }
