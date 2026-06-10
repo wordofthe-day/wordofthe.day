@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Debacle",
-        "pronunciation": "/dɪˈbɑːkəl/",
-        "partOfSpeech": "noun",
-        "definition": "a sudden and ignominious failure; a fiasco.",
+        "word": "Histrionic",
+        "pronunciation": "/ˌhɪstriˈɒnɪk/",
+        "partOfSpeech": "adjective",
+        "definition": "Overly theatrical or melodramatic in character or style.",
         "examples": [
-            "The company's failed project turned into a debacle.",
-            "The party was a complete debacle, with guests leaving early.",
-            "The military operation ended in a disastrous debacle."
+            "His histrionic reaction to the criticism was not well-received.",
+            "The play was overly histrionic, lacking subtlety.",
+            "Her histrionic displays were amusing to watch."
         ],
-        "dateUsed": 1780970763
+        "dateUsed": 1781058615
     },
     "hin": {
-        "word": "स्मरण",
-        "pronunciation": "/smʌrən/",
+        "word": "दान",
+        "pronunciation": "/dɑːn/",
         "partOfSpeech": "noun",
-        "definition": "the act of remembering or commemorating",
+        "definition": "donation or charity",
         "examples": [
-            "उसका जन्मदिन हमेशा हमारे स्मरण में रहेगा।",
-            "वीर सैनिकों के स्मरण में एक समारोह आयोजित किया गया।",
-            "स्मरण शक्ति का अभ्यास करना महत्वपूर्ण होता है।"
+            "उन्होंने अपनी संपत्ति का अधिकांश हिस्सा दान में दे दिया।",
+            "दान करना एक सामाजिक जिम्मेदारी है।",
+            "मैंने अपने पुराने कपड़े दान कर दिए।"
         ],
-        "dateUsed": 1780970763
+        "dateUsed": 1781058615
     }
 }
