@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Histrionic",
-        "pronunciation": "/ˌhɪstriˈɒnɪk/",
+        "word": "Reticent",
+        "pronunciation": "/ˈrɛtɪsənt/",
         "partOfSpeech": "adjective",
-        "definition": "Overly theatrical or melodramatic in character or style.",
+        "definition": "Not revealing one's thoughts or feelings readily.",
         "examples": [
-            "His histrionic reaction to the criticism was not well-received.",
-            "The play was overly histrionic, lacking subtlety.",
-            "Her histrionic displays were amusing to watch."
+            "She was reticent about her past.",
+            "Despite the questions, he remained reticent.",
+            "His reticent nature was often mistaken for rudeness."
         ],
-        "dateUsed": 1781058615
+        "dateUsed": 1781145627
     },
     "hin": {
-        "word": "दान",
-        "pronunciation": "/dɑːn/",
+        "word": "आवास",
+        "pronunciation": "/ʌvaːs/",
         "partOfSpeech": "noun",
-        "definition": "donation or charity",
+        "definition": "Residence, House",
         "examples": [
-            "उन्होंने अपनी संपत्ति का अधिकांश हिस्सा दान में दे दिया।",
-            "दान करना एक सामाजिक जिम्मेदारी है।",
-            "मैंने अपने पुराने कपड़े दान कर दिए।"
+            "मेरा आवास शहर के बीच में है।",
+            "उनका आवास कहाँ है?",
+            "वह अपने आवास की ओर जा रहा है।"
         ],
-        "dateUsed": 1781058615
+        "dateUsed": 1781145627
     }
 }
