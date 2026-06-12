@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Reticent",
-        "pronunciation": "/ˈrɛtɪsənt/",
+        "word": "ludicrous",
+        "pronunciation": "/ˈluːdɪkrəs/",
         "partOfSpeech": "adjective",
-        "definition": "Not revealing one's thoughts or feelings readily.",
+        "definition": "so foolish, unreasonable, or out of place as to be amusing",
         "examples": [
-            "She was reticent about her past.",
-            "Despite the questions, he remained reticent.",
-            "His reticent nature was often mistaken for rudeness."
+            "His ludicrous claims were dismissed by the court.",
+            "The idea of a flying car seems ludicrous to many.",
+            "She made a ludicrous attempt to disguise herself with a fake mustache."
         ],
-        "dateUsed": 1781145627
+        "dateUsed": 1781231753
     },
     "hin": {
-        "word": "आवास",
-        "pronunciation": "/ʌvaːs/",
+        "word": "सहमति",
+        "pronunciation": "/səhəməti/",
         "partOfSpeech": "noun",
-        "definition": "Residence, House",
+        "definition": "Agreement with or approval of something or someone",
         "examples": [
-            "मेरा आवास शहर के बीच में है।",
-            "उनका आवास कहाँ है?",
-            "वह अपने आवास की ओर जा रहा है।"
+            "मुझे उसकी योजना से सहमति है.",
+            "हमें इस बारे में सहमति बनानी होगी.",
+            "वह मुझसे सहमति में था."
         ],
-        "dateUsed": 1781145627
+        "dateUsed": 1781231753
     }
 }
