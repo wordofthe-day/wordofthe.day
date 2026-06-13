@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "ludicrous",
-        "pronunciation": "/ˈluːdɪkrəs/",
-        "partOfSpeech": "adjective",
-        "definition": "so foolish, unreasonable, or out of place as to be amusing",
+        "word": "quandary",
+        "pronunciation": "/ˈkwɒndəri/",
+        "partOfSpeech": "noun",
+        "definition": "a state of perplexity or uncertainty over what to do in a difficult situation",
         "examples": [
-            "His ludicrous claims were dismissed by the court.",
-            "The idea of a flying car seems ludicrous to many.",
-            "She made a ludicrous attempt to disguise herself with a fake mustache."
+            "Kate is in a quandary about whether to go.",
+            "I was in a quandary.",
+            "She found herself in a quandary."
         ],
-        "dateUsed": 1781231753
+        "dateUsed": 1781317724
     },
     "hin": {
-        "word": "सहमति",
-        "pronunciation": "/səhəməti/",
+        "word": "आराम",
+        "pronunciation": "/ɑːrɑːm/",
         "partOfSpeech": "noun",
-        "definition": "Agreement with or approval of something or someone",
+        "definition": "rest or leisure",
         "examples": [
-            "मुझे उसकी योजना से सहमति है.",
-            "हमें इस बारे में सहमति बनानी होगी.",
-            "वह मुझसे सहमति में था."
+            "मैं आज दिन भर आराम करूंगा।",
+            "आराम से काम करना अच्छा होता है।",
+            "आराम से सोने के लिए एक अच्छा बिस्तर चाहिए।"
         ],
-        "dateUsed": 1781231753
+        "dateUsed": 1781317724
     }
 }
