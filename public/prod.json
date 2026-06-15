@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Pugnacious",
-        "pronunciation": "/pʌgˈneɪʃəs/",
-        "partOfSpeech": "adjective",
-        "definition": "eager or quick to argue, quarrel, or fight.",
+        "word": "Labyrinth",
+        "pronunciation": "/ˈlabərɪnθ/",
+        "partOfSpeech": "noun",
+        "definition": "A complicated irregular network of passages or paths in which it is difficult to find one's way; a maze.",
         "examples": [
-            "His pugnacious nature often got him into fights.",
-            "The pugnacious politician was known for his fiery speeches.",
-            "She had a pugnacious attitude towards her competitors."
+            "The old castle was a labyrinth of corridors and rooms.",
+            "The plot of the novel was a labyrinth of twists and turns.",
+            "They lost their way in the labyrinth of narrow streets."
         ],
-        "dateUsed": 1781404808
+        "dateUsed": 1781491487
     },
     "hin": {
-        "word": "संग्रह",
-        "pronunciation": "/səŋɡrəh/",
+        "word": "स्वाभिमान",
+        "pronunciation": "/svaːbhimʌn/",
         "partOfSpeech": "noun",
-        "definition": "a collection of items",
+        "definition": "Self-respect",
         "examples": [
-            "उसने मुद्राओं का एक विशाल संग्रह बनाया है।",
-            "पुस्तकालय में बड़ा संग्रह होता है।",
-            "मेरे पास छापों का एक संग्रह है।"
+            "हमें अपना स्वाभिमान बनाए रखना चाहिए।",
+            "स्वाभिमान ही हमें सच्चे अर्थ में मानव बनाता है।",
+            "वह अपने स्वाभिमान के लिए लड़ रहा है।"
         ],
-        "dateUsed": 1781404808
+        "dateUsed": 1781491487
     }
 }
