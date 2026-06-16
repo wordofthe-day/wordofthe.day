@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Labyrinth",
-        "pronunciation": "/ˈlabərɪnθ/",
-        "partOfSpeech": "noun",
-        "definition": "A complicated irregular network of passages or paths in which it is difficult to find one's way; a maze.",
+        "word": "Magnanimous",
+        "pronunciation": "/maɡˈnanɪməs/",
+        "partOfSpeech": "adjective",
+        "definition": "Generous or forgiving, especially towards a rival or less powerful person.",
         "examples": [
-            "The old castle was a labyrinth of corridors and rooms.",
-            "The plot of the novel was a labyrinth of twists and turns.",
-            "They lost their way in the labyrinth of narrow streets."
+            "He was magnanimous in his victory, praising his opponent's effort.",
+            "Despite the hurt, she was magnanimous and forgave her friend.",
+            "The magnanimous gesture was appreciated by everyone."
         ],
-        "dateUsed": 1781491487
+        "dateUsed": 1781578018
     },
     "hin": {
-        "word": "स्वाभिमान",
-        "pronunciation": "/svaːbhimʌn/",
-        "partOfSpeech": "noun",
-        "definition": "Self-respect",
+        "word": "अविश्वसनीय",
+        "pronunciation": "/əviʃvəsni:jəb̤/",
+        "partOfSpeech": "adjective",
+        "definition": "unbelievable or incredible",
         "examples": [
-            "हमें अपना स्वाभिमान बनाए रखना चाहिए।",
-            "स्वाभिमान ही हमें सच्चे अर्थ में मानव बनाता है।",
-            "वह अपने स्वाभिमान के लिए लड़ रहा है।"
+            "यह अविश्वसनीय है कि वह इतनी जल्दी काम कर गया।",
+            "उसके द्वारा किया गया कार्य अविश्वसनीय था।",
+            "उसकी कहानी सुनकर मुझे अविश्वसनीय लगा।"
         ],
-        "dateUsed": 1781491487
+        "dateUsed": 1781578018
     }
 }
