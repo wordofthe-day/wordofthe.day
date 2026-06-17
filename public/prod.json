@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Magnanimous",
-        "pronunciation": "/maɡˈnanɪməs/",
+        "word": "dubious",
+        "pronunciation": "/ˈdjuːbɪəs/",
         "partOfSpeech": "adjective",
-        "definition": "Generous or forgiving, especially towards a rival or less powerful person.",
+        "definition": "hesitating or doubting",
         "examples": [
-            "He was magnanimous in his victory, praising his opponent's effort.",
-            "Despite the hurt, she was magnanimous and forgave her friend.",
-            "The magnanimous gesture was appreciated by everyone."
+            "He was dubious about the success of the new initiative.",
+            "The dubious evidence did not convince the jury.",
+            "She gave him a dubious look when he made the outrageous claim."
         ],
-        "dateUsed": 1781578018
+        "dateUsed": 1781664223
     },
     "hin": {
-        "word": "अविश्वसनीय",
-        "pronunciation": "/əviʃvəsni:jəb̤/",
-        "partOfSpeech": "adjective",
-        "definition": "unbelievable or incredible",
+        "word": "दूरदर्शिता",
+        "pronunciation": "/durdr̩ʃi:ta:/",
+        "partOfSpeech": "noun",
+        "definition": "foresight or forward-thinking",
         "examples": [
-            "यह अविश्वसनीय है कि वह इतनी जल्दी काम कर गया।",
-            "उसके द्वारा किया गया कार्य अविश्वसनीय था।",
-            "उसकी कहानी सुनकर मुझे अविश्वसनीय लगा।"
+            "सफलता के लिए दूरदर्शिता आवश्यक होती है।",
+            "महसूस करने वाले लोगों की दूरदर्शिता उन्हें सफलता दिलाती है।",
+            "वह अपनी दूरदर्शिता के कारण हमेशा आगे रहता है।"
         ],
-        "dateUsed": 1781578018
+        "dateUsed": 1781664223
     }
 }
