@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "dubious",
-        "pronunciation": "/ˈdjuːbɪəs/",
+        "word": "Soporific",
+        "pronunciation": "/ˌsoʊpəˈrɪfɪk/",
         "partOfSpeech": "adjective",
-        "definition": "hesitating or doubting",
+        "definition": "Tending to induce drowsiness or sleep.",
         "examples": [
-            "He was dubious about the success of the new initiative.",
-            "The dubious evidence did not convince the jury.",
-            "She gave him a dubious look when he made the outrageous claim."
+            "The soporific effect of the medication helped him sleep.",
+            "The lecture had a soporific effect on the audience.",
+            "Her voice had a soporific quality that soothed the baby."
         ],
-        "dateUsed": 1781664223
+        "dateUsed": 1781750424
     },
     "hin": {
-        "word": "दूरदर्शिता",
-        "pronunciation": "/durdr̩ʃi:ta:/",
+        "word": "उत्तरदायित्व",
+        "pronunciation": "/ʊttərdɑːjitv/",
         "partOfSpeech": "noun",
-        "definition": "foresight or forward-thinking",
+        "definition": "The state or fact of having a duty to deal with something or of having control over someone",
         "examples": [
-            "सफलता के लिए दूरदर्शिता आवश्यक होती है।",
-            "महसूस करने वाले लोगों की दूरदर्शिता उन्हें सफलता दिलाती है।",
-            "वह अपनी दूरदर्शिता के कारण हमेशा आगे रहता है।"
+            "हमें अपने उत्तरदायित्व को समझना चाहिए.",
+            "तुम्हारी उत्तरदायित्व है कि तुम उसे सुरक्षित रखो.",
+            "मैं अपने उत्तरदायित्वों को पूरा करने का प्रयास कर रहा हूँ."
         ],
-        "dateUsed": 1781664223
+        "dateUsed": 1781750424
     }
 }
