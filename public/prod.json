@@ -1,26 +1,26 @@
 {
     "eng": {
-        "word": "Tenacity",
-        "pronunciation": "/təˈnæsɪti/",
-        "partOfSpeech": "noun",
-        "definition": "The quality or fact of being able to grip something firmly; grip.",
+        "word": "quibble",
+        "pronunciation": "/ˈkwɪbəl/",
+        "partOfSpeech": "verb",
+        "definition": "Argue or raise objections about a trivial matter.",
         "examples": [
-            "Her tenacity was admired by everyone.",
-            "His tenacity in pursuing his goals was impressive.",
-            "Despite the challenges, they showed great tenacity."
+            "They were quibbling over who should pay the bill.",
+            "She had no time to quibble about minor details.",
+            "Let's not quibble over pennies."
         ],
-        "dateUsed": 1781837796
+        "dateUsed": 1781922549
     },
     "hin": {
-        "word": "अध्ययन",
-        "pronunciation": "/əd̪ʱjəjən/",
-        "partOfSpeech": "noun",
-        "definition": "The action or process of studying or learning about something",
+        "word": "साहसिक",
+        "pronunciation": "/sɑ:hsɪk/",
+        "partOfSpeech": "adjective",
+        "definition": "courageous or daring",
         "examples": [
-            "मैं अध्ययन करने का समय ढूँढ़ रहा हूं.",
-            "उसने अपने अध्ययन का समर्थन किया.",
-            "आपको इस विषय का अध्ययन करना चाहिए."
+            "वह एक साहसिक यात्री है जो अकेले चढ़ाई करता है।",
+            "साहसिक लोग ही असाधारण काम करने में सक्षम होते हैं।",
+            "उसने साहसिकता से अपनी समस्याओं का सामना किया।"
         ],
-        "dateUsed": 1781837796
+        "dateUsed": 1781922549
     }
 }
