@@ -12,6 +12,7 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-display: var(--font-fraunces);
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -48,6 +49,19 @@
   --radius-2xl: calc(var(--radius) * 1.8);
   --radius-3xl: calc(var(--radius) * 2.2);
   --radius-4xl: calc(var(--radius) * 2.6);
+
+  /* Fun color palette */
+  --color-fun-pink: var(--fun-pink);
+  --color-fun-mint: var(--fun-mint);
+  --color-fun-peach: var(--fun-peach);
+  --color-fun-lavender: var(--fun-lavender);
+  --color-fun-yellow: var(--fun-yellow);
+  --color-fun-cyan: var(--fun-cyan);
+
+  /* Animations */
+  --animate-wiggle: wiggle 0.5s ease-in-out;
+  --animate-bounce-sm: bounce-sm 0.4s ease-out;
+  --animate-float: float 6s ease-in-out infinite;
 }
 
 /* Root variables for light mode */
@@ -84,6 +98,14 @@
   --sidebar-accent-foreground: oklch(0.205 0 0);
   --sidebar-border: oklch(0.922 0 0);
   --sidebar-ring: oklch(0.708 0 0);
+
+  /* Fun colors — light mode */
+  --fun-pink: #F472B6;
+  --fun-mint: #6EE7B7;
+  --fun-peach: #FDBA74;
+  --fun-lavender: #C4B5FD;
+  --fun-yellow: #FDE047;
+  --fun-cyan: #67E8F9;
 }
 
 /* Dark mode variables */
@@ -119,6 +141,14 @@
   --sidebar-accent-foreground: oklch(0.985 0 0);
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.556 0 0);
+
+  /* Fun colors — dark mode: richer, deeper versions */
+  --fun-pink: #EC4899;
+  --fun-mint: #34D399;
+  --fun-peach: #FB923C;
+  --fun-lavender: #A78BFA;
+  --fun-yellow: #FACC15;
+  --fun-cyan: #22D3EE;
 }
 
 /* Base styles for all elements */
@@ -134,31 +164,74 @@
   }
 }
 
-/* Animated rainbow border */
-@property --rainbow-angle {
-  syntax: "<angle>";
-  initial-value: 0deg;
-  inherits: false;
+/* Playful keyframe animations */
+@keyframes wiggle {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-3deg); }
+  75% { transform: rotate(3deg); }
 }
 
-@keyframes rainbow-rotate {
-  to {
-    --rainbow-angle: 360deg;
+@keyframes bounce-sm {
+  0% { transform: translateY(0); }
+  40% { transform: translateY(-6px); }
+  60% { transform: translateY(-2px); }
+  100% { transform: translateY(0); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0) rotate(var(--float-rotate, 0deg)); }
+  50% { transform: translateY(-12px) rotate(var(--float-rotate, 0deg)); }
+}
+
+@keyframes pop-in {
+  0% { transform: scale(0.8) rotate(var(--tile-rotate, 0deg)); opacity: 0; }
+  60% { transform: scale(1.05) rotate(var(--tile-rotate, 0deg)); opacity: 1; }
+  100% { transform: scale(1) rotate(var(--tile-rotate, 0deg)); opacity: 1; }
+}
+
+/* Letter tile styles */
+.letter-tile {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3.5rem;
+  border-radius: 0.5rem;
+  font-family: var(--font-fraunces), Georgia, serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  box-shadow: 0 3px 0 rgba(0, 0, 0, 0.15), 0 4px 8px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  animation: pop-in 0.4s ease-out backwards;
+  cursor: default;
+  user-select: none;
+}
+
+.letter-tile:hover {
+  transform: translateY(-4px) rotate(var(--tile-rotate, 0deg)) !important;
+  box-shadow: 0 6px 0 rgba(0, 0, 0, 0.12), 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+@media (min-width: 640px) {
+  .letter-tile {
+    width: 3.5rem;
+    height: 4rem;
+    font-size: 1.75rem;
   }
 }
 
-.rainbow-border {
-  background: conic-gradient(
-    from var(--rainbow-angle),
-    #f87171,
-    #fb923c,
-    #facc15,
-    #4ade80,
-    #60a5fa,
-    #a78bfa,
-    #f472b6,
-    #f87171
-  );
-  animation: rainbow-rotate 6s linear infinite;
+/* Floating decorative letters */
+.floating-letter {
+  position: absolute;
+  font-family: var(--font-fraunces), Georgia, serif;
+  font-weight: 800;
+  opacity: 0.08;
+  pointer-events: none;
+  user-select: none;
+  animation: float 6s ease-in-out infinite;
 }
 
+.dark .floating-letter {
+  opacity: 0.06;
+}
