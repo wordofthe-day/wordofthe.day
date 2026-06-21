@@ -148,15 +148,27 @@ export function WordCard({ data }: WordCardProps) {
           </div>
 
           {/* Pronunciation */}
-          <p
-            className="mt-4 text-center text-sm font-mono break-all"
-            style={{ color: theme.text, opacity: 0.7 }}
-          >
-            <span className="dark:hidden">{data.pronunciation}</span>
-            <span className="hidden dark:inline" style={{ color: theme.textDark, opacity: 0.8 }}>
-              {data.pronunciation}
-            </span>
-          </p>
+          <div className="mt-4 flex items-center justify-center gap-2">
+            <div
+              className="h-px flex-1 max-w-12"
+              style={{ backgroundColor: "rgba(0,0,0,0.1)" }}
+            />
+            <p
+              className="text-center text-base tracking-widest break-all"
+              style={{ fontFamily: "var(--font-fraunces), Georgia, serif", fontStyle: "italic" }}
+            >
+              <span className="dark:hidden" style={{ color: theme.text, opacity: 0.6 }}>
+                {data.pronunciation}
+              </span>
+              <span className="hidden dark:inline" style={{ color: theme.textDark, opacity: 0.7 }}>
+                {data.pronunciation}
+              </span>
+            </p>
+            <div
+              className="h-px flex-1 max-w-12"
+              style={{ backgroundColor: "rgba(0,0,0,0.1)" }}
+            />
+          </div>
 
           {/* Divider */}
           <div

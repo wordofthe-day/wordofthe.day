@@ -66,11 +66,11 @@
 
 /* Root variables for light mode */
 :root {
-  --background: oklch(0.975 0.002 80);
+  --background: oklch(0.96 0.008 80);
   --foreground: oklch(0.18 0 0);
-  --card: oklch(0.99 0.001 80);
+  --card: oklch(0.98 0.005 80);
   --card-foreground: oklch(0.18 0 0);
-  --popover: oklch(0.99 0.001 80);
+  --popover: oklch(0.98 0.005 80);
   --popover-foreground: oklch(0.18 0 0);
   --primary: oklch(0.22 0 0);
   --primary-foreground: oklch(0.975 0.002 80);
@@ -269,7 +269,7 @@
   position: absolute;
   font-family: var(--font-fraunces), Georgia, serif;
   font-weight: 800;
-  opacity: 0.08;
+  opacity: 0.12;
   pointer-events: none;
   user-select: none;
 }
