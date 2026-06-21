@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useState, useTransition } from "react";
 import { WordCard } from "@/components/word-card";
 import { CountdownTimer } from "@/components/countdown-timer";
+import { GamesSection } from "@/components/games-section";
 import { getWordOfTheDay, type WordOfTheDay } from "@/lib/data";
 
 interface HeroSectionProps {
@@ -75,6 +76,9 @@ export function HeroSection({ language }: HeroSectionProps) {
         <div className="mt-8 w-full">
           {word && <WordCard data={word} />}
         </div>
+
+        {/* Games Section */}
+        {word && <GamesSection word={word} />}
       </div>
     </section>
   );
