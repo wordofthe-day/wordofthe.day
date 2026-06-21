@@ -1,26 +1,14 @@
 {
     "eng": {
-        "word": "quibble",
-        "pronunciation": "/ˈkwɪbəl/",
-        "partOfSpeech": "verb",
-        "definition": "Argue or raise objections about a trivial matter.",
-        "examples": [
-            "They were quibbling over who should pay the bill.",
-            "She had no time to quibble about minor details.",
-            "Let's not quibble over pennies."
-        ],
-        "dateUsed": 1781922549
-    },
-    "hin": {
-        "word": "साहसिक",
-        "pronunciation": "/sɑ:hsɪk/",
+        "word": "unfathomable",
+        "pronunciation": "/ʌnˈfaðəməbəl/",
         "partOfSpeech": "adjective",
-        "definition": "courageous or daring",
+        "definition": "Incapable of being fully explored or understood.",
         "examples": [
-            "वह एक साहसिक यात्री है जो अकेले चढ़ाई करता है।",
-            "साहसिक लोग ही असाधारण काम करने में सक्षम होते हैं।",
-            "उसने साहसिकता से अपनी समस्याओं का सामना किया।"
+            "The universe is unfathomable in its complexity.",
+            "His actions were unfathomable to me.",
+            "She found the mathematical theories unfathomable."
         ],
-        "dateUsed": 1781922549
+        "dateUsed": 1782009843
     }
 }
