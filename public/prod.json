@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "unfathomable",
-        "pronunciation": "/ʌnˈfaðəməbəl/",
+        "word": "quintessential",
+        "pronunciation": "/ˌkwɪntɪˈsɛnʃəl/",
         "partOfSpeech": "adjective",
-        "definition": "Incapable of being fully explored or understood.",
+        "definition": "Representing the most perfect or typical example of a quality or class.",
         "examples": [
-            "The universe is unfathomable in its complexity.",
-            "His actions were unfathomable to me.",
-            "She found the mathematical theories unfathomable."
+            "He is the quintessential gentleman.",
+            "The book is the quintessential guide to programming.",
+            "She is the quintessential example of a successful entrepreneur."
         ],
-        "dateUsed": 1782009843
+        "dateUsed": 1782096366
     }
 }
