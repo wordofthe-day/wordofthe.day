@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "quintessential",
-        "pronunciation": "/ˌkwɪntɪˈsɛnʃəl/",
+        "word": "jubilant",
+        "pronunciation": "/ˈdʒuːbɪlənt/",
         "partOfSpeech": "adjective",
-        "definition": "Representing the most perfect or typical example of a quality or class.",
+        "definition": "feeling or expressing great happiness and triumph",
         "examples": [
-            "He is the quintessential gentleman.",
-            "The book is the quintessential guide to programming.",
-            "She is the quintessential example of a successful entrepreneur."
+            "The team was jubilant after their victory.",
+            "She was jubilant after hearing the good news.",
+            "The crowd was jubilant when the home team scored the winning goal."
         ],
-        "dateUsed": 1782096366
+        "dateUsed": 1782180749
     }
 }
