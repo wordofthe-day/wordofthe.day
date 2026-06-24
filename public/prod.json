@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "jubilant",
-        "pronunciation": "/ˈdʒuːbɪlənt/",
+        "word": "Acerbic",
+        "pronunciation": "/əˈsɜːrbɪk/",
         "partOfSpeech": "adjective",
-        "definition": "feeling or expressing great happiness and triumph",
+        "definition": "sharp and forthright.",
         "examples": [
-            "The team was jubilant after their victory.",
-            "She was jubilant after hearing the good news.",
-            "The crowd was jubilant when the home team scored the winning goal."
+            "His acerbic wit made him a popular contributor to the discussion.",
+            "The teacher's acerbic comments about the project made the student upset.",
+            "The acerbic nature of the lemon made my mouth pucker."
         ],
-        "dateUsed": 1782180749
+        "dateUsed": 1782267256
     }
 }
