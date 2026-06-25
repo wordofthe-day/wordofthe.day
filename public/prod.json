@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Acerbic",
-        "pronunciation": "/əˈsɜːrbɪk/",
+        "word": "nonchalant",
+        "pronunciation": "/nɒnʃ(ə)ˈlɒnt/",
         "partOfSpeech": "adjective",
-        "definition": "sharp and forthright.",
+        "definition": "feeling or appearing casually calm and relaxed",
         "examples": [
-            "His acerbic wit made him a popular contributor to the discussion.",
-            "The teacher's acerbic comments about the project made the student upset.",
-            "The acerbic nature of the lemon made my mouth pucker."
+            "Despite the chaos around, he maintained a nonchalant demeanor.",
+            "Her nonchalant response surprised everyone.",
+            "He has a nonchalant attitude towards his studies."
         ],
-        "dateUsed": 1782267256
+        "dateUsed": 1782353655
     }
 }
