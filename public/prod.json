@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "nonchalant",
-        "pronunciation": "/nɒnʃ(ə)ˈlɒnt/",
-        "partOfSpeech": "adjective",
-        "definition": "feeling or appearing casually calm and relaxed",
+        "word": "Lament",
+        "pronunciation": "/ləˈmɛnt/",
+        "partOfSpeech": "verb",
+        "definition": "express one's deep grief about.",
         "examples": [
-            "Despite the chaos around, he maintained a nonchalant demeanor.",
-            "Her nonchalant response surprised everyone.",
-            "He has a nonchalant attitude towards his studies."
+            "She lamented the loss of her best friend.",
+            "The poet lamented the destruction of the city in his verses.",
+            "Many lament the passing of traditional ways of life."
         ],
-        "dateUsed": 1782353655
+        "dateUsed": 1782440836
     }
 }
