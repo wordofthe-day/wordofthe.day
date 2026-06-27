@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Lament",
-        "pronunciation": "/ləˈmɛnt/",
-        "partOfSpeech": "verb",
-        "definition": "express one's deep grief about.",
+        "word": "unctuous",
+        "pronunciation": "/ˈʌŋ(k)ʃəs/",
+        "partOfSpeech": "adjective",
+        "definition": "excessively or ingratiatingly flattering; oily",
         "examples": [
-            "She lamented the loss of her best friend.",
-            "The poet lamented the destruction of the city in his verses.",
-            "Many lament the passing of traditional ways of life."
+            "The salesman's unctuous manner was off-putting.",
+            "She made an unctuous attempt to win the favor of her boss.",
+            "His unctuous compliments made people uncomfortable."
         ],
-        "dateUsed": 1782440836
+        "dateUsed": 1782526283
     }
 }
