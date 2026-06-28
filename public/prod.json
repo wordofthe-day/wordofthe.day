@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "unctuous",
-        "pronunciation": "/ˈʌŋ(k)ʃəs/",
-        "partOfSpeech": "adjective",
-        "definition": "excessively or ingratiatingly flattering; oily",
+        "word": "Exemplar",
+        "pronunciation": "/ɪɡˈzɛmplɑr/",
+        "partOfSpeech": "noun",
+        "definition": "A person or thing serving as a typical example or excellent model.",
         "examples": [
-            "The salesman's unctuous manner was off-putting.",
-            "She made an unctuous attempt to win the favor of her boss.",
-            "His unctuous compliments made people uncomfortable."
+            "She is an exemplar of dedication to the cause.",
+            "His work is an exemplar of this style of painting.",
+            "He was praised as an exemplar of public service."
         ],
-        "dateUsed": 1782526283
+        "dateUsed": 1782613970
     }
 }
