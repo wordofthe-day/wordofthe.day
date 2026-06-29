@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Exemplar",
-        "pronunciation": "/ɪɡˈzɛmplɑr/",
+        "word": "sentiment",
+        "pronunciation": "/ˈsɛntɪmənt/",
         "partOfSpeech": "noun",
-        "definition": "A person or thing serving as a typical example or excellent model.",
+        "definition": "A view of or attitude toward a situation or event; an opinion.",
         "examples": [
-            "She is an exemplar of dedication to the cause.",
-            "His work is an exemplar of this style of painting.",
-            "He was praised as an exemplar of public service."
+            "Public sentiment towards the issue has changed over the years.",
+            "He expressed his sentiment on the matter quite clearly.",
+            "The sentiment in the room was one of disappointment."
         ],
-        "dateUsed": 1782613970
+        "dateUsed": 1782700375
     }
 }
