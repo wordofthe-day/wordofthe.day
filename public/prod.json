@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "sentiment",
-        "pronunciation": "/ˈsɛntɪmənt/",
+        "word": "Xenophobe",
+        "pronunciation": "/ˈzɛnəfoʊb/",
         "partOfSpeech": "noun",
-        "definition": "A view of or attitude toward a situation or event; an opinion.",
+        "definition": "A person having a dislike of or prejudice against people from other countries.",
         "examples": [
-            "Public sentiment towards the issue has changed over the years.",
-            "He expressed his sentiment on the matter quite clearly.",
-            "The sentiment in the room was one of disappointment."
+            "The politician's xenophobe views were criticized.",
+            "He was labeled a xenophobe for his comments about immigration.",
+            "The rise in xenophobe sentiments was a cause for concern."
         ],
-        "dateUsed": 1782700375
+        "dateUsed": 1782786447
     }
 }
