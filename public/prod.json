@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Xenophobe",
-        "pronunciation": "/ˈzɛnəfoʊb/",
+        "word": "Catharsis",
+        "pronunciation": "/kəˈθɑːrsɪs/",
         "partOfSpeech": "noun",
-        "definition": "A person having a dislike of or prejudice against people from other countries.",
+        "definition": "The process of releasing, and thereby providing relief from, strong or repressed emotions.",
         "examples": [
-            "The politician's xenophobe views were criticized.",
-            "He was labeled a xenophobe for his comments about immigration.",
-            "The rise in xenophobe sentiments was a cause for concern."
+            "Writing in her journal provided a catharsis for her emotions.",
+            "The play's tragic ending provided a catharsis for the audience.",
+            "He needed some form of catharsis to manage his grief."
         ],
-        "dateUsed": 1782786447
+        "dateUsed": 1782873232
     }
 }
