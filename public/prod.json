@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Catharsis",
-        "pronunciation": "/kəˈθɑːrsɪs/",
+        "word": "petrichor",
+        "pronunciation": "/ˈpɛtrʌɪkɔːr/",
         "partOfSpeech": "noun",
-        "definition": "The process of releasing, and thereby providing relief from, strong or repressed emotions.",
+        "definition": "A pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather.",
         "examples": [
-            "Writing in her journal provided a catharsis for her emotions.",
-            "The play's tragic ending provided a catharsis for the audience.",
-            "He needed some form of catharsis to manage his grief."
+            "After the summer drought, the petrichor was a welcome relief.",
+            "The petrichor filled the air, signaling the end of the dry spell.",
+            "She loved the smell of petrichor after a spring rain."
         ],
-        "dateUsed": 1782873232
+        "dateUsed": 1782958397
     }
 }
