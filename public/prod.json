@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "petrichor",
-        "pronunciation": "/ˈpɛtrʌɪkɔːr/",
-        "partOfSpeech": "noun",
-        "definition": "A pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather.",
+        "word": "lament",
+        "pronunciation": "/ləˈmɛnt/",
+        "partOfSpeech": "verb",
+        "definition": "Mourn (a person's loss or death).",
         "examples": [
-            "After the summer drought, the petrichor was a welcome relief.",
-            "The petrichor filled the air, signaling the end of the dry spell.",
-            "She loved the smell of petrichor after a spring rain."
+            "She lamented the death of her father in a heartfelt poem.",
+            "The nation lamented the loss of its leader.",
+            "He lamented the fact that he could not go back and change the past."
         ],
-        "dateUsed": 1782958397
+        "dateUsed": 1783043869
     }
 }
