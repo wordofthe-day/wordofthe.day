@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "lament",
-        "pronunciation": "/ləˈmɛnt/",
-        "partOfSpeech": "verb",
-        "definition": "Mourn (a person's loss or death).",
+        "word": "cogent",
+        "pronunciation": "/ˈkəʊdʒ(ə)nt/",
+        "partOfSpeech": "adjective",
+        "definition": "clear, logical, and convincing",
         "examples": [
-            "She lamented the death of her father in a heartfelt poem.",
-            "The nation lamented the loss of its leader.",
-            "He lamented the fact that he could not go back and change the past."
+            "Her cogent argument convinced everyone in the room.",
+            "The detective presented cogent evidence to solve the case.",
+            "A cogent point was made setting off a debate."
         ],
-        "dateUsed": 1783043869
+        "dateUsed": 1783130185
     }
 }
