@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "cogent",
-        "pronunciation": "/ˈkəʊdʒ(ə)nt/",
-        "partOfSpeech": "adjective",
-        "definition": "clear, logical, and convincing",
+        "word": "obfuscate",
+        "pronunciation": "/ˈɒbfʌskeɪt/",
+        "partOfSpeech": "verb",
+        "definition": "make obscure, unclear, or unintelligible",
         "examples": [
-            "Her cogent argument convinced everyone in the room.",
-            "The detective presented cogent evidence to solve the case.",
-            "A cogent point was made setting off a debate."
+            "The contract was written in language designed to obfuscate consumers.",
+            "He tried to obfuscate the issue with irrelevant details.",
+            "The truth was obfuscated by a series of misleading statements."
         ],
-        "dateUsed": 1783130185
+        "dateUsed": 1783217055
     }
 }
