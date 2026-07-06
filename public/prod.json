@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "obfuscate",
-        "pronunciation": "/ˈɒbfʌskeɪt/",
-        "partOfSpeech": "verb",
-        "definition": "make obscure, unclear, or unintelligible",
+        "word": "Voracious",
+        "pronunciation": "/vəˈreɪʃəs/",
+        "partOfSpeech": "adjective",
+        "definition": "wanting or devouring great quantities of food.",
         "examples": [
-            "The contract was written in language designed to obfuscate consumers.",
-            "He tried to obfuscate the issue with irrelevant details.",
-            "The truth was obfuscated by a series of misleading statements."
+            "He had a voracious appetite.",
+            "She is a voracious reader.",
+            "The voracious locusts destroyed the crops."
         ],
-        "dateUsed": 1783217055
+        "dateUsed": 1783303762
     }
 }
