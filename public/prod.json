@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Voracious",
-        "pronunciation": "/vəˈreɪʃəs/",
+        "word": "resilient",
+        "pronunciation": "/rɪˈzɪlɪənt/",
         "partOfSpeech": "adjective",
-        "definition": "wanting or devouring great quantities of food.",
+        "definition": "able to withstand or recover quickly from difficult conditions",
         "examples": [
-            "He had a voracious appetite.",
-            "She is a voracious reader.",
-            "The voracious locusts destroyed the crops."
+            "The resilient plant can survive harsh weather conditions.",
+            "The resilient team bounced back quickly after their loss.",
+            "She is a resilient woman who overcame many obstacles."
         ],
-        "dateUsed": 1783303762
+        "dateUsed": 1783389886
     }
 }
