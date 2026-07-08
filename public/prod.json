@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "resilient",
-        "pronunciation": "/rɪˈzɪlɪənt/",
+        "word": "Wistful",
+        "pronunciation": "/ˈwɪstfəl/",
         "partOfSpeech": "adjective",
-        "definition": "able to withstand or recover quickly from difficult conditions",
+        "definition": "Having or showing a feeling of vague or regretful longing.",
         "examples": [
-            "The resilient plant can survive harsh weather conditions.",
-            "The resilient team bounced back quickly after their loss.",
-            "She is a resilient woman who overcame many obstacles."
+            "She had a wistful look in her eyes as she remembered her childhood.",
+            "He gave a wistful smile as he talked about his college days.",
+            "The old song made her feel wistful."
         ],
-        "dateUsed": 1783389886
+        "dateUsed": 1783475144
     }
 }
