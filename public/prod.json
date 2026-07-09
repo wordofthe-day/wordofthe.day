@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Wistful",
-        "pronunciation": "/ˈwɪstfəl/",
+        "word": "Vitriolic",
+        "pronunciation": "/vɪtrɪˈɒlɪk/",
         "partOfSpeech": "adjective",
-        "definition": "Having or showing a feeling of vague or regretful longing.",
+        "definition": "filled with bitter criticism or malice.",
         "examples": [
-            "She had a wistful look in her eyes as she remembered her childhood.",
-            "He gave a wistful smile as he talked about his college days.",
-            "The old song made her feel wistful."
+            "The vitriolic comments on the internet can be hurtful.",
+            "His vitriolic attack on his opponent shocked the audience.",
+            "The review of the book was vitriolic, with the reviewer sparing no criticism."
         ],
-        "dateUsed": 1783475144
+        "dateUsed": 1783562261
     }
 }
