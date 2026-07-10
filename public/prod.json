@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Vitriolic",
-        "pronunciation": "/vɪtrɪˈɒlɪk/",
+        "word": "obstinate",
+        "pronunciation": "/ˈɒbstɪnət/",
         "partOfSpeech": "adjective",
-        "definition": "filled with bitter criticism or malice.",
+        "definition": "Stubbornly refusing to change one's opinion or chosen course of action, despite attempts to persuade one to do so.",
         "examples": [
-            "The vitriolic comments on the internet can be hurtful.",
-            "His vitriolic attack on his opponent shocked the audience.",
-            "The review of the book was vitriolic, with the reviewer sparing no criticism."
+            "He was obstinate and refused to give in.",
+            "Her obstinate personality made it hard for her to admit she was wrong.",
+            "Despite the evidence, he remained obstinate in his belief."
         ],
-        "dateUsed": 1783562261
+        "dateUsed": 1783648556
     }
 }
