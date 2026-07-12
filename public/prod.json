@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "rhetoric",
-        "pronunciation": "/ˈretərik/",
-        "partOfSpeech": "noun",
-        "definition": "Effective or persuasive speaking or writing, especially the use of figures of speech and other compositional techniques.",
+        "word": "winsome",
+        "pronunciation": "/ˈwɪnsəm/",
+        "partOfSpeech": "adjective",
+        "definition": "attractive or appealing in appearance or character",
         "examples": [
-            "The politician's rhetoric was effective in convincing the audience.",
-            "She studied rhetoric as part of her communication degree.",
-            "His rhetoric on climate change was filled with passion and urgency."
+            "She had a winsome smile that was truly infectious.",
+            "His winsome personality made him a favorite among his colleagues.",
+            "He was a winsome fellow, charming and friendly."
         ],
-        "dateUsed": 1783734276
+        "dateUsed": 1783820806
     }
 }
