@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "serene",
-        "pronunciation": "/sɪˈriːn/",
+        "word": "Unkempt",
+        "pronunciation": "/ʌnˈkɛmpt/",
         "partOfSpeech": "adjective",
-        "definition": "Calm, peaceful, and untroubled; tranquil.",
+        "definition": "Having an untidy or disheveled appearance.",
         "examples": [
-            "Her serene face made her seem at peace.",
-            "The serene landscape had a calming effect on him.",
-            "The poet describes a serene night under the stars."
+            "He had an unkempt beard and messy hair.",
+            "The unkempt garden needed a lot of work.",
+            "Despite his unkempt appearance, he was a brilliant artist."
         ],
-        "dateUsed": 1783907365
+        "dateUsed": 1783992377
     }
 }
