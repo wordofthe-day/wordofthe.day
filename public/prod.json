@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Unkempt",
-        "pronunciation": "/ʌnˈkɛmpt/",
-        "partOfSpeech": "adjective",
-        "definition": "Having an untidy or disheveled appearance.",
+        "word": "Kismet",
+        "pronunciation": "/ˈkɪzmɛt/",
+        "partOfSpeech": "noun",
+        "definition": "destiny; fate.",
         "examples": [
-            "He had an unkempt beard and messy hair.",
-            "The unkempt garden needed a lot of work.",
-            "Despite his unkempt appearance, he was a brilliant artist."
+            "They felt that it was kismet that they met at the same coffee shop.",
+            "Landing the perfect job was kismet for her.",
+            "The couple believed that their meeting was due to kismet."
         ],
-        "dateUsed": 1783992377
+        "dateUsed": 1784078574
     }
 }
