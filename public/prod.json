@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "ambivalent",
-        "pronunciation": "/amˈbɪvələnt/",
+        "word": "Fecund",
+        "pronunciation": "/ˈfiːkʌnd/",
         "partOfSpeech": "adjective",
-        "definition": "having mixed feelings or contradictory ideas about something or someone",
+        "definition": "producing or capable of producing an abundance of offspring or new growth; fertile.",
         "examples": [
-            "He felt ambivalent about the decision to move to a new city.",
-            "Her ambivalent feelings towards her job made it difficult for her to stay motivated.",
-            "Despite the conflict, he was ambivalent about choosing sides."
+            "The fecund soil in the valley produced abundant crops.",
+            "The fecund imagination of the writer resulted in a number of best-selling novels.",
+            "She was praised for her fecund creativity."
         ],
-        "dateUsed": 1784166200
+        "dateUsed": 1784252802
     }
 }
