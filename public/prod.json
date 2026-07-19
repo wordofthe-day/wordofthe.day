@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Ebullient",
-        "pronunciation": "/ɪˈbʌliənt/",
-        "partOfSpeech": "adjective",
-        "definition": "Cheerful and full of energy.",
+        "word": "Juxtapose",
+        "pronunciation": "/ˈdʒʌkstəpoʊz/",
+        "partOfSpeech": "verb",
+        "definition": "Place or deal with close together for contrasting effect.",
         "examples": [
-            "She was ebullient after receiving the good news.",
-            "His ebullient personality was infectious.",
-            "The crowd was ebullient, cheering and clapping for the performers."
+            "Black-and-white photos were juxtaposed with color images.",
+            "The reality of the situation was starkly juxtaposed with the optimism of his speech.",
+            "The modern furniture was interestingly juxtaposed with the antique surroundings."
         ],
-        "dateUsed": 1784338033
+        "dateUsed": 1784425468
     }
 }
