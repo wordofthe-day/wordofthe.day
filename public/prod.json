@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Juxtapose",
-        "pronunciation": "/ˈdʒʌkstəpoʊz/",
-        "partOfSpeech": "verb",
-        "definition": "Place or deal with close together for contrasting effect.",
+        "word": "Ubiquitous",
+        "pronunciation": "/juːˈbɪkwɪtəs/",
+        "partOfSpeech": "adjective",
+        "definition": "Present, appearing, or found everywhere.",
         "examples": [
-            "Black-and-white photos were juxtaposed with color images.",
-            "The reality of the situation was starkly juxtaposed with the optimism of his speech.",
-            "The modern furniture was interestingly juxtaposed with the antique surroundings."
+            "Mobile phones have become ubiquitous in today's society.",
+            "His ubiquitous influence was felt by everyone in the industry.",
+            "The ubiquitous presence of social media is undeniable."
         ],
-        "dateUsed": 1784425468
+        "dateUsed": 1784512821
     }
 }
