@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Mellifluous",
-        "pronunciation": "/məˈlɪfluəs/",
+        "word": "indolent",
+        "pronunciation": "/ˈɪndələnt/",
         "partOfSpeech": "adjective",
-        "definition": "(Of a voice or words) sweet or musical; pleasant to hear.",
+        "definition": "wanting to avoid activity or exertion; lazy",
         "examples": [
-            "His mellifluous voice was soothing to the ears.",
-            "The bird's mellifluous song filled the air.",
-            "She spoke in a mellifluous tone that calmed the room."
+            "He lived an indolent lifestyle, with no intention of getting a job.",
+            "The indolent student rarely studied for tests.",
+            "The hot summer days made people feel indolent."
         ],
-        "dateUsed": 1784598276
+        "dateUsed": 1784684623
     }
 }
