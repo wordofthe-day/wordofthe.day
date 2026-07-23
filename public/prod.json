@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "indolent",
-        "pronunciation": "/ˈɪndələnt/",
-        "partOfSpeech": "adjective",
-        "definition": "wanting to avoid activity or exertion; lazy",
+        "word": "xenophile",
+        "pronunciation": "/ˈzɛnəˌfaɪl/",
+        "partOfSpeech": "noun",
+        "definition": "an individual who is attracted to foreign peoples, manners, or cultures",
         "examples": [
-            "He lived an indolent lifestyle, with no intention of getting a job.",
-            "The indolent student rarely studied for tests.",
-            "The hot summer days made people feel indolent."
+            "As a xenophile, she had a great love for everything foreign.",
+            "He was a xenophile who collected artifacts from around the world.",
+            "The city's cosmopolitan atmosphere is a heaven for xenophiles."
         ],
-        "dateUsed": 1784684623
+        "dateUsed": 1784771483
     }
 }
