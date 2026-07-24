@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "xenophile",
-        "pronunciation": "/ˈzɛnəˌfaɪl/",
-        "partOfSpeech": "noun",
-        "definition": "an individual who is attracted to foreign peoples, manners, or cultures",
+        "word": "Nebulous",
+        "pronunciation": "/ˈnɛbjʊləs/",
+        "partOfSpeech": "adjective",
+        "definition": "In the form of a cloud or haze; hazy.",
         "examples": [
-            "As a xenophile, she had a great love for everything foreign.",
-            "He was a xenophile who collected artifacts from around the world.",
-            "The city's cosmopolitan atmosphere is a heaven for xenophiles."
+            "His memories of that night were nebulous and unclear.",
+            "The rules were nebulous, leading to many misunderstandings.",
+            "The future of the project remains nebulous."
         ],
-        "dateUsed": 1784771483
+        "dateUsed": 1784857619
     }
 }
