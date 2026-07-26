@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "ephemeral",
-        "pronunciation": "/ɪˈfemərəl/",
-        "partOfSpeech": "adjective",
-        "definition": "Lasting for a very short time.",
+        "word": "serendipity",
+        "pronunciation": "/ˌserənˈdipədē/",
+        "partOfSpeech": "noun",
+        "definition": "The occurrence and development of events by chance in a happy or beneficial way.",
         "examples": [
-            "The beauty of a sunset is ephemeral.",
-            "The fashion trend proved to be ephemeral.",
-            "His fame was ephemeral, lasting only a couple of months."
+            "Finding that book was pure serendipity.",
+            "Serendipity played a part in our meeting.",
+            "His discovery was a stroke of serendipity."
         ],
-        "dateUsed": 1784944013
+        "dateUsed": 1785030598
     }
 }
