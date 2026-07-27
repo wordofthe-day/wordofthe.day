@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "serendipity",
-        "pronunciation": "/ˌserənˈdipədē/",
+        "word": "paradigm",
+        "pronunciation": "/ˈpærədaɪm/",
         "partOfSpeech": "noun",
-        "definition": "The occurrence and development of events by chance in a happy or beneficial way.",
+        "definition": "A typical example or pattern of something; a model.",
         "examples": [
-            "Finding that book was pure serendipity.",
-            "Serendipity played a part in our meeting.",
-            "His discovery was a stroke of serendipity."
+            "The company's business model is considered a paradigm for success.",
+            "He has shifted the paradigm of traditional music with his innovative style.",
+            "The book provides a paradigm of how economic growth can be achieved."
         ],
-        "dateUsed": 1785030598
+        "dateUsed": 1785117441
     }
 }
