@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "paradigm",
-        "pronunciation": "/ˈpærədaɪm/",
+        "word": "malfeasance",
+        "pronunciation": "/malˈfiːz(ə)ns/",
         "partOfSpeech": "noun",
-        "definition": "A typical example or pattern of something; a model.",
+        "definition": "wrongdoing, especially by a public official",
         "examples": [
-            "The company's business model is considered a paradigm for success.",
-            "He has shifted the paradigm of traditional music with his innovative style.",
-            "The book provides a paradigm of how economic growth can be achieved."
+            "The mayor was accused of malfeasance in office.",
+            "Corporate malfeasance can harm the reputation of a company.",
+            "She was arrested for malfeasance of funds."
         ],
-        "dateUsed": 1785117441
+        "dateUsed": 1785202838
     }
 }
