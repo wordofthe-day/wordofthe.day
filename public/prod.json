@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "malfeasance",
-        "pronunciation": "/malˈfiːz(ə)ns/",
-        "partOfSpeech": "noun",
-        "definition": "wrongdoing, especially by a public official",
+        "word": "yonder",
+        "pronunciation": "/ˈjɒndər/",
+        "partOfSpeech": "adverb",
+        "definition": "At some distance in the direction indicated; over there.",
         "examples": [
-            "The mayor was accused of malfeasance in office.",
-            "Corporate malfeasance can harm the reputation of a company.",
-            "She was arrested for malfeasance of funds."
+            "Look yonder! There's the castle we're heading to.",
+            "He pointed to a spot yonder.",
+            "The village yonder is where I was born."
         ],
-        "dateUsed": 1785202838
+        "dateUsed": 1785289316
     }
 }
