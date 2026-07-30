@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "yonder",
-        "pronunciation": "/ˈjɒndər/",
-        "partOfSpeech": "adverb",
-        "definition": "At some distance in the direction indicated; over there.",
+        "word": "Nefarious",
+        "pronunciation": "/nɪˈfɛːrɪəs/",
+        "partOfSpeech": "adjective",
+        "definition": "(typically of an action or activity) wicked or criminal.",
         "examples": [
-            "Look yonder! There's the castle we're heading to.",
-            "He pointed to a spot yonder.",
-            "The village yonder is where I was born."
+            "The nefarious activities of the gang were known to the police.",
+            "His nefarious plan to cheat the company was exposed.",
+            "The villain's nefarious deeds were thwarted by the hero."
         ],
-        "dateUsed": 1785289316
+        "dateUsed": 1785374674
     }
 }
