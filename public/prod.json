@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Nefarious",
-        "pronunciation": "/nɪˈfɛːrɪəs/",
+        "word": "gregarious",
+        "pronunciation": "/ɡrɪˈɡɛərɪəs/",
         "partOfSpeech": "adjective",
-        "definition": "(typically of an action or activity) wicked or criminal.",
+        "definition": "fond of company; sociable",
         "examples": [
-            "The nefarious activities of the gang were known to the police.",
-            "His nefarious plan to cheat the company was exposed.",
-            "The villain's nefarious deeds were thwarted by the hero."
+            "He was a popular and gregarious man.",
+            "She is outgoing and gregarious.",
+            "He's not exactly gregarious, but he's always polite."
         ],
-        "dateUsed": 1785374674
+        "dateUsed": 1785462698
     }
 }
