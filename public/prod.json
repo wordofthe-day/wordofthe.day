@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "gregarious",
-        "pronunciation": "/ɡrɪˈɡɛərɪəs/",
+        "word": "Decorous",
+        "pronunciation": "/ˈdekərəs/",
         "partOfSpeech": "adjective",
-        "definition": "fond of company; sociable",
+        "definition": "In keeping with good taste and propriety; polite and restrained.",
         "examples": [
-            "He was a popular and gregarious man.",
-            "She is outgoing and gregarious.",
-            "He's not exactly gregarious, but he's always polite."
+            "Her language was always decorous, even in difficult situations.",
+            "The decorous design of the living room caught everyone's attention.",
+            "He maintained a decorous manner during the meeting."
         ],
-        "dateUsed": 1785462698
+        "dateUsed": 1785549143
     }
 }
