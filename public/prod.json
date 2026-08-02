@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Decorous",
-        "pronunciation": "/ˈdekərəs/",
+        "word": "Dilatory",
+        "pronunciation": "/ˈdɪlət(ə)ri/",
         "partOfSpeech": "adjective",
-        "definition": "In keeping with good taste and propriety; polite and restrained.",
+        "definition": "slow to act.",
         "examples": [
-            "Her language was always decorous, even in difficult situations.",
-            "The decorous design of the living room caught everyone's attention.",
-            "He maintained a decorous manner during the meeting."
+            "His dilatory approach to work was a cause for concern.",
+            "The dilatory response of the government was criticized.",
+            "She was dilatory in making her decision."
         ],
-        "dateUsed": 1785549143
+        "dateUsed": 1785635354
     }
 }
