@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Dilatory",
-        "pronunciation": "/ˈdɪlət(ə)ri/",
+        "word": "boisterous",
+        "pronunciation": "/ˈbɔɪ.stə.rəs/",
         "partOfSpeech": "adjective",
-        "definition": "slow to act.",
+        "definition": "Noisy, energetic, and cheerful.",
         "examples": [
-            "His dilatory approach to work was a cause for concern.",
-            "The dilatory response of the government was criticized.",
-            "She was dilatory in making her decision."
+            "The boisterous crowd cheered for their favorite team.",
+            "My boisterous children always make me smile.",
+            "The party was a boisterous event full of laughter and music."
         ],
-        "dateUsed": 1785635354
+        "dateUsed": 1785721891
     }
 }
