@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "boisterous",
-        "pronunciation": "/ˈbɔɪ.stə.rəs/",
+        "word": "Halcyon",
+        "pronunciation": "/ˈhalsɪən/",
         "partOfSpeech": "adjective",
-        "definition": "Noisy, energetic, and cheerful.",
+        "definition": "denoting a period of time in the past that was idyllically happy and peaceful.",
         "examples": [
-            "The boisterous crowd cheered for their favorite team.",
-            "My boisterous children always make me smile.",
-            "The party was a boisterous event full of laughter and music."
+            "He longed for the halcyon days of his youth.",
+            "The halcyon era of the country was remembered fondly.",
+            "She often talked about the halcyon days when her kids were young."
         ],
-        "dateUsed": 1785721891
+        "dateUsed": 1785806798
     }
 }
