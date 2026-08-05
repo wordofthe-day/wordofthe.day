@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Halcyon",
-        "pronunciation": "/ˈhalsɪən/",
-        "partOfSpeech": "adjective",
-        "definition": "denoting a period of time in the past that was idyllically happy and peaceful.",
+        "word": "zealot",
+        "pronunciation": "/ˈzɛlət/",
+        "partOfSpeech": "noun",
+        "definition": "a person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals",
         "examples": [
-            "He longed for the halcyon days of his youth.",
-            "The halcyon era of the country was remembered fondly.",
-            "She often talked about the halcyon days when her kids were young."
+            "The zealot was unwilling to consider any opinion other than his own.",
+            "His zealotry for the cause led him to take extreme measures.",
+            "The group of zealots posed a threat to the peace of the community."
         ],
-        "dateUsed": 1785806798
+        "dateUsed": 1785894041
     }
 }
