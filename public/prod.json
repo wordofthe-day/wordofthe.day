@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "zealot",
-        "pronunciation": "/ˈzɛlət/",
-        "partOfSpeech": "noun",
-        "definition": "a person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals",
+        "word": "Elusive",
+        "pronunciation": "/ɪˈluːsɪv/",
+        "partOfSpeech": "adjective",
+        "definition": "difficult to find, catch, or achieve.",
         "examples": [
-            "The zealot was unwilling to consider any opinion other than his own.",
-            "His zealotry for the cause led him to take extreme measures.",
-            "The group of zealots posed a threat to the peace of the community."
+            "The elusive butterfly was finally caught.",
+            "Success can be elusive if not pursued relentlessly.",
+            "The solution to the problem proved elusive."
         ],
-        "dateUsed": 1785894041
+        "dateUsed": 1785979771
     }
 }
