@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Elusive",
-        "pronunciation": "/ɪˈluːsɪv/",
-        "partOfSpeech": "adjective",
-        "definition": "difficult to find, catch, or achieve.",
+        "word": "reverie",
+        "pronunciation": "/ˈrɛvəri/",
+        "partOfSpeech": "noun",
+        "definition": "a state of being pleasantly lost in one's thoughts; a daydream",
         "examples": [
-            "The elusive butterfly was finally caught.",
-            "Success can be elusive if not pursued relentlessly.",
-            "The solution to the problem proved elusive."
+            "A knock on the door broke her reverie.",
+            "He was lost in reverie and didn't hear her leave.",
+            "She was jolted out of her reverie as the door opened."
         ],
-        "dateUsed": 1785979771
+        "dateUsed": 1786068396
     }
 }
