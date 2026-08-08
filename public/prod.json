@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "reverie",
-        "pronunciation": "/ˈrɛvəri/",
+        "word": "zenith",
+        "pronunciation": "/ˈziːnɪθ/",
         "partOfSpeech": "noun",
-        "definition": "a state of being pleasantly lost in one's thoughts; a daydream",
+        "definition": "The time at which something is most powerful or successful.",
         "examples": [
-            "A knock on the door broke her reverie.",
-            "He was lost in reverie and didn't hear her leave.",
-            "She was jolted out of her reverie as the door opened."
+            "The actor was at the zenith of his career.",
+            "The company reached its zenith in the 1990s.",
+            "The civilization was at its zenith when it was conquered."
         ],
-        "dateUsed": 1786068396
+        "dateUsed": 1786150346
     }
 }
