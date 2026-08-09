@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "zenith",
-        "pronunciation": "/ˈziːnɪθ/",
-        "partOfSpeech": "noun",
-        "definition": "The time at which something is most powerful or successful.",
+        "word": "Percipient",
+        "pronunciation": "/pərˈsɪpiənt/",
+        "partOfSpeech": "adjective",
+        "definition": "having a good understanding of things; perceptive.",
         "examples": [
-            "The actor was at the zenith of his career.",
-            "The company reached its zenith in the 1990s.",
-            "The civilization was at its zenith when it was conquered."
+            "Her percipient nature allowed her to quickly understand new concepts.",
+            "His percipient observations were appreciated by all.",
+            "As a percipient reader, she could easily understand the complex narrative."
         ],
-        "dateUsed": 1786150346
+        "dateUsed": 1786236937
     }
 }
