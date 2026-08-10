@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Percipient",
-        "pronunciation": "/pərˈsɪpiənt/",
-        "partOfSpeech": "adjective",
-        "definition": "having a good understanding of things; perceptive.",
+        "word": "Enervate",
+        "pronunciation": "/ˈɛnəveɪt/",
+        "partOfSpeech": "verb",
+        "definition": "cause (someone) to feel drained of energy or vitality; weaken.",
         "examples": [
-            "Her percipient nature allowed her to quickly understand new concepts.",
-            "His percipient observations were appreciated by all.",
-            "As a percipient reader, she could easily understand the complex narrative."
+            "The long hike enervated the group of friends.",
+            "The constant noise can enervate even the most patient person.",
+            "The long day of work left him feeling enervated."
         ],
-        "dateUsed": 1786236937
+        "dateUsed": 1786323460
     }
 }
