@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Enervate",
-        "pronunciation": "/ˈɛnəveɪt/",
-        "partOfSpeech": "verb",
-        "definition": "cause (someone) to feel drained of energy or vitality; weaken.",
+        "word": "loquacious",
+        "pronunciation": "/loʊˈkweɪʃəs/",
+        "partOfSpeech": "adjective",
+        "definition": "tending to talk a great deal; talkative",
         "examples": [
-            "The long hike enervated the group of friends.",
-            "The constant noise can enervate even the most patient person.",
-            "The long day of work left him feeling enervated."
+            "He was a loquacious and engaging speaker.",
+            "She was friendly and loquacious, always ready for a chat.",
+            "His loquacious nature made him a great salesman."
         ],
-        "dateUsed": 1786323460
+        "dateUsed": 1786409817
     }
 }
