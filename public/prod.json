@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "loquacious",
-        "pronunciation": "/loʊˈkweɪʃəs/",
+        "word": "jubilant",
+        "pronunciation": "/ˈdʒuːbɪlənt/",
         "partOfSpeech": "adjective",
-        "definition": "tending to talk a great deal; talkative",
+        "definition": "feeling or expressing great happiness and triumph",
         "examples": [
-            "He was a loquacious and engaging speaker.",
-            "She was friendly and loquacious, always ready for a chat.",
-            "His loquacious nature made him a great salesman."
+            "The fans were jubilant when their team won.",
+            "She was jubilant at the news of her promotion.",
+            "The room was filled with jubilant laughter."
         ],
-        "dateUsed": 1786409817
+        "dateUsed": 1786496624
     }
 }
