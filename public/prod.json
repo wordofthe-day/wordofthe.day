@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "jubilant",
-        "pronunciation": "/ˈdʒuːbɪlənt/",
-        "partOfSpeech": "adjective",
-        "definition": "feeling or expressing great happiness and triumph",
+        "word": "Yammer",
+        "pronunciation": "/ˈjæmər/",
+        "partOfSpeech": "verb",
+        "definition": "Make a loud repetitive noise.",
         "examples": [
-            "The fans were jubilant when their team won.",
-            "She was jubilant at the news of her promotion.",
-            "The room was filled with jubilant laughter."
+            "The children were yammering in the back seat.",
+            "He kept yammering on about his vacation.",
+            "The machine started yammering, signaling a malfunction."
         ],
-        "dateUsed": 1786496624
+        "dateUsed": 1786583103
     }
 }
