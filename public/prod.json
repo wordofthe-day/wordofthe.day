@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "whimsical",
-        "pronunciation": "/ˈ(h)wɪmzɪkəl/",
+        "word": "Xenophobic",
+        "pronunciation": "/ˌzenəˈfoʊbɪk/",
         "partOfSpeech": "adjective",
-        "definition": "playfully quaint or fanciful, especially in an appealing and amusing way",
+        "definition": "having or showing a dislike of or prejudice against people from other countries.",
         "examples": [
-            "A whimsical sense of humor.",
-            "Her whimsical paintings have gained a following.",
-            "He was known for his whimsical behavior."
+            "His xenophobic views were widely criticized.",
+            "The xenophobic comments were hurtful.",
+            "She was accused of promoting xenophobic attitudes."
         ],
-        "dateUsed": 1786669449
+        "dateUsed": 1786754328
     }
 }
