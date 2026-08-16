@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Xenophobic",
-        "pronunciation": "/ˌzenəˈfoʊbɪk/",
-        "partOfSpeech": "adjective",
-        "definition": "having or showing a dislike of or prejudice against people from other countries.",
+        "word": "alacrity",
+        "pronunciation": "/əˈlækrɪti/",
+        "partOfSpeech": "noun",
+        "definition": "brisk and cheerful readiness",
         "examples": [
-            "His xenophobic views were widely criticized.",
-            "The xenophobic comments were hurtful.",
-            "She was accused of promoting xenophobic attitudes."
+            "He accepted the invitation with alacrity.",
+            "Her alacrity of mind was always admired by her peers.",
+            "With an alacrity that surprised me, he agreed to help with the project."
         ],
-        "dateUsed": 1786754328
+        "dateUsed": 1786840820
     }
 }
