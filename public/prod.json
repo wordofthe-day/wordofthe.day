@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "alacrity",
-        "pronunciation": "/əˈlækrɪti/",
+        "word": "Yokel",
+        "pronunciation": "/ˈjoʊkəl/",
         "partOfSpeech": "noun",
-        "definition": "brisk and cheerful readiness",
+        "definition": "An uneducated and unsophisticated person from the countryside.",
         "examples": [
-            "He accepted the invitation with alacrity.",
-            "Her alacrity of mind was always admired by her peers.",
-            "With an alacrity that surprised me, he agreed to help with the project."
+            "He was dismissed as a yokel by the city dwellers.",
+            "Despite being a yokel, he had a keen understanding of nature.",
+            "He enjoyed the simple life of a yokel."
         ],
-        "dateUsed": 1786840820
+        "dateUsed": 1786927133
     }
 }
