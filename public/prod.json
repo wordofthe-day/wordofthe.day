@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Yokel",
-        "pronunciation": "/ˈjoʊkəl/",
+        "word": "zeitgeist",
+        "pronunciation": "/ˈtsaɪtgaɪst/",
         "partOfSpeech": "noun",
-        "definition": "An uneducated and unsophisticated person from the countryside.",
+        "definition": "the defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time",
         "examples": [
-            "He was dismissed as a yokel by the city dwellers.",
-            "Despite being a yokel, he had a keen understanding of nature.",
-            "He enjoyed the simple life of a yokel."
+            "The story captured the zeitgeist of the late 1960s.",
+            "His songs perfectly captured the zeitgeist of 1990s America.",
+            "The film was very much in the zeitgeist."
         ],
-        "dateUsed": 1786927133
+        "dateUsed": 1787013489
     }
 }
