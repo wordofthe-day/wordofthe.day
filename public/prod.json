@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "zeitgeist",
-        "pronunciation": "/ˈtsaɪtgaɪst/",
+        "word": "Impunity",
+        "pronunciation": "/ɪmˈpjuːnɪti/",
         "partOfSpeech": "noun",
-        "definition": "the defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time",
+        "definition": "Exemption from punishment or freedom from the injurious consequences of an action.",
         "examples": [
-            "The story captured the zeitgeist of the late 1960s.",
-            "His songs perfectly captured the zeitgeist of 1990s America.",
-            "The film was very much in the zeitgeist."
+            "The dictator ruled with impunity for many years.",
+            "They were stealing with impunity as the security cameras were broken.",
+            "The corrupt officials acted with impunity, knowing they were protected."
         ],
-        "dateUsed": 1787013489
+        "dateUsed": 1787099902
     }
 }
