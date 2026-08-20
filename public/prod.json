@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Impunity",
-        "pronunciation": "/ɪmˈpjuːnɪti/",
-        "partOfSpeech": "noun",
-        "definition": "Exemption from punishment or freedom from the injurious consequences of an action.",
+        "word": "Pernicious",
+        "pronunciation": "/pəːˈnɪʃəs/",
+        "partOfSpeech": "adjective",
+        "definition": "having a harmful effect, especially in a gradual or subtle way.",
         "examples": [
-            "The dictator ruled with impunity for many years.",
-            "They were stealing with impunity as the security cameras were broken.",
-            "The corrupt officials acted with impunity, knowing they were protected."
+            "The pernicious influence of the media on society is a widely debated topic.",
+            "The pernicious weed is destroying local plant life.",
+            "His pernicious habits were causing his health to decline."
         ],
-        "dateUsed": 1787099902
+        "dateUsed": 1787186309
     }
 }
