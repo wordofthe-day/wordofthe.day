@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Pernicious",
-        "pronunciation": "/pəːˈnɪʃəs/",
+        "word": "obdurate",
+        "pronunciation": "/ˈɒbdjʊrət/",
         "partOfSpeech": "adjective",
-        "definition": "having a harmful effect, especially in a gradual or subtle way.",
+        "definition": "stubbornly refusing to change one's opinion or course of action",
         "examples": [
-            "The pernicious influence of the media on society is a widely debated topic.",
-            "The pernicious weed is destroying local plant life.",
-            "His pernicious habits were causing his health to decline."
+            "The obdurate child refused to eat his vegetables.",
+            "Despite the evidence, he remained obdurate in his denial.",
+            "The obdurate leader refused to listen to his advisors."
         ],
-        "dateUsed": 1787186309
+        "dateUsed": 1787273151
     }
 }
