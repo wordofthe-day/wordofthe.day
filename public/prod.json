@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "obdurate",
-        "pronunciation": "/ˈɒbdjʊrət/",
+        "word": "Turgid",
+        "pronunciation": "/ˈtəːdʒɪd/",
         "partOfSpeech": "adjective",
-        "definition": "stubbornly refusing to change one's opinion or course of action",
+        "definition": "(of language or style) tediously pompous or bombastic.",
         "examples": [
-            "The obdurate child refused to eat his vegetables.",
-            "Despite the evidence, he remained obdurate in his denial.",
-            "The obdurate leader refused to listen to his advisors."
+            "His turgid speech bored the audience.",
+            "The novel was criticized for its turgid prose.",
+            "His writing style was unnecessarily turgid."
         ],
-        "dateUsed": 1787273151
+        "dateUsed": 1787359085
     }
 }
