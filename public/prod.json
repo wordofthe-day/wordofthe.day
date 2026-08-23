@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Turgid",
-        "pronunciation": "/ˈtəːdʒɪd/",
+        "word": "tenacious",
+        "pronunciation": "/təˈneɪʃəs/",
         "partOfSpeech": "adjective",
-        "definition": "(of language or style) tediously pompous or bombastic.",
+        "definition": "Tending to keep a firm hold of something; clinging or adhering closely.",
         "examples": [
-            "His turgid speech bored the audience.",
-            "The novel was criticized for its turgid prose.",
-            "His writing style was unnecessarily turgid."
+            "He is tenacious in his pursuit of excellence.",
+            "Her tenacious personality helped her succeed.",
+            "The team showed a tenacious defense."
         ],
-        "dateUsed": 1787359085
+        "dateUsed": 1787445697
     }
 }
