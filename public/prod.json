@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "tenacious",
-        "pronunciation": "/təˈneɪʃəs/",
+        "word": "sanguine",
+        "pronunciation": "/ˈsæŋɡwɪn/",
         "partOfSpeech": "adjective",
-        "definition": "Tending to keep a firm hold of something; clinging or adhering closely.",
+        "definition": "optimistic or positive, especially in an apparently bad or difficult situation",
         "examples": [
-            "He is tenacious in his pursuit of excellence.",
-            "Her tenacious personality helped her succeed.",
-            "The team showed a tenacious defense."
+            "Despite the challenges, he remained sanguine about the company's future.",
+            "She has a sanguine disposition, always looking for the positive.",
+            "Even in the face of defeat, he was sanguine."
         ],
-        "dateUsed": 1787445697
+        "dateUsed": 1787531996
     }
 }
