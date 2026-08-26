@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Taciturn",
-        "pronunciation": "/ˈtasɪtəːn/",
-        "partOfSpeech": "adjective",
-        "definition": "(of a person) reserved or uncommunicative in speech; saying little.",
+        "word": "Gambol",
+        "pronunciation": "/ˈɡambəl/",
+        "partOfSpeech": "verb",
+        "definition": "run or jump about playfully.",
         "examples": [
-            "The taciturn man rarely spoke at gatherings.",
-            "Her taciturn nature often made people think she was unfriendly.",
-            "Despite being taciturn, he was a good listener."
+            "The children were gamboling in the park.",
+            "The puppies gambol around their mother.",
+            "Watching the lambs gambol in the field was a cheerful sight."
         ],
-        "dateUsed": 1787618395
+        "dateUsed": 1787704817
     }
 }
