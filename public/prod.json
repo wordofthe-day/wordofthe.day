@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Gambol",
-        "pronunciation": "/ˈɡambəl/",
-        "partOfSpeech": "verb",
-        "definition": "run or jump about playfully.",
+        "word": "Zeppelin",
+        "pronunciation": "/ˈzɛplɪn/",
+        "partOfSpeech": "noun",
+        "definition": "A type of rigid airship named after the German Count Ferdinand von Zeppelin.",
         "examples": [
-            "The children were gamboling in the park.",
-            "The puppies gambol around their mother.",
-            "Watching the lambs gambol in the field was a cheerful sight."
+            "The zeppelin floated over the city.",
+            "He was fascinated by the history of zeppelins.",
+            "The crash of the zeppelin marked the end of an era."
         ],
-        "dateUsed": 1787704817
+        "dateUsed": 1787809497
     }
 }
