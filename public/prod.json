@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Zeppelin",
-        "pronunciation": "/ˈzɛplɪn/",
-        "partOfSpeech": "noun",
-        "definition": "A type of rigid airship named after the German Count Ferdinand von Zeppelin.",
+        "word": "cogitate",
+        "pronunciation": "/ˈkɒdʒ.ɪ.teɪt/",
+        "partOfSpeech": "verb",
+        "definition": "To think deeply about something; meditate or reflect.",
         "examples": [
-            "The zeppelin floated over the city.",
-            "He was fascinated by the history of zeppelins.",
-            "The crash of the zeppelin marked the end of an era."
+            "He's cogitating on whether to quit his job or not.",
+            "I need some time to cogitate before making a decision.",
+            "She quietly cogitated on the best course of action."
         ],
-        "dateUsed": 1787809497
+        "dateUsed": 1787903619
     }
 }
