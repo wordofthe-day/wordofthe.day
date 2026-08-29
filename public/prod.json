@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "cogitate",
-        "pronunciation": "/ˈkɒdʒ.ɪ.teɪt/",
-        "partOfSpeech": "verb",
-        "definition": "To think deeply about something; meditate or reflect.",
+        "word": "Impudent",
+        "pronunciation": "/ˈɪmpjʊd(ə)nt/",
+        "partOfSpeech": "adjective",
+        "definition": "not showing due respect for another person; impertinent.",
         "examples": [
-            "He's cogitating on whether to quit his job or not.",
-            "I need some time to cogitate before making a decision.",
-            "She quietly cogitated on the best course of action."
+            "The impudent student talked back to the teacher.",
+            "His impudent behavior was not appreciated at the formal event.",
+            "She was known for her impudent remarks."
         ],
-        "dateUsed": 1787903619
+        "dateUsed": 1787978789
     }
 }
