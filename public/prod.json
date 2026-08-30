@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Impudent",
-        "pronunciation": "/ˈɪmpjʊd(ə)nt/",
+        "word": "facetious",
+        "pronunciation": "/fəˈsiː.ʃəs/",
         "partOfSpeech": "adjective",
-        "definition": "not showing due respect for another person; impertinent.",
+        "definition": "Treating serious issues with deliberately inappropriate humor.",
         "examples": [
-            "The impudent student talked back to the teacher.",
-            "His impudent behavior was not appreciated at the formal event.",
-            "She was known for her impudent remarks."
+            "The comedian's facetious remarks about politics made the audience laugh.",
+            "His facetious comment did not amuse his stern teacher.",
+            "I was being facetious when I said I enjoyed doing house chores."
         ],
-        "dateUsed": 1787978789
+        "dateUsed": 1788056673
     }
 }
