@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "facetious",
-        "pronunciation": "/fəˈsiː.ʃəs/",
+        "word": "quaint",
+        "pronunciation": "/kweɪnt/",
         "partOfSpeech": "adjective",
-        "definition": "Treating serious issues with deliberately inappropriate humor.",
+        "definition": "Attractively unusual or old-fashioned.",
         "examples": [
-            "The comedian's facetious remarks about politics made the audience laugh.",
-            "His facetious comment did not amuse his stern teacher.",
-            "I was being facetious when I said I enjoyed doing house chores."
+            "We stayed at a quaint bed and breakfast in the countryside.",
+            "She lived in a quaint, red-brick house.",
+            "The town's quaint charm attracted many tourists."
         ],
-        "dateUsed": 1788056673
+        "dateUsed": 1788142765
     }
 }
