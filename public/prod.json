@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Feckless",
-        "pronunciation": "/ˈfɛkləs/",
+        "word": "Tacit",
+        "pronunciation": "/ˈtæsɪt/",
         "partOfSpeech": "adjective",
-        "definition": "Lacking initiative or strength of character; irresponsible.",
+        "definition": "understood or implied without being stated openly; unspoken.",
         "examples": [
-            "His feckless approach to his duties resulted in his dismissal.",
-            "The company's feckless management led to its downfall.",
-            "Despite his talent, his feckless attitude hampered his career."
+            "Your silence may be taken to mean tacit agreement.",
+            "There seemed to be a tacit understanding between them.",
+            "There was a tacit agreement not to raise the subject again."
         ],
-        "dateUsed": 1788230203
+        "dateUsed": 1788314285
     }
 }
