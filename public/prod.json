@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Tacit",
-        "pronunciation": "/ˈtæsɪt/",
-        "partOfSpeech": "adjective",
-        "definition": "understood or implied without being stated openly; unspoken.",
+        "word": "impinge",
+        "pronunciation": "/ɪmˈpɪndʒ/",
+        "partOfSpeech": "verb",
+        "definition": "have an effect or impact, especially a negative one",
         "examples": [
-            "Your silence may be taken to mean tacit agreement.",
-            "There seemed to be a tacit understanding between them.",
-            "There was a tacit agreement not to raise the subject again."
+            "The new regulations impinge on the rights of the citizens.",
+            "His constant interruptions began to impinge on my concentration.",
+            "The adverse weather conditions impinged upon our travel plans."
         ],
-        "dateUsed": 1788314285
+        "dateUsed": 1788400973
     }
 }
