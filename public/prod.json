@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "knack",
-        "pronunciation": "/nak/",
-        "partOfSpeech": "noun",
-        "definition": "an acquired or natural skill at performing a task",
+        "word": "Insolvent",
+        "pronunciation": "/ɪnˈsɒlvənt/",
+        "partOfSpeech": "adjective",
+        "definition": "unable to pay debts owed.",
         "examples": [
-            "He had a knack for making people laugh.",
-            "She had a knack for solving puzzles quickly.",
-            "Their grandmother had a knack for making delicious cookies."
+            "The company became insolvent due to poor financial management.",
+            "If you spend more than you earn, you will become insolvent.",
+            "The insolvent debtor filed for bankruptcy."
         ],
-        "dateUsed": 1788487133
+        "dateUsed": 1788573556
     }
 }
