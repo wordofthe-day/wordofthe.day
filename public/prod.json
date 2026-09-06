@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Insolvent",
-        "pronunciation": "/ɪnˈsɒlvənt/",
+        "word": "wistful",
+        "pronunciation": "/ˈwɪstfʊl/",
         "partOfSpeech": "adjective",
-        "definition": "unable to pay debts owed.",
+        "definition": "having or showing a feeling of vague or regretful longing",
         "examples": [
-            "The company became insolvent due to poor financial management.",
-            "If you spend more than you earn, you will become insolvent.",
-            "The insolvent debtor filed for bankruptcy."
+            "He had a wistful look on his face when he spoke of his childhood.",
+            "Her wistful tone revealed her longing for the past.",
+            "The song had a wistful melody that made everyone feel nostalgic."
         ],
-        "dateUsed": 1788573556
+        "dateUsed": 1788659672
     }
 }
