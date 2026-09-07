@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "wistful",
-        "pronunciation": "/ˈwɪstfʊl/",
+        "word": "Quintessential",
+        "pronunciation": "/kwɪnˌtɛˈsɛnʃəl/",
         "partOfSpeech": "adjective",
-        "definition": "having or showing a feeling of vague or regretful longing",
+        "definition": "Representing the most perfect or typical example of a quality or class.",
         "examples": [
-            "He had a wistful look on his face when he spoke of his childhood.",
-            "Her wistful tone revealed her longing for the past.",
-            "The song had a wistful melody that made everyone feel nostalgic."
+            "She is the quintessential artist, dedicating her life to her craft.",
+            "This dish is quintessential of this region's cuisine.",
+            "The book is a quintessential guide for beginners."
         ],
-        "dateUsed": 1788659672
+        "dateUsed": 1788745913
     }
 }
