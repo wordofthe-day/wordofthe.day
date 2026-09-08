@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Quintessential",
-        "pronunciation": "/kwɪnˌtɛˈsɛnʃəl/",
-        "partOfSpeech": "adjective",
-        "definition": "Representing the most perfect or typical example of a quality or class.",
+        "word": "maverick",
+        "pronunciation": "/ˈmævərɪk/",
+        "partOfSpeech": "noun",
+        "definition": "an independent-minded person",
         "examples": [
-            "She is the quintessential artist, dedicating her life to her craft.",
-            "This dish is quintessential of this region's cuisine.",
-            "The book is a quintessential guide for beginners."
+            "He was considered a maverick for his unorthodox teaching methods.",
+            "She's a maverick in the corporate world, unafraid to take risks.",
+            "His maverick behavior was not always appreciated by his peers."
         ],
-        "dateUsed": 1788745913
+        "dateUsed": 1788832980
     }
 }
