@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "maverick",
-        "pronunciation": "/ˈmævərɪk/",
+        "word": "Xenogenesis",
+        "pronunciation": "/ˌzenəˈjɛnəsɪs/",
         "partOfSpeech": "noun",
-        "definition": "an independent-minded person",
+        "definition": "the supposed generation of offspring completely and permanently different from the parent.",
         "examples": [
-            "He was considered a maverick for his unorthodox teaching methods.",
-            "She's a maverick in the corporate world, unafraid to take risks.",
-            "His maverick behavior was not always appreciated by his peers."
+            "Xenogenesis is a topic of interest in the study of evolution.",
+            "The concept of xenogenesis is found in some science fiction novels.",
+            "He was researching on xenogenesis for his project."
         ],
-        "dateUsed": 1788832980
+        "dateUsed": 1788919671
     }
 }
