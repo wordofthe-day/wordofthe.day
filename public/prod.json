@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Xenogenesis",
-        "pronunciation": "/ˌzenəˈjɛnəsɪs/",
-        "partOfSpeech": "noun",
-        "definition": "the supposed generation of offspring completely and permanently different from the parent.",
+        "word": "garrulous",
+        "pronunciation": "/ˈɡarʊləs/",
+        "partOfSpeech": "adjective",
+        "definition": "excessively talkative, especially on trivial matters",
         "examples": [
-            "Xenogenesis is a topic of interest in the study of evolution.",
-            "The concept of xenogenesis is found in some science fiction novels.",
-            "He was researching on xenogenesis for his project."
+            "The garrulous man dominated the conversation all evening.",
+            "She was known in the office for her garrulous nature.",
+            "Despite being garrulous, he was a good listener when needed."
         ],
-        "dateUsed": 1788919671
+        "dateUsed": 1789005895
     }
 }
