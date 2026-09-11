@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "garrulous",
-        "pronunciation": "/ˈɡarʊləs/",
+        "word": "Languid",
+        "pronunciation": "/ˈlaŋɡwɪd/",
         "partOfSpeech": "adjective",
-        "definition": "excessively talkative, especially on trivial matters",
+        "definition": "(of a person, manner, or gesture) displaying or having a disinclination for physical exertion or effort; slow and relaxed.",
         "examples": [
-            "The garrulous man dominated the conversation all evening.",
-            "She was known in the office for her garrulous nature.",
-            "Despite being garrulous, he was a good listener when needed."
+            "After a long day of work, he was languid and tired.",
+            "The hot weather made everyone feel languid and lazy.",
+            "She had a languid approach to life."
         ],
-        "dateUsed": 1789005895
+        "dateUsed": 1789092131
     }
 }
