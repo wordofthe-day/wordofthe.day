@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "effervescent",
-        "pronunciation": "/ˌef.ɚˈves.ənt/",
+        "word": "Maudlin",
+        "pronunciation": "/ˈmɔːdlɪn/",
         "partOfSpeech": "adjective",
-        "definition": "Vivacious and enthusiastic.",
+        "definition": "self-pityingly or tearfully sentimental, often through drunkenness.",
         "examples": [
-            "She's an effervescent personality that lights up the room.",
-            "The effervescent bubbles in the champagne made me feel festive.",
-            "His effervescent enthusiasm was infectious."
+            "The movie's maudlin ending made everyone cry.",
+            "He becomes maudlin after a few drinks.",
+            "The song's maudlin lyrics made her feel emotional."
         ],
-        "dateUsed": 1789178841
+        "dateUsed": 1789265036
     }
 }
