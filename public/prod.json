@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Maudlin",
-        "pronunciation": "/ˈmɔːdlɪn/",
+        "word": "Ludicrous",
+        "pronunciation": "/ˈluːdɪkrəs/",
         "partOfSpeech": "adjective",
-        "definition": "self-pityingly or tearfully sentimental, often through drunkenness.",
+        "definition": "so foolish, unreasonable, or out of place as to be amusing; ridiculous.",
         "examples": [
-            "The movie's maudlin ending made everyone cry.",
-            "He becomes maudlin after a few drinks.",
-            "The song's maudlin lyrics made her feel emotional."
+            "His suggestion was absolutely ludicrous.",
+            "The idea of a flying car is somewhat ludicrous.",
+            "In hindsight, her fears were rather ludicrous."
         ],
-        "dateUsed": 1789265036
+        "dateUsed": 1789352476
     }
 }
