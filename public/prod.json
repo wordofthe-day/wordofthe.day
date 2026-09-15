@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Ludicrous",
-        "pronunciation": "/ˈluːdɪkrəs/",
+        "word": "Kinetic",
+        "pronunciation": "/kɪˈnɛtɪk/",
         "partOfSpeech": "adjective",
-        "definition": "so foolish, unreasonable, or out of place as to be amusing; ridiculous.",
+        "definition": "Relating to or resulting from motion.",
         "examples": [
-            "His suggestion was absolutely ludicrous.",
-            "The idea of a flying car is somewhat ludicrous.",
-            "In hindsight, her fears were rather ludicrous."
+            "The kinetic energy of an object is the energy that it possesses due to its motion.",
+            "His work blended kinetic and visual elements.",
+            "The sculpture had a kinetic component that moved in the wind."
         ],
-        "dateUsed": 1789352476
+        "dateUsed": 1789439210
     }
 }
