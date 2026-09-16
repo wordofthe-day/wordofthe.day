@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Kinetic",
-        "pronunciation": "/kɪˈnɛtɪk/",
+        "word": "ubiquitous",
+        "pronunciation": "/juːˈbɪkwɪtəs/",
         "partOfSpeech": "adjective",
-        "definition": "Relating to or resulting from motion.",
+        "definition": "present, appearing, or found everywhere",
         "examples": [
-            "The kinetic energy of an object is the energy that it possesses due to its motion.",
-            "His work blended kinetic and visual elements.",
-            "The sculpture had a kinetic component that moved in the wind."
+            "His ubiquitous influence was felt by all the family.",
+            "She is one of the ubiquitous media personalities.",
+            "The mobile phone has become ubiquitous in modern culture."
         ],
-        "dateUsed": 1789439210
+        "dateUsed": 1789525234
     }
 }
