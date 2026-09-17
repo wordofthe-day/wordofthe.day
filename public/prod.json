@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "ubiquitous",
-        "pronunciation": "/juːˈbɪkwɪtəs/",
+        "word": "lucid",
+        "pronunciation": "/ˈluːsɪd/",
         "partOfSpeech": "adjective",
-        "definition": "present, appearing, or found everywhere",
+        "definition": "expressed clearly; easy to understand",
         "examples": [
-            "His ubiquitous influence was felt by all the family.",
-            "She is one of the ubiquitous media personalities.",
-            "The mobile phone has become ubiquitous in modern culture."
+            "Her lucid explanation helped everyone understand the complex concept.",
+            "He was known for his lucid writing style.",
+            "The teacher gave a lucid demonstration of the experiment."
         ],
-        "dateUsed": 1789525234
+        "dateUsed": 1789611881
     }
 }
