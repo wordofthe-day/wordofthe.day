@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "lucid",
-        "pronunciation": "/ˈluːsɪd/",
+        "word": "kinetic",
+        "pronunciation": "/kɪˈnɛtɪk/",
         "partOfSpeech": "adjective",
-        "definition": "expressed clearly; easy to understand",
+        "definition": "relating to motion",
         "examples": [
-            "Her lucid explanation helped everyone understand the complex concept.",
-            "He was known for his lucid writing style.",
-            "The teacher gave a lucid demonstration of the experiment."
+            "The kinetic sculpture moved in the wind.",
+            "The experiment demonstrated the conversion of potential energy into kinetic energy.",
+            "Kinetic art relies on movement for its effect."
         ],
-        "dateUsed": 1789611881
+        "dateUsed": 1789697401
     }
 }
