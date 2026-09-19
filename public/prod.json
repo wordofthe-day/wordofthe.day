@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "kinetic",
-        "pronunciation": "/kɪˈnɛtɪk/",
-        "partOfSpeech": "adjective",
-        "definition": "relating to motion",
+        "word": "trepidation",
+        "pronunciation": "/ˌtrɛpɪˈdeɪʃən/",
+        "partOfSpeech": "noun",
+        "definition": "a feeling of fear or agitation about something that may happen",
         "examples": [
-            "The kinetic sculpture moved in the wind.",
-            "The experiment demonstrated the conversion of potential energy into kinetic energy.",
-            "Kinetic art relies on movement for its effect."
+            "The men set off in fear and trepidation.",
+            "We view the future with trepidation.",
+            "He had some trepidation about agreeing to their proposal."
         ],
-        "dateUsed": 1789697401
+        "dateUsed": 1789784012
     }
 }
