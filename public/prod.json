@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "trepidation",
-        "pronunciation": "/ˌtrɛpɪˈdeɪʃən/",
+        "word": "paradox",
+        "pronunciation": "/ˈpærəˌdɒks/",
         "partOfSpeech": "noun",
-        "definition": "a feeling of fear or agitation about something that may happen",
+        "definition": "a seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true",
         "examples": [
-            "The men set off in fear and trepidation.",
-            "We view the future with trepidation.",
-            "He had some trepidation about agreeing to their proposal."
+            "It's a curious paradox that drinking a lot of water can often make you feel thirsty.",
+            "The paradox is that the region's most dynamic economies have the most primitive financial systems.",
+            "In a paradox, he has discovered that stepping back from his job has increased the rewards he gleans from it."
         ],
-        "dateUsed": 1789784012
+        "dateUsed": 1789870889
     }
 }
