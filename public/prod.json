@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "paradox",
-        "pronunciation": "/ˈpærəˌdɒks/",
-        "partOfSpeech": "noun",
-        "definition": "a seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true",
+        "word": "whimsical",
+        "pronunciation": "/ˈwɪmzɪkəl/",
+        "partOfSpeech": "adjective",
+        "definition": "Playfully quaint or fanciful, especially in an appealing and amusing way.",
         "examples": [
-            "It's a curious paradox that drinking a lot of water can often make you feel thirsty.",
-            "The paradox is that the region's most dynamic economies have the most primitive financial systems.",
-            "In a paradox, he has discovered that stepping back from his job has increased the rewards he gleans from it."
+            "She wore a whimsical hat.",
+            "His whimsical illustrations are loved by children.",
+            "The movie is full of whimsical characters."
         ],
-        "dateUsed": 1789870889
+        "dateUsed": 1789957220
     }
 }
