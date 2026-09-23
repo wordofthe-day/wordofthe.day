@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "dystopia",
-        "pronunciation": "/dɪsˈtoʊpiə/",
-        "partOfSpeech": "noun",
-        "definition": "an imagined state or society where there is great suffering or injustice",
+        "word": "jovial",
+        "pronunciation": "/ˈdʒəʊvɪəl/",
+        "partOfSpeech": "adjective",
+        "definition": "cheerful and friendly",
         "examples": [
-            "The novel presents a dystopia where technology has reduced humans to mere machines.",
-            "His vision of the future is a dystopia, with the world in ruins.",
-            "The film explores a dystopia where the government controls every aspect of life."
+            "His jovial nature made him popular in the office.",
+            "She has a jovial personality that makes her a great party host.",
+            "Despite the stress, she remained jovial and positive."
         ],
-        "dateUsed": 1790043849
+        "dateUsed": 1790130252
     }
 }
