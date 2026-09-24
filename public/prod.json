@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "jovial",
-        "pronunciation": "/ˈdʒəʊvɪəl/",
+        "word": "Frivolous",
+        "pronunciation": "/ˈfrɪvələs/",
         "partOfSpeech": "adjective",
-        "definition": "cheerful and friendly",
+        "definition": "not having any serious purpose or value.",
         "examples": [
-            "His jovial nature made him popular in the office.",
-            "She has a jovial personality that makes her a great party host.",
-            "Despite the stress, she remained jovial and positive."
+            "He regarded fashion as frivolous.",
+            "His frivolous comments were not well received during the meeting.",
+            "She was known for her frivolous spending habits."
         ],
-        "dateUsed": 1790130252
+        "dateUsed": 1790215952
     }
 }
