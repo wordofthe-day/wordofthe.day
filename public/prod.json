@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Frivolous",
-        "pronunciation": "/ˈfrɪvələs/",
+        "word": "zealous",
+        "pronunciation": "/ˈzeləs/",
         "partOfSpeech": "adjective",
-        "definition": "not having any serious purpose or value.",
+        "definition": "Having or showing zeal.",
         "examples": [
-            "He regarded fashion as frivolous.",
-            "His frivolous comments were not well received during the meeting.",
-            "She was known for her frivolous spending habits."
+            "He was zealous in his pursuit of justice.",
+            "She is a zealous advocate for animal rights.",
+            "Their zealous admiration for the leader was evident."
         ],
-        "dateUsed": 1790215952
+        "dateUsed": 1790303362
     }
 }
