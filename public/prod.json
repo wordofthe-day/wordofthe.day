@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "zealous",
-        "pronunciation": "/ˈzeləs/",
+        "word": "stoic",
+        "pronunciation": "/ˈstəʊɪk/",
         "partOfSpeech": "adjective",
-        "definition": "Having or showing zeal.",
+        "definition": "Enduring pain and hardship without showing one's feelings or complaining.",
         "examples": [
-            "He was zealous in his pursuit of justice.",
-            "She is a zealous advocate for animal rights.",
-            "Their zealous admiration for the leader was evident."
+            "He was stoic in the face of adversity.",
+            "She remained stoic, despite the loss.",
+            "Her stoic acceptance of her fate was admirable."
         ],
-        "dateUsed": 1790303362
+        "dateUsed": 1790389946
     }
 }
