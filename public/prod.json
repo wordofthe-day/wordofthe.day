@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "stoic",
-        "pronunciation": "/ˈstəʊɪk/",
-        "partOfSpeech": "adjective",
-        "definition": "Enduring pain and hardship without showing one's feelings or complaining.",
+        "word": "fathom",
+        "pronunciation": "/ˈfaðəm/",
+        "partOfSpeech": "verb",
+        "definition": "understand after much thought",
         "examples": [
-            "He was stoic in the face of adversity.",
-            "She remained stoic, despite the loss.",
-            "Her stoic acceptance of her fate was admirable."
+            "He couldn't fathom why she was upset.",
+            "It took me a while to fathom the complex equation.",
+            "Even the experts were unable to fathom the cause of the incident."
         ],
-        "dateUsed": 1790389946
+        "dateUsed": 1790476218
     }
 }
