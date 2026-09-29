@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "nostalgia",
-        "pronunciation": "/nɒˈstaldʒə/",
-        "partOfSpeech": "noun",
-        "definition": "A sentimental longing or wistful affection for the past, typically for a period or place with happy personal associations.",
+        "word": "Pulverize",
+        "pronunciation": "/ˈpʌlvəˌraɪz/",
+        "partOfSpeech": "verb",
+        "definition": "Reduce to fine particles.",
         "examples": [
-            "I felt a wave of nostalgia as I stepped into my old high school.",
-            "He was filled with nostalgia for his childhood.",
-            "The movie evokes a sense of nostalgia for the 1980s."
+            "The rock was pulverized into fine dust.",
+            "The machine was used to pulverize the concrete.",
+            "The spices were pulverized before being added to the dish."
         ],
-        "dateUsed": 1790562829
+        "dateUsed": 1790651776
     }
 }
