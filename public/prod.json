@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Pulverize",
-        "pronunciation": "/ˈpʌlvəˌraɪz/",
-        "partOfSpeech": "verb",
-        "definition": "Reduce to fine particles.",
+        "word": "Aplomb",
+        "pronunciation": "/əˈplɒm/",
+        "partOfSpeech": "noun",
+        "definition": "self-confidence or assurance, especially when in a demanding situation.",
         "examples": [
-            "The rock was pulverized into fine dust.",
-            "The machine was used to pulverize the concrete.",
-            "The spices were pulverized before being added to the dish."
+            "Despite the intense pressure, he handled the situation with aplomb.",
+            "Her aplomb in dealing with criticism is admirable.",
+            "In the face of adversity, he showed great aplomb."
         ],
-        "dateUsed": 1790651776
+        "dateUsed": 1790737130
     }
 }
