@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Aplomb",
-        "pronunciation": "/əˈplɒm/",
-        "partOfSpeech": "noun",
-        "definition": "self-confidence or assurance, especially when in a demanding situation.",
+        "word": "jocund",
+        "pronunciation": "/ˈdʒɒk.ənd/",
+        "partOfSpeech": "adjective",
+        "definition": "Cheerful and lighthearted.",
         "examples": [
-            "Despite the intense pressure, he handled the situation with aplomb.",
-            "Her aplomb in dealing with criticism is admirable.",
-            "In the face of adversity, he showed great aplomb."
+            "The room was full of jocund company, making the party a success.",
+            "His jocund personality always made us feel welcome.",
+            "The jocund music set a happy tone for the event."
         ],
-        "dateUsed": 1790737130
+        "dateUsed": 1790823916
     }
 }
