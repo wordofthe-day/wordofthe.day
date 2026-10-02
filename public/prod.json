@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "jocund",
-        "pronunciation": "/ˈdʒɒk.ənd/",
+        "word": "Idyllic",
+        "pronunciation": "/aɪˈdɪlɪk/",
         "partOfSpeech": "adjective",
-        "definition": "Cheerful and lighthearted.",
+        "definition": "Extremely happy, peaceful, or picturesque.",
         "examples": [
-            "The room was full of jocund company, making the party a success.",
-            "His jocund personality always made us feel welcome.",
-            "The jocund music set a happy tone for the event."
+            "The village had an idyllic charm, with its peaceful fields and cottages.",
+            "They spent an idyllic summer at the beach.",
+            "The painting depicted an idyllic rural scene."
         ],
-        "dateUsed": 1790823916
+        "dateUsed": 1790910445
     }
 }
