@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Idyllic",
-        "pronunciation": "/aɪˈdɪlɪk/",
-        "partOfSpeech": "adjective",
-        "definition": "Extremely happy, peaceful, or picturesque.",
+        "word": "gumption",
+        "pronunciation": "/ˈɡʌmpʃən/",
+        "partOfSpeech": "noun",
+        "definition": "shrewd or spirited initiative and resourcefulness",
         "examples": [
-            "The village had an idyllic charm, with its peaceful fields and cottages.",
-            "They spent an idyllic summer at the beach.",
-            "The painting depicted an idyllic rural scene."
+            "She had the gumption to stand up for her rights.",
+            "He admired her gumption and determination.",
+            "It took a lot of gumption to start a new business in this economy."
         ],
-        "dateUsed": 1790910445
+        "dateUsed": 1790996052
     }
 }
