@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "gumption",
-        "pronunciation": "/ˈɡʌmpʃən/",
+        "word": "Zephyr",
+        "pronunciation": "/ˈzɛfər/",
         "partOfSpeech": "noun",
-        "definition": "shrewd or spirited initiative and resourcefulness",
+        "definition": "a soft gentle breeze.",
         "examples": [
-            "She had the gumption to stand up for her rights.",
-            "He admired her gumption and determination.",
-            "It took a lot of gumption to start a new business in this economy."
+            "The zephyr rustled the leaves in the trees.",
+            "She enjoyed the zephyr blowing through her hair.",
+            "The cool zephyr was a relief from the hot sun."
         ],
-        "dateUsed": 1790996052
+        "dateUsed": 1791084219
     }
 }
