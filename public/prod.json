@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Zephyr",
-        "pronunciation": "/ˈzɛfər/",
+        "word": "Zealot",
+        "pronunciation": "/ˈzɛlət/",
         "partOfSpeech": "noun",
-        "definition": "a soft gentle breeze.",
+        "definition": "A person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals.",
         "examples": [
-            "The zephyr rustled the leaves in the trees.",
-            "She enjoyed the zephyr blowing through her hair.",
-            "The cool zephyr was a relief from the hot sun."
+            "He was a zealot when it came to protecting the environment.",
+            "His zealotry often got him into trouble.",
+            "Despite being a zealot, he was open to hearing different perspectives."
         ],
-        "dateUsed": 1791084219
+        "dateUsed": 1791169261
     }
 }
