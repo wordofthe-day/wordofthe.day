@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "solitude",
-        "pronunciation": "/ˈsɒlɪtjuːd/",
+        "word": "Vexation",
+        "pronunciation": "/vɛkˈseɪʃən/",
         "partOfSpeech": "noun",
-        "definition": "The state or situation of being alone.",
+        "definition": "The state of being annoyed, frustrated, or worried.",
         "examples": [
-            "She enjoyed the solitude of her garden.",
-            "He went to the mountains in search of solitude.",
-            "The solitude of the desert was a shock after the hustle and bustle of the city."
+            "He slammed the door in vexation.",
+            "The constant interruptions were a source of vexation.",
+            "After hours of trying, he finally solved the puzzle to his great vexation."
         ],
-        "dateUsed": 1791258606
+        "dateUsed": 1791343074
     }
 }
