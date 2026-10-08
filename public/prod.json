@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Vexation",
-        "pronunciation": "/vɛkˈseɪʃən/",
+        "word": "Camaraderie",
+        "pronunciation": "/kəˈmɑːrədəri/",
         "partOfSpeech": "noun",
-        "definition": "The state of being annoyed, frustrated, or worried.",
+        "definition": "Mutual trust and friendship among people who spend a lot of time together.",
         "examples": [
-            "He slammed the door in vexation.",
-            "The constant interruptions were a source of vexation.",
-            "After hours of trying, he finally solved the puzzle to his great vexation."
+            "The camaraderie among the team members contributed to their success.",
+            "They've developed a camaraderie after years of working together.",
+            "Despite the hard conditions, soldiers often form a deep camaraderie."
         ],
-        "dateUsed": 1791343074
+        "dateUsed": 1791430402
     }
 }
