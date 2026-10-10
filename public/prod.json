@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "pulchritude",
-        "pronunciation": "/ˈpʌlkrɪtjuːd/",
-        "partOfSpeech": "noun",
-        "definition": "beauty",
+        "word": "Recalcitrant",
+        "pronunciation": "/rɪˈkalsɪtrənt/",
+        "partOfSpeech": "adjective",
+        "definition": "having an obstinately uncooperative attitude towards authority or discipline.",
         "examples": [
-            "The pulchritude of the garden was breathtaking.",
-            "She was a woman of great pulchritude and grace.",
-            "His paintings captured the pulchritude of the natural world."
+            "The recalcitrant child refused to do his homework.",
+            "The officials had a hard time dealing with the recalcitrant protestors.",
+            "His recalcitrant attitude towards the rules resulted in his expulsion from the school."
         ],
-        "dateUsed": 1791517128
+        "dateUsed": 1791602410
     }
 }
