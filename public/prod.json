@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Recalcitrant",
-        "pronunciation": "/rɪˈkalsɪtrənt/",
+        "word": "kinetic",
+        "pronunciation": "/kɪˈnɛtɪk/",
         "partOfSpeech": "adjective",
-        "definition": "having an obstinately uncooperative attitude towards authority or discipline.",
+        "definition": "relating to or resulting from motion",
         "examples": [
-            "The recalcitrant child refused to do his homework.",
-            "The officials had a hard time dealing with the recalcitrant protestors.",
-            "His recalcitrant attitude towards the rules resulted in his expulsion from the school."
+            "The kinetic energy of a falling object.",
+            "He has a kinetic personality that really draws people.",
+            "The painting is filled with kinetic energy."
         ],
-        "dateUsed": 1791602410
+        "dateUsed": 1791687207
     }
 }
