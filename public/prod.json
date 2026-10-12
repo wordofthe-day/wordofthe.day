@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "kinetic",
-        "pronunciation": "/kɪˈnɛtɪk/",
-        "partOfSpeech": "adjective",
-        "definition": "relating to or resulting from motion",
+        "word": "Cacophony",
+        "pronunciation": "/kəˈkɒfəni/",
+        "partOfSpeech": "noun",
+        "definition": "a harsh, discordant mixture of sounds.",
         "examples": [
-            "The kinetic energy of a falling object.",
-            "He has a kinetic personality that really draws people.",
-            "The painting is filled with kinetic energy."
+            "The cacophony of the city made it hard for me to sleep.",
+            "The orchestra tuning their instruments created a temporary cacophony.",
+            "The cacophony of the construction site was distracting."
         ],
-        "dateUsed": 1791687207
+        "dateUsed": 1791774993
     }
 }
