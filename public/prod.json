@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Cacophony",
-        "pronunciation": "/kəˈkɒfəni/",
-        "partOfSpeech": "noun",
-        "definition": "a harsh, discordant mixture of sounds.",
+        "word": "halcyon",
+        "pronunciation": "/ˈhalsɪən/",
+        "partOfSpeech": "adjective",
+        "definition": "denoting a period of time in the past that was idyllically happy and peaceful",
         "examples": [
-            "The cacophony of the city made it hard for me to sleep.",
-            "The orchestra tuning their instruments created a temporary cacophony.",
-            "The cacophony of the construction site was distracting."
+            "She looked back on her halcyon days with nostalgia.",
+            "The country enjoyed a halcyon era of peace and prosperity.",
+            "His halcyon memories of childhood brought a smile to his face."
         ],
-        "dateUsed": 1791774993
+        "dateUsed": 1791865900
     }
 }
