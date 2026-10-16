@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "stalwart",
-        "pronunciation": "/ˈstɔːlwət/",
-        "partOfSpeech": "adjective",
-        "definition": "loyal, reliable, and hardworking",
+        "word": "anguish",
+        "pronunciation": "/ˈæŋɡwɪʃ/",
+        "partOfSpeech": "noun",
+        "definition": "severe mental or physical pain or suffering",
         "examples": [
-            "He has always been a stalwart supporter of the cause.",
-            "Despite the challenges, she remained a stalwart advocate for equality.",
-            "The stalwart soldier defended the post until the very end."
+            "She shut her eyes in anguish.",
+            "The anguish of the bereaved parents was heartbreaking.",
+            "He suffered the anguish of watching his son leave home."
         ],
-        "dateUsed": 1792030854
+        "dateUsed": 1792116814
     }
 }
