@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "anguish",
-        "pronunciation": "/ˈæŋɡwɪʃ/",
+        "word": "reverie",
+        "pronunciation": "/ˈrɛvəri/",
         "partOfSpeech": "noun",
-        "definition": "severe mental or physical pain or suffering",
+        "definition": "A state of being pleasantly lost in one's thoughts; a daydream.",
         "examples": [
-            "She shut her eyes in anguish.",
-            "The anguish of the bereaved parents was heartbreaking.",
-            "He suffered the anguish of watching his son leave home."
+            "He was snapped out of his reverie by the sound of the bell.",
+            "She spent the afternoon in a pleasant reverie.",
+            "Lost in reverie, he did not notice her approach."
         ],
-        "dateUsed": 1792116814
+        "dateUsed": 1792202815
     }
 }
