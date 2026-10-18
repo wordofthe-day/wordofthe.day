@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "reverie",
-        "pronunciation": "/ˈrɛvəri/",
+        "word": "juxtaposition",
+        "pronunciation": "/ˌʤʌkstəpəˈzɪʃən/",
         "partOfSpeech": "noun",
-        "definition": "A state of being pleasantly lost in one's thoughts; a daydream.",
+        "definition": "the fact of two things being seen or placed close together with contrasting effect",
         "examples": [
-            "He was snapped out of his reverie by the sound of the bell.",
-            "She spent the afternoon in a pleasant reverie.",
-            "Lost in reverie, he did not notice her approach."
+            "The juxtaposition of these two images",
+            "The juxtaposition of the old and new buildings is interesting.",
+            "Black-and-white photos of slums were starkly juxtaposed with color images."
         ],
-        "dateUsed": 1792202815
+        "dateUsed": 1792289197
     }
 }
