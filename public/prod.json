@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "juxtaposition",
-        "pronunciation": "/ˌʤʌkstəpəˈzɪʃən/",
-        "partOfSpeech": "noun",
-        "definition": "the fact of two things being seen or placed close together with contrasting effect",
+        "word": "obstreperous",
+        "pronunciation": "/əbˈstrɛpərəs/",
+        "partOfSpeech": "adjective",
+        "definition": "noisy and difficult to control",
         "examples": [
-            "The juxtaposition of these two images",
-            "The juxtaposition of the old and new buildings is interesting.",
-            "Black-and-white photos of slums were starkly juxtaposed with color images."
+            "The obstreperous child was causing a scene in the store.",
+            "The obstreperous crowd demanded a refund for the cancelled concert.",
+            "The class became obstreperous when the teacher left the room."
         ],
-        "dateUsed": 1792289197
+        "dateUsed": 1792376581
     }
 }
