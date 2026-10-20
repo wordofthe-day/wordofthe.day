@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "obstreperous",
-        "pronunciation": "/əbˈstrɛpərəs/",
+        "word": "Gregarious",
+        "pronunciation": "/ɡrɪˈɡeəriəs/",
         "partOfSpeech": "adjective",
-        "definition": "noisy and difficult to control",
+        "definition": "Fond of company; sociable.",
         "examples": [
-            "The obstreperous child was causing a scene in the store.",
-            "The obstreperous crowd demanded a refund for the cancelled concert.",
-            "The class became obstreperous when the teacher left the room."
+            "She was a gregarious person who loved parties.",
+            "His gregarious nature made him popular in school.",
+            "Even though he was a gregarious individual, he also enjoyed solitude."
         ],
-        "dateUsed": 1792376581
+        "dateUsed": 1792463782
     }
 }
