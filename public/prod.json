@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "Taciturn",
-        "pronunciation": "/ˈtæsɪˌtɜrn/",
+        "word": "obstinate",
+        "pronunciation": "/ˈɒbstɪnɪt/",
         "partOfSpeech": "adjective",
-        "definition": "(Of a person) reserved or uncommunicative in speech; saying little.",
+        "definition": "stubbornly refusing to change one's opinion or chosen course of action, despite attempts to persuade one to do so",
         "examples": [
-            "He was a taciturn man, rarely engaging in conversation.",
-            "Her taciturn nature often made people uncomfortable.",
-            "Despite being taciturn, he was a good listener."
+            "He is known for his obstinate determination.",
+            "She can be as obstinate as a mule.",
+            "He's obstinate and won't listen to reason."
         ],
-        "dateUsed": 1792636018
+        "dateUsed": 1792722703
     }
 }
