@@ -1,14 +1,14 @@
 {
     "eng": {
-        "word": "obstinate",
-        "pronunciation": "/ˈɒbstɪnɪt/",
+        "word": "quixotic",
+        "pronunciation": "/kwɪkˈsɒtɪk/",
         "partOfSpeech": "adjective",
-        "definition": "stubbornly refusing to change one's opinion or chosen course of action, despite attempts to persuade one to do so",
+        "definition": "exceedingly idealistic, unrealistic and impractical",
         "examples": [
-            "He is known for his obstinate determination.",
-            "She can be as obstinate as a mule.",
-            "He's obstinate and won't listen to reason."
+            "His quixotic quest for love was both amusing and sad.",
+            "Her quixotic ambitions often led her to undertake unfeasible tasks.",
+            "Their business plan was quixotic and lacked practicality."
         ],
-        "dateUsed": 1792722703
+        "dateUsed": 1792809015
     }
 }
